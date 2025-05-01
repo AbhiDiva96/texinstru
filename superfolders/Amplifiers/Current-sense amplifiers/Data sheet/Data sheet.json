@@ -1,0 +1,602 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3170",
+    "name": "Current-sense amplifiers"
+  },
+  "docType": {
+    "value": "2",
+    "name": "Data sheet"
+  },
+  "totalPDFs": 117,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "INA20x-Q1 Automotive Grade, –16V to +80V, Low-Side or High-Side, High-Speed, Voltage-Output, Current-Sense Amp datasheet (Rev. D)"
+    },
+    {
+      "title": "INA20x-Q1 Automotive Grade, –16V to +80V, Low-Side or High-Side, High-Speed, Voltage-Output, Current-Sense Amp datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos558",
+      "size": "1348"
+    },
+    {
+      "title": "INA950-SEP 2.7V to 80V, 1.1MHz, Ultra-Precise, Current-Sense                Amplifier datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosak8",
+      "size": "1766"
+    },
+    {
+      "title": "INA233 36V, 16-Bit, Ultra-Precise I2 C and PMBus Output Current, Voltage, Power,        and Energy Monitor With Alert datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos790",
+      "size": "1649"
+    },
+    {
+      "title": "INA230 36V, 16-Bit, I2 C Output Current, Voltage and Power Monitor With Alert datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos601",
+      "size": "1724"
+    },
+    {
+      "title": "INA750x      –4V to 110V,      Bidirectional, Ultra-Precise,  Current Sense Amplifier With Enhanced PWM Rejection and 35A EZShunt      Technology datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosae5",
+      "size": "2373"
+    },
+    {
+      "title": "INA790x      –4V to 110V,      Bidirectional, Ultra-Precise,  Current Sense Amplifier With Enhanced PWM Rejection and 75A EZShunt      Technology datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosaa6",
+      "size": "2456"
+    },
+    {
+      "title": "INA296x         –5V to 110V,        Bidirectional, 1.1MHz, 8V/μs,         Ultra-Precise Current Sense Amplifier datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa04",
+      "size": "2596"
+    },
+    {
+      "title": "INA241x         –5V to 110V,        Bidirectional,         Ultra-Precise Current Sense Amplifier With Enhanced PWM        Rejection datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa30",
+      "size": "2970"
+    },
+    {
+      "title": "INA241x-Q1         AEC-Q100,  –5V to 110V,        Bidirectional,         Ultra-Precise Current Sense Amplifier With Enhanced PWM        Rejection datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa31",
+      "size": "3341"
+    },
+    {
+      "title": "INA296x-Q1         AEC-Q100,  –5V to 110V,        Bidirectional, 1.1MHz, 8V/μs,         Ultra-Precise Current Sense Amplifier datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa32",
+      "size": "2936"
+    },
+    {
+      "title": "INAx181-Q1 Automotive, Bidirectional,  Low- and High-Side Voltage Output,  Current-Sense Amplifiers datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys018",
+      "size": "2438"
+    },
+    {
+      "title": "INA226-Q1 AEC-Q100, 36V, 16-Bit,            Ultra-Precise, I2C Output Current, Voltage, and Power Monitor With Alert datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos743",
+      "size": "1505"
+    },
+    {
+      "title": "INA226         36V, 16-Bit, Ultra-Precise I2C Output Current,            Voltage, and Power Monitor With Alert datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos547",
+      "size": "1444"
+    },
+    {
+      "title": "INA4230 48V, Quad Channel, 16-Bit, Current, Voltage, Power, and Energy Monitor With an I2C Interface datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosad4",
+      "size": "1349"
+    },
+    {
+      "title": "INA4235 48V, Quad Channel, 16-Bit, Ultra - Precise, Current, Voltage, Power, and Energy Monitor With an I2C In datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosab5",
+      "size": "1380"
+    },
+    {
+      "title": "INA791x      –4V to 110V,      Bidirectional, Ultra-Precise, High        Bandwidth Current Sense Amplifier With  75A EZShunt      Technology datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosad1",
+      "size": "1419"
+    },
+    {
+      "title": "INA185-Q1 AEC-Q100,                                26V, 350kHz, Bidirectional, High-Precision Current Sense                                Amplifier datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosai2",
+      "size": "1231"
+    },
+    {
+      "title": "INA780x         85 V ,            16 -Bit, Precision         I2C Output Digital Power Monitor with EZShunt Technology datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosab6",
+      "size": "2551"
+    },
+    {
+      "title": "INA740x         85 V ,            16 -Bit, Precision         I2C Output Digital Power Monitor with EZShunt Technology datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosac1",
+      "size": "2332"
+    },
+    {
+      "title": "INA745x         40 V ,            16 -Bit, Precision         I2C Output Digital Power Monitor with EZShunt Technology datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosac3",
+      "size": "2381"
+    },
+    {
+      "title": "INAx181 Bidirectional,Low- and High-Side Voltage Output,Current-Sense Amplifiers datasheet (Rev. H)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos793",
+      "size": "2562"
+    },
+    {
+      "title": "INA185 26-V, 350-kHz, Bidirectional, High-Precision Current    Sense Amplifier in Ultra-Small (SOT-563) Package datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos378",
+      "size": "1686"
+    },
+    {
+      "title": "INA21x-Q1 Automotive-Grade, Voltage Output, Low-Side or High-Side Measurement, Bidirectional, Zero-Drift Series, Current-Shunt Monitors datasheet (Rev. K)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos475",
+      "size": "1520"
+    },
+    {
+      "title": "INA21x Voltage Output, Low- or High-Side Measurement, Bidirectional,Zero-Drift Series, Current-Shunt Monitors datasheet (Rev. K)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos437",
+      "size": "1550"
+    },
+    {
+      "title": "INA281, –4-V to 110-V, 1.3-MHz Current-Sense Amplifier datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa29",
+      "size": "1317"
+    },
+    {
+      "title": "INA199 26-V, Bidirectional, Zero-Drift, Low- or High-Side,Voltage-Output, Current-Shunt Monitor datasheet (Rev. H)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos469",
+      "size": "1409"
+    },
+    {
+      "title": "INA700 40 V, 16-Bit, I2C Output Digital Power Monitor in WCSP with 2 mΩ EZShunt Technology    datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosab4",
+      "size": "2022"
+    },
+    {
+      "title": "INA250-Q1 AEC-Q100, 36-V, Bidirectional, Precision Current Sense Amplifier With                Integrated Shunt Resistor    datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos805",
+      "size": "1758"
+    },
+    {
+      "title": "INA250 36-V, Bidirectional, Precision Current Sense Amplifier With Integrated Shunt        Resistor    datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos511",
+      "size": "1767"
+    },
+    {
+      "title": "INA236    48-V, 16-Bit, Ultra-Precise, Current, Voltage, and Power Monitor With an I2C    Interface    datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa81",
+      "size": "1916"
+    },
+    {
+      "title": "INA310x-Q1        AEC-Q100, –4 V to 110 V, 1.3 MHz, Ultra-Precise        Current Sense Amplifier With Open-Drain Comparator and Reference    datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosad3",
+      "size": "1851"
+    },
+    {
+      "title": "INA234    28-V, 12-Bit,  Current, Voltage, and Power Monitor With an I2C    Interface    datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos844",
+      "size": "1878"
+    },
+    {
+      "title": "INA254 80-V, High-Voltage, ±75-A Integrated                Precision Shunt, Bidirectional, Zero-Drift Current-Shunt Monitor    datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos974",
+      "size": "1851"
+    },
+    {
+      "title": "INA310x –4 V to 110 V, 1.3 MHz, Ultra-Precise Current Sense    Amplifier With Open-Drain Comparator and Reference    datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa86",
+      "size": "1843"
+    },
+    {
+      "title": "INA232    48-V, 16-Bit,  Current, Voltage, and Power Monitor With an I2C    Interface datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosaa2",
+      "size": "1618"
+    },
+    {
+      "title": "INA293 –4 V to 110 V, 1.3-MHz, Ultra-Precise Current Sense        Amplifier datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos470",
+      "size": "1432"
+    },
+    {
+      "title": "INA293-Q1, AEC-Q100, –4 V to 110 V, 1.3-MHz, Ultra-Precise Current Sense        Amplifier datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos870",
+      "size": "1431"
+    },
+    {
+      "title": "INAx180 Low- and High-Side Voltage Output, Current-Sense Amplifiers datasheet (Rev. H)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos741",
+      "size": "3009"
+    },
+    {
+      "title": "INAx180-Q1 Automotive, Low- and High-Side Voltage Output, Current-Sense Amplifiers datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys017",
+      "size": "1928"
+    },
+    {
+      "title": "INA231 28-V, 16-Bit, I2C Output Current, Voltage and Power Monitor With Alert in        WCSP Package datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos644",
+      "size": "1319"
+    },
+    {
+      "title": "INA190-EP Bidirectional, Low-Power, Zero-Drift, Wide Dynamic Range, Precision Current Sense Amp With Enable datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa74",
+      "size": "1772"
+    },
+    {
+      "title": "INA228        85-V,            20-Bit, Ultra-Precise Power/Energy/Charge Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys021",
+      "size": "2377"
+    },
+    {
+      "title": "INA237        85-V,            16-Bit, Precision Power Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa20",
+      "size": "2126"
+    },
+    {
+      "title": "INA229        85-V,            20-Bit, Ultra-Precise Power/Energy/Charge Monitor With SPI Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys023",
+      "size": "2415"
+    },
+    {
+      "title": "INA239        85-V,            16-Bit, High-Precision Power Monitor With SPI Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys027",
+      "size": "2225"
+    },
+    {
+      "title": "INA238        85-V,            16-Bit, High-Precision Power Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys025",
+      "size": "2151"
+    },
+    {
+      "title": "LMP8645, LMP8645HV Precision High Voltage Current Sense Amplifier datasheet (Rev. H)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosb29",
+      "size": "1628"
+    },
+    {
+      "title": "INA301-Q1 36-V, Automotive, High-Speed, Zero-Drift, Voltage-Output Current-Shunt Monitor With High-Speed, Overcurrent Protection Comparator datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos786",
+      "size": "1977"
+    },
+    {
+      "title": "INA186-Q1 AEC-Q100, 40-V, Bidirectional,            High-Precision Current Sense Amplifier With picoamp IB and ENABLE datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos386",
+      "size": "1855"
+    },
+    {
+      "title": "INA190-Q1            AEC-Q100, 40-V, Bidirectional,                  Ultra-Precise Current Sense Amplifier With picoamp IB and ENABLE datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos871",
+      "size": "1709"
+    },
+    {
+      "title": "INA300-Q1INA300-Q1 Automotive-Grade, Overcurrent-Protection, Current-Sense Comparator datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos764",
+      "size": "2623"
+    },
+    {
+      "title": "INA240 –4-V to 80-V, Bidirectional,        Ultra-Precise Current Sense Amplifier With Enhanced PWM Rejection datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos662",
+      "size": "1841"
+    },
+    {
+      "title": "INA240-Q1 AEC-Q100, –4-V to 80-V, Bidirectional,        Ultra-Precise Current Sense Amplifier With Enhanced PWM Rejection datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos808",
+      "size": "1892"
+    },
+    {
+      "title": "INAx191 40-V, Bidirectional, Ultra-Precise Current Sense Amplifier With picoamp IB                and ENABLE in WCSP Package    datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys020",
+      "size": "1649"
+    },
+    {
+      "title": "INA186 Bidirectional, Low-Power, Zero-Drift, Wide            Dynamic Range,  Current-Sense Amplifier With            Enable datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos318",
+      "size": "1897"
+    },
+    {
+      "title": "INA229-Q1        AEC-Q100, 85-V,            20-Bit, Ultra-Precise Power/Energy/Charge Monitor With SPI Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys024",
+      "size": "2916"
+    },
+    {
+      "title": "INA237-Q1        AEC-Q100, 85-V,            16-Bit, Precision Power Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa27",
+      "size": "2687"
+    },
+    {
+      "title": "INA238-Q1        AEC-Q100, 85-V,            16-Bit, High-Precision Power Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys026",
+      "size": "2711"
+    },
+    {
+      "title": "INA239-Q1        AEC-Q100, 85-V,            16-Bit, High-Precision Power Monitor With SPI Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys028",
+      "size": "2753"
+    },
+    {
+      "title": "INA228-Q1        AEC-Q100, 85-V,            20-Bit, Ultra-Precise Power/Energy/Charge Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys022",
+      "size": "2886"
+    },
+    {
+      "title": "INAx290 2.7-V to 120-V, 1.1-MHz, Ultra-Precise Current Sense Amplifier datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos961",
+      "size": "2500"
+    },
+    {
+      "title": "INA300 Overcurrent-Protection, Current-Sense Comparator datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos613",
+      "size": "2282"
+    },
+    {
+      "title": "INA20x –16-V to 80-V, 500-kHz Current Sense Amplifier With Dual Comparators datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos393",
+      "size": "1988"
+    },
+    {
+      "title": "INA30x-Q1 AEC-Q100,                                 36-V, Bidirectional, 550-kHz, 4V/µs, High-Precision Current                                Sense Amplifier With Dual Window Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos977",
+      "size": "1735"
+    },
+    {
+      "title": "INA199-Q1 Automotive, 26-V, Bidirectional, Zero-Drift, Low-Side or High-Side,  Voltage-Output, Current-Shunt Monitor datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos781",
+      "size": "1787"
+    },
+    {
+      "title": "INA381-Q1 AEC-Q100, 26-V, 350-kHz Current Sense Amplifier With Integrated Overcurrent Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys041",
+      "size": "2336"
+    },
+    {
+      "title": "INA3221-Q1AEC-Q100, 26-V, Triple Channel, 13-Bit, I2C Output                                    Current and Voltage Monitor With Alerts datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos776",
+      "size": "2105"
+    },
+    {
+      "title": "INA225-Q1 AEC-Q100, 36-V, Bidirectional Current Sense Amplifier With Four Pin-Selectable        Gain Settings datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos728",
+      "size": "2412"
+    },
+    {
+      "title": "INA183 2.7-V to 26-V, High-Precision Current Sense Amplifier datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa08",
+      "size": "1437"
+    },
+    {
+      "title": "INA28x-Q1 Automotive Grade, –14-V to +80-V, Bidirectional, High Accuracy,  Low- or High-Side, Voltage Output, Current Shunt Monitor datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos554",
+      "size": "1547"
+    },
+    {
+      "title": "INA19xA-Q1 Current Shunt Monitors –16-V to 80-V Common-Mode Range datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos366",
+      "size": "1742"
+    },
+    {
+      "title": "INA280-Q1AEC-Q100, 2.7-V to 120-V,        1.1-MHz, High Precision Current Sense Amplifier in Small (SC-70) Package datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa48",
+      "size": "1796"
+    },
+    {
+      "title": "INA290-Q1    AEC-Q100, 2.7-V to 120-V, 1.1-MHz, Ultra-Precise Current    Sense Amplifier datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos995",
+      "size": "1849"
+    },
+    {
+      "title": "INA281-Q1 AEC-Q100, –4-V to 110-V, 1.3-MHz Current-Sense Amplifier datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa01",
+      "size": "1858"
+    },
+    {
+      "title": "INA280 2.7-V to 120-V, 1.1-MHz, High Precision Current Sense Amplifier datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa19",
+      "size": "1297"
+    },
+    {
+      "title": "INA901-SP Radiation Hardened, –15-V to 65-V Common\t Mode,\t Unidirectional Current-Shunt Monitor datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos938",
+      "size": "565"
+    },
+    {
+      "title": "INA253-Q1 AEC-Q100, 80-V, Bidirectional, Precision Current Sense Amplifier With PWM                Rejection and Integrated Shunt Resistor datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos950",
+      "size": "1458"
+    },
+    {
+      "title": "INA190 Bidirectional,\t Low-Power, Zero-Drift, Wide Dynamic Range, \t Precision Current-Sense Amplifier With Enable datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos863",
+      "size": "1501"
+    },
+    {
+      "title": "INA381 26-V, High-Speed, Current Sense Amplifier With\t Integrated Comparator datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos848",
+      "size": "2589"
+    },
+    {
+      "title": "INA30x 36-V, Overcurrent Protection, Precision,\t \t Current-Sense Amplifiers With Dual Integrated Comparators datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos775",
+      "size": "1037"
+    },
+    {
+      "title": "INA253 High Voltage, Bidirectional, Zero-Drift,\t Current-Shunt Monitor\t With Integrated, 2-mΩ, Precision, Low Inductive Shunt Resistor datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos954",
+      "size": "1054"
+    },
+    {
+      "title": "INA1x8-Q1 Automotive-Grade, High-Side,\t Current-Output, Current-Shunt Monitor datasheet (Rev. J)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls174",
+      "size": "1720"
+    },
+    {
+      "title": "INA27x Voltage Output, Unidirectional\n\t Measurement Current-Shunt Monitor datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos381",
+      "size": "707"
+    },
+    {
+      "title": "INA1x8 High-Side Measurement Current Shunt\n\t Monitor  datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos122",
+      "size": "1180"
+    },
+    {
+      "title": "INA20x High-Side Measurement Current-Shunt\n\t Monitor\n\t With Open-Drain Comparator and Reference datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos374",
+      "size": "1108"
+    },
+    {
+      "title": "INA1x9 High-Side Measurement Current Shunt\n\t Monitor  datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos181",
+      "size": "1175"
+    },
+    {
+      "title": "LMP848x Precision 76-V High-Side Current Sense\n\t Amplifiers With Voltage Output datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvs829",
+      "size": "2702"
+    },
+    {
+      "title": "LMP848x-Q1 Automotive, 76-V, High-Side,\n\t High-Speed, Current-Sense Amplifier datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvsal6",
+      "size": "2697"
+    },
+    {
+      "title": "INA260\n\t Precision Digital Current and Power Monitor With Low-Drift, Precision Integrated Shunt datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos656",
+      "size": "1230"
+    },
+    {
+      "title": "INA203-Q1 Automotive Grade, –16 V to +80 V, Low-\n\t or High-Side, High-Speed, Voltage Output Current Shunt Monitor With Dual Comparators and\n\t Reference datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos539",
+      "size": "1372"
+    },
+    {
+      "title": "LMP860x, LMP860x-Q1 60-V, Bidirectional, Low- or\n\t High-Side, Voltage-Output,\n\t Current-Sensing Amplifiers datasheet (Rev. H)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosar2",
+      "size": "1648"
+    },
+    {
+      "title": "INA27xA-Q1 Automotive Grade, –16V to +80V, Low-\n\t or High-side, High-Speed, Voltage Output Current Sense Amplifier With Simplified Filter\n\t Inputs datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos401",
+      "size": "576"
+    },
+    {
+      "title": "INA220-Q1 Automotive Grade,\n\t 26-V, Bi-Directional, Zero-Drift,\n\t Low- or High-Side, I2C-Compatible Current/Power Monitor datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos785",
+      "size": "1354"
+    },
+    {
+      "title": "INA3221\n\t Triple-Channel, High-Side Measurement,\n\t Shunt and Bus Voltage Monitor with I2C- and SMBUS-Compatible\n\t Interface datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos576",
+      "size": "1966"
+    },
+    {
+      "title": "INA301 36-V, High-Speed, Zero-Drift,\n            Voltage-Output, Current-Shunt Monitor with High-Speed, Overcurrent\n        Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos713",
+      "size": "829"
+    },
+    {
+      "title": "INA1x9-Q1 Automotive-Grade, High-Side,\n\t Current-Output, Current-Shunt Monitor datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls185",
+      "size": "1419"
+    },
+    {
+      "title": "bq500100\n\t 20-V, High-Side Current Sensor for Wireless Charging datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos765",
+      "size": "457"
+    },
+    {
+      "title": "INA220 High- or Low-Side,\n\t Bidirectional Current and Power Monitor\n\t With Two-Wire Interface datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos459",
+      "size": "1467"
+    },
+    {
+      "title": "INA20x Unidirectional Measurement Current-Shunt\n\t Monitor With Dual Comparators datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos360",
+      "size": "1574"
+    },
+    {
+      "title": "INA28x High-Accuracy, Wide Common-Mode Range, Bidirectional Current Shunt Monitors, Zero-Drift Series datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos485",
+      "size": "1047"
+    },
+    {
+      "title": "INA19x Current Shunt Monitor −16 V to +80 V\n\t Common-Mode Range datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos307",
+      "size": "870"
+    },
+    {
+      "title": "LMP92064 Precision Low-Side, 125-kSps Simultaneous Sampling, Current Sensor and Voltage Monitor With SPI datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoscx0",
+      "size": "799"
+    },
+    {
+      "title": "LMP8646 Precision Current Limiter datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosc63",
+      "size": "1664"
+    },
+    {
+      "title": "LMP8640/-Q1/HV Precision High Voltage Current Sense Amplifiers datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosb28",
+      "size": "1018"
+    },
+    {
+      "title": "INA219 Zerø-Drift, Bidirectional Current/Power\n\t Monitor With I2C Interface datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos448",
+      "size": "834"
+    },
+    {
+      "title": "INA225 36-V, Programmable-Gain, Voltage-Output, Bidirectional, Zero-Drift Series,  Current-Shunt Monitor datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos612",
+      "size": "1264"
+    },
+    {
+      "title": "Current Shunt Monitor -16 V to 80 V Common-Mode Range datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos400",
+      "size": "1153"
+    },
+    {
+      "title": "Voltage Output, Unidirectional Measurement Current-Shunt Monitor datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos521",
+      "size": "470"
+    },
+    {
+      "title": "System Power Measurement IC with PMBus datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvs784",
+      "size": "512"
+    },
+    {
+      "title": "System Power Measurement IC with PMBus. datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvs785",
+      "size": "517"
+    },
+    {
+      "title": "LM5056/LM5056A High Voltage System Power Measurement Device with PMBus datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvs827",
+      "size": "963"
+    },
+    {
+      "title": "LMP8278Q High Mode, 14 x Gain, Precision Sensing Amplifier datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snas575",
+      "size": "614"
+    },
+    {
+      "title": "Analog Output Current Shunt and Voltage Instantaneous Power Monitor datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos528",
+      "size": "1846"
+    },
+    {
+      "title": "Small Size, Low-Power, Unidirectional CURRENT SHUNT MONITOR datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos503",
+      "size": "583"
+    },
+    {
+      "title": "High-Side Measurement, Bi-Directional Current/Power Monitor with I2C Interface datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos403",
+      "size": "1850"
+    },
+    {
+      "title": "High-Side, Bidirectional Current Shunt Monitor datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos193",
+      "size": "889"
+    }
+  ]
+}

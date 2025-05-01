@@ -1,0 +1,597 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3170",
+    "name": "Current-sense amplifiers"
+  },
+  "docType": {
+    "value": "13",
+    "name": "Radiation & reliability report"
+  },
+  "totalPDFs": 116,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "TLV1812-EP Enhanced Product Qualification and Reliability Report"
+    },
+    {
+      "title": "TLV1812-EP Enhanced Product Qualification and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snok017",
+      "size": "210"
+    },
+    {
+      "title": "INA950-SEP Total Ionizing Dose (TID) Report (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok101",
+      "size": "1118"
+    },
+    {
+      "title": "INA950-SEP Single-Event Effects (SEE) Radiation Test Report (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok103",
+      "size": "842"
+    },
+    {
+      "title": "LMP2012QML-SP Neutron Displacement Damage Characterization (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snok002",
+      "size": "18106"
+    },
+    {
+      "title": "INA950-SEP Production Flow and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok104",
+      "size": "252"
+    },
+    {
+      "title": "OPA4H199-SP Single-Event Effects (SEE) Radiation Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok092",
+      "size": "3085"
+    },
+    {
+      "title": "TLV4H290-SEP Single-Event Effects (SEE) Radiation Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok019",
+      "size": "1397"
+    },
+    {
+      "title": "TLV4Hx90-SEP Production Flow and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok024",
+      "size": "289"
+    },
+    {
+      "title": "TLV4H290-SEP Radiation Tolerant High-Speed Comparator TID Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok022",
+      "size": "1714"
+    },
+    {
+      "title": "OPA4H199-SP Total Ionizing Dose (TID) Radiation Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok093",
+      "size": "13906"
+    },
+    {
+      "title": "OPA4H199-SP Neutron Displacement Damage (NDD) Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok091",
+      "size": "3700"
+    },
+    {
+      "title": "LMP7704-SP SEE Report (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa62",
+      "size": "1633"
+    },
+    {
+      "title": "LMP7704-SP Neutron Displacement Damage Characterization",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snok005",
+      "size": "1484"
+    },
+    {
+      "title": "LMP7704-SP Total Ionizing Dose (TID)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa52",
+      "size": "7977"
+    },
+    {
+      "title": "TLV3603-EP Qualification and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snok011",
+      "size": "243"
+    },
+    {
+      "title": "TLV1704-SEP Single-Event Effects (SEE) Radiation Report (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok014",
+      "size": "977"
+    },
+    {
+      "title": "TLV1H103-SEP Radiation Tolerant High-Speed Comparator TID Report (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok018",
+      "size": "1383"
+    },
+    {
+      "title": "TLV1H103-SEP Production Flow and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok021",
+      "size": "287"
+    },
+    {
+      "title": "OPA4H014-SEP Single Event Latchup Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok052",
+      "size": "2125"
+    },
+    {
+      "title": "TLV1H103-SEP Neutron Displacement Damage (NDD) Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok088",
+      "size": "829"
+    },
+    {
+      "title": "TLV1H103-SEP Single-Event Effects (SEE) Radiation Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok017",
+      "size": "1421"
+    },
+    {
+      "title": "Single-Event Effects Test Report of the INA901-SP",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok045",
+      "size": "1019"
+    },
+    {
+      "title": "OPA4H014-SEP Neutron Displacement Damage Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok049",
+      "size": "1359"
+    },
+    {
+      "title": "OPA4H014-SEP Production Flow and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok050",
+      "size": "343"
+    },
+    {
+      "title": "OPA4H014-SEP Total Ionizing Dose Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok051",
+      "size": "2493"
+    },
+    {
+      "title": "TLV3012-EP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok072",
+      "size": "239"
+    },
+    {
+      "title": "LMH5485-SEP Production Flow and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok054",
+      "size": "267"
+    },
+    {
+      "title": "OPA4991-EP Enhanced Product Qualification and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok069",
+      "size": "239"
+    },
+    {
+      "title": "OPA4H199-SEP Single-Event Latch-Up (SEL) Radiation Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok070",
+      "size": "448"
+    },
+    {
+      "title": "OPA4H199-SEP Production Flow and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok068",
+      "size": "286"
+    },
+    {
+      "title": "OPA4H199-SEP Total Ionizing Dose (TID) Radiation Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok067",
+      "size": "5026"
+    },
+    {
+      "title": "LM139AQML-SP Neutron Displacement Damage (NDD) Characterization",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvk065",
+      "size": "1007"
+    },
+    {
+      "title": "TLV1704-SEP Neutron Displacement Damage (NDD) Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvk096",
+      "size": "1723"
+    },
+    {
+      "title": "OPA3S2859-EP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok060",
+      "size": "236"
+    },
+    {
+      "title": "LM158QML-SP Neutron Displacement Damage (NDD) Characterization",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvk056",
+      "size": "1210"
+    },
+    {
+      "title": "INA901-SP Total Ionizing Dose (TID Report)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok043",
+      "size": "606"
+    },
+    {
+      "title": "INA901-SP Neutron Displacement Damage Characterization (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok037",
+      "size": "654"
+    },
+    {
+      "title": "LM239A-EP quad differential comparator reliability report (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sclk004",
+      "size": "649"
+    },
+    {
+      "title": "TLV1704-SEP Production Flow and Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa279",
+      "size": "583"
+    },
+    {
+      "title": "OPA2356-EP reliability report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok039",
+      "size": "506"
+    },
+    {
+      "title": "TLV1704-SEP Radiation Hardened microPower Quad Comparator Plastic TID Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok013",
+      "size": "2238"
+    },
+    {
+      "title": "OPA830-EP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok033",
+      "size": "55"
+    },
+    {
+      "title": "TL331MDBVREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slck002",
+      "size": "53"
+    },
+    {
+      "title": "Single-Event Effects Test Report for OPA4277-SP High-Precision Operational Ampli",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok031",
+      "size": "2517"
+    },
+    {
+      "title": "OPA4277-SP Total Ionizing Dose (TID) Radiation Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa265",
+      "size": "952"
+    },
+    {
+      "title": "OPA170ASDRLTEP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok030",
+      "size": "53"
+    },
+    {
+      "title": "OPA2314ASDRBTEP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok026",
+      "size": "50"
+    },
+    {
+      "title": "LM2902KAVQPWREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk074",
+      "size": "181"
+    },
+    {
+      "title": "LM2902KAVMPWREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk075",
+      "size": "181"
+    },
+    {
+      "title": "THS4271MDGNREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk070",
+      "size": "181"
+    },
+    {
+      "title": "OPA2211MDRGTEP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok025",
+      "size": "181"
+    },
+    {
+      "title": "TLE2144MDWREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok011",
+      "size": "155"
+    },
+    {
+      "title": "TLC372MDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk063",
+      "size": "156"
+    },
+    {
+      "title": "OPA2277MDTEP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok023",
+      "size": "155"
+    },
+    {
+      "title": "BiCOM3X PNP Low Dose Rate TID Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa277",
+      "size": "202"
+    },
+    {
+      "title": "THS4511MW-QMLV and THS4513MW-QMLV Radiation Test Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa240",
+      "size": "77"
+    },
+    {
+      "title": "THS4511 SEE Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa241",
+      "size": "512"
+    },
+    {
+      "title": "LM139-SP ELDRS Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa245",
+      "size": "1431"
+    },
+    {
+      "title": "THS4304-SP Radiation Test Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa255",
+      "size": "74"
+    },
+    {
+      "title": "INA193AMDBVREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sprk050",
+      "size": "32"
+    },
+    {
+      "title": "OPA2227MDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sprk052",
+      "size": "34"
+    },
+    {
+      "title": "OPA365AMDBVTEP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sprk027",
+      "size": "35"
+    },
+    {
+      "title": "OPA549MKVC Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sprk028",
+      "size": "35"
+    },
+    {
+      "title": "OPA211MDGKTEP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgzk033",
+      "size": "30"
+    },
+    {
+      "title": "LM293MDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgzk026",
+      "size": "43"
+    },
+    {
+      "title": "THS4521HKJ_HKQ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgzk011",
+      "size": "31"
+    },
+    {
+      "title": "OPA2333HD Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgzk003",
+      "size": "32"
+    },
+    {
+      "title": "THS4521HD Reliability Report (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok010",
+      "size": "32"
+    },
+    {
+      "title": "INA128HD Reliability Report (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok009",
+      "size": "32"
+    },
+    {
+      "title": "TLC3702MDREP Reliability Report (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk036",
+      "size": "44"
+    },
+    {
+      "title": "LT1014DMDWREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk049",
+      "size": "44"
+    },
+    {
+      "title": "THS4032MDGNREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk051",
+      "size": "30"
+    },
+    {
+      "title": "TLE2022AQDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk052",
+      "size": "44"
+    },
+    {
+      "title": "OPA211SHKJ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk040",
+      "size": "31"
+    },
+    {
+      "title": "OPA211SHKQ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk041",
+      "size": "31"
+    },
+    {
+      "title": "OPA2333SHKJ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk042",
+      "size": "31"
+    },
+    {
+      "title": "OPA2333SJD Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk043",
+      "size": "31"
+    },
+    {
+      "title": "LMP2012WGLLQMLV ELDRS Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa192",
+      "size": "2237"
+    },
+    {
+      "title": "LMP2012QML SEE Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa193",
+      "size": "2620"
+    },
+    {
+      "title": "LMP2012QML ELDRS Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa194",
+      "size": "2232"
+    },
+    {
+      "title": "INA129MDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk034",
+      "size": "41"
+    },
+    {
+      "title": "LM7171AMxFLQMLV ELDRS Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa185",
+      "size": "1567"
+    },
+    {
+      "title": "LM6172AMGWRLQV ELDRS Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa186",
+      "size": "1630"
+    },
+    {
+      "title": "LMH6628xFQMLV 300-krad TID Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa188",
+      "size": "62"
+    },
+    {
+      "title": "LMH6702xFQMLV ELDRS Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa189",
+      "size": "832"
+    },
+    {
+      "title": "LM193AxRLQMLV ELDRS Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa173",
+      "size": "1102"
+    },
+    {
+      "title": "LM158AxRLQMLV ELDRS Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa174",
+      "size": "1490"
+    },
+    {
+      "title": "LM158AxRLQMLV SET Data",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa175",
+      "size": "385"
+    },
+    {
+      "title": "LM119xRLQMLV ELDRS Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa168",
+      "size": "405"
+    },
+    {
+      "title": "LM124AxRLQMLV ELDRS Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa169",
+      "size": "1090"
+    },
+    {
+      "title": "LM124AxRLQMLV SET Testing",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa170",
+      "size": "2315"
+    },
+    {
+      "title": "LM139AxRLQMLV ELDRS Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa171",
+      "size": "1102"
+    },
+    {
+      "title": "LM139AxRLQMLV ELDRS SET Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa172",
+      "size": "821"
+    },
+    {
+      "title": "LF411MWGRLWQMLV TID Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa166",
+      "size": "339"
+    },
+    {
+      "title": "LM111xRLQMLV ELDRS Characterization Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa167",
+      "size": "405"
+    },
+    {
+      "title": "INA149AMDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk018",
+      "size": "41"
+    },
+    {
+      "title": "LM211MDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk019",
+      "size": "41"
+    },
+    {
+      "title": "INA129SHKJ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk025",
+      "size": "41"
+    },
+    {
+      "title": "INA129SHKQ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk026",
+      "size": "41"
+    },
+    {
+      "title": "INA129SJD Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk027",
+      "size": "41"
+    },
+    {
+      "title": "INA271SHKJ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk028",
+      "size": "41"
+    },
+    {
+      "title": "INA271SHKQ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk029",
+      "size": "41"
+    },
+    {
+      "title": "INA333SHKJ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk030",
+      "size": "41"
+    },
+    {
+      "title": "INA333SHKQ Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk031",
+      "size": "41"
+    },
+    {
+      "title": "INA333SJD Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk032",
+      "size": "41"
+    },
+    {
+      "title": "INA159AMDGKTEP Reliability Report  (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok022",
+      "size": "41"
+    },
+    {
+      "title": "TLV2254AQDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok008",
+      "size": "54"
+    },
+    {
+      "title": "TLE2022AQDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok005",
+      "size": "53"
+    },
+    {
+      "title": "THS4503MDGNREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok006",
+      "size": "54"
+    },
+    {
+      "title": "TL074QDREP  Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok004",
+      "size": "30"
+    },
+    {
+      "title": "THS3201MDGNREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slok002",
+      "size": "47"
+    },
+    {
+      "title": "OPA340MDBVTEP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok014",
+      "size": "43"
+    },
+    {
+      "title": "TLE2021QDREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk004",
+      "size": "55"
+    },
+    {
+      "title": "TLV3011AMDBVREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbok015",
+      "size": "31"
+    },
+    {
+      "title": "OPA333AMDCKREP Reliability Report",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sglk002",
+      "size": "44"
+    }
+  ]
+}

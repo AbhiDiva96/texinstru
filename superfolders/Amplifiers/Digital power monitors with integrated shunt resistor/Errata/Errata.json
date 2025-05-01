@@ -1,0 +1,16 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "12347",
+    "name": "Digital power monitors with integrated shunt resistor"
+  },
+  "docType": {
+    "value": "3",
+    "name": "Errata"
+  },
+  "totalPDFs": 0,
+  "pdfs": []
+}

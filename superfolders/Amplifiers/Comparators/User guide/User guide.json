@@ -1,0 +1,16 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "50002",
+    "name": "Comparators"
+  },
+  "docType": {
+    "value": "6",
+    "name": "User guide"
+  },
+  "totalPDFs": 0,
+  "pdfs": []
+}

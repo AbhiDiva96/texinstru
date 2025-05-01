@@ -1,0 +1,767 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "50002",
+    "name": "Comparators"
+  },
+  "docType": {
+    "value": "2",
+    "name": "Data sheet"
+  },
+  "totalPDFs": 150,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "TLV3511 6ns High-Speed Comparator with Rail-to-Rail Input datasheet (Rev. A)"
+    },
+    {
+      "title": "TLV3511 6ns High-Speed Comparator with Rail-to-Rail Input datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdj9",
+      "size": "1099"
+    },
+    {
+      "title": "LM3302 Quad Differential Comparator datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs014",
+      "size": "976"
+    },
+    {
+      "title": "LM339B, LM2901B, LM339, LM239, LM139, LM2901 Quad Differential Comparators datasheet (Rev. Y)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs006",
+      "size": "2421"
+    },
+    {
+      "title": "TLC3702-EP Dual Micropower LinCMOS Voltage        Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls127",
+      "size": "1074"
+    },
+    {
+      "title": "TLV183x and TLV184x Family of 40V, High-Speed Comparators datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdg5",
+      "size": "1897"
+    },
+    {
+      "title": "TLV902x and TLV903x Precision  Comparator Family datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosda3",
+      "size": "5688"
+    },
+    {
+      "title": "TL331B-Q1, TL391B-Q1 and TL331-Q1 Automotive Single Comparators datasheet (Rev. H)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvs969",
+      "size": "1064"
+    },
+    {
+      "title": "TLV3011 -Q1 , TLV3012 -Q1 , TLV3011B -Q1 and TLV3012B -Q1 Low-Power Comparators With                Integrated 1.24V Voltage Reference datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos551",
+      "size": "1395"
+    },
+    {
+      "title": "TLV192x Family of 65V Comparators with        Integrated 2.5V Voltage Reference datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdg9",
+      "size": "1954"
+    },
+    {
+      "title": "TLV323x -Q1 20ns High-Speed Comparator with Rail-to-Rail Input datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdk2",
+      "size": "1094"
+    },
+    {
+      "title": "TLV183x -Q1 and TLV184x -Q1 Family of 40V, High-Speed Comparators datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdg6",
+      "size": "1676"
+    },
+    {
+      "title": "TLV1871/2 40V High-Speed Comparator with Separate Input and Output Supplies datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdi4",
+      "size": "1446"
+    },
+    {
+      "title": "TLV4H290-SEP and TLV4H390-SEP Radiation-Tolerant High-Precision Quad Comparators in Space Enhanced Plastic datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdf0",
+      "size": "1503"
+    },
+    {
+      "title": "LM2903-Q1 and LM2903B-Q1 Automotive Dual Comparators datasheet (Rev. M)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs141",
+      "size": "2844"
+    },
+    {
+      "title": "TLV323x 20ns High-Speed Comparator with Rail-to-Rail Input datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdj0",
+      "size": "1454"
+    },
+    {
+      "title": "TLV181x -Q1 and TLV182x -Q1 Family of 40V Automotive Rail-to-Rail Input Comparators with Push-Pull or Open-Drain Output        Options datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdc9",
+      "size": "3220"
+    },
+    {
+      "title": "TLV181x and TLV182x Family of 40V  Rail-to-Rail Input Comparators with Push-Pull or Open-Drain Output        Options datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdc8",
+      "size": "5127"
+    },
+    {
+      "title": "TLV703x and TLV704x Small-Size, Nanopower, Low-Voltage Comparators datasheet (Rev. J)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvse13",
+      "size": "4193"
+    },
+    {
+      "title": "TL331B, TL391B and TL331 Single Comparators datasheet (Rev. L)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvs238",
+      "size": "1065"
+    },
+    {
+      "title": "TLV3603-EP Enhanced Product 325MHz High-Speed Comparator with 2.5ns Propagation Delay datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdk3",
+      "size": "1390"
+    },
+    {
+      "title": "TLV185x and TLV186x Family of 40V, Nanopower Comparators datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosde7",
+      "size": "1630"
+    },
+    {
+      "title": "TLV1H103-SEP Radiation Tolerant High-Speed Comparator with 2.5ns Propagation Delay datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdg0",
+      "size": "1382"
+    },
+    {
+      "title": "TLV1704-SEP 2.2V to 24V, Radiation-Tolerant microPower Quad Comparator  in Space Enhanced Plastic datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slose29",
+      "size": "1284"
+    },
+    {
+      "title": "TLV3604,                                TLV3605, TLV3607 800ps High-Speed RRI Comparators with LVDS Outputs datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosda2",
+      "size": "2569"
+    },
+    {
+      "title": "TLV1812-EP and TLV1822-EP Enhanced Product 40V Rail-to-Rail Input Comparators with Push-Pull and Open-Drain Outputs datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdj3",
+      "size": "1357"
+    },
+    {
+      "title": "TLV320x 40ns, microPOWER, Push-Pull Output Comparators datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos561",
+      "size": "1672"
+    },
+    {
+      "title": "TLV902x -Q1 and TLV903x -Q1 Precision Automotive Comparator Family datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosda9",
+      "size": "4475"
+    },
+    {
+      "title": "TLV3801-Q1 and TLV3802-Q1 225-ps High-Speed Comparators with LVDS Outputs datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdf4",
+      "size": "2673"
+    },
+    {
+      "title": "TLV3801, TLV3802, TLV3811(C) 225-ps High-Speed Comparators with LVDS Outputs datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdd7",
+      "size": "2843"
+    },
+    {
+      "title": "TL331LV-Q1, TL391LV-Q1, LM393LV-Q1and LM339LV-Q1Low VoltageAutomotiveRail to Rail Input Comparators datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdb3",
+      "size": "4149"
+    },
+    {
+      "title": "TL331LV, TL391LV, LM393LV and LM339LV Low Voltage Rail to Rail Input Comparators datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosda4",
+      "size": "4786"
+    },
+    {
+      "title": "TLV3011, TLV3012, TLV3011B and TLV3012B Low-Power Comparators        With Integrated 1.24 V Voltage Reference    datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos300",
+      "size": "1531"
+    },
+    {
+      "title": "TLV360x 325 MHz High-Speed Comparators with        2.5 ns Propagation Delay    datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdb1",
+      "size": "2394"
+    },
+    {
+      "title": "LM2901B-Q1, LM2901x-Q1 Quadruple Automotive Comparator datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs142",
+      "size": "1971"
+    },
+    {
+      "title": "TLV703x-Q1 and TLV704x-Q1 Rail-to-Rail, Low-Power Comparators datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosda5",
+      "size": "1999"
+    },
+    {
+      "title": "TLV360x-Q1 325 MHz High-Speed Comparators with        2.5 ns Propagation Delay datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdc3",
+      "size": "2471"
+    },
+    {
+      "title": "TLV185x-Q1 and TLV186x-Q1 Family of 40 V, Nanopower Comparators    datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosdf2",
+      "size": "1278"
+    },
+    {
+      "title": "TLV40x1 Small-Size, Low-Power Comparator with Precision Reference datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvsb04",
+      "size": "1707"
+    },
+    {
+      "title": "TLV3011-EP and TLV3012-EP Enhanced Product Low Power Comparators With Integrated 1.24V Voltage Reference    datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls349",
+      "size": "1406"
+    },
+    {
+      "title": "LMV331 Single, LMV393 Dual, LMV339 Quad General-purpose Low-voltage Comparators datasheet (Rev. U)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs136",
+      "size": "2608"
+    },
+    {
+      "title": "TLV6700-Q1  Micropower, 18-V Window Comparator With 400-mV Reference datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvsbg5",
+      "size": "3209"
+    },
+    {
+      "title": "TLV6703-Q1 Automotive Micropower, 18-V Comparator With 400-mV Reference datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosda1",
+      "size": "1496"
+    },
+    {
+      "title": "TLV4062, TLV4082 Dual-Channel, Low-Power\t Comparator with Integrated Reference datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbvs404",
+      "size": "2195"
+    },
+    {
+      "title": "TLV4011-Q1 Precision Comparator with Integrated \t Reference datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvsbt9",
+      "size": "1594"
+    },
+    {
+      "title": "TLV4062-Q1, TLV4082-Q1 Dual, Low-Power Comparator with Integrated Reference datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvsbu0",
+      "size": "1730"
+    },
+    {
+      "title": "TLV4011 Precision Comparator with Integrated\t Reference datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvsfl9",
+      "size": "1214"
+    },
+    {
+      "title": "TLV701x and TLV702x Small-Size,\t Low-Power, Low-Voltage Comparators datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvsdm5",
+      "size": "2928"
+    },
+    {
+      "title": "TLV1805 40V,\t Rail-to-Rail Input, Push-Pull Output, High Voltage\t Comparator with Shutdown datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosd50",
+      "size": "1264"
+    },
+    {
+      "title": "TLV1805-Q1 40V,\t Rail-to-Rail Input, Push-Pull Output, High Voltage Automotive\t Comparator with Shutdown datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosd52",
+      "size": "1299"
+    },
+    {
+      "title": "TLV6703 Micropower, 18-V Comparator With\t Integrated Reference datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos865",
+      "size": "799"
+    },
+    {
+      "title": "TLV6700 Micropower, 18-V Window Comparator With\t 400-mV Reference datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvsav2",
+      "size": "3208"
+    },
+    {
+      "title": "LMx93-N, LM2903-N Low-Power, Low-Offset Voltage,\t Dual Comparators datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosbj6",
+      "size": "1369"
+    },
+    {
+      "title": "TLV6710 Micropower, 36-V Window Comparator With\t 400-mV Reference datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvsav4",
+      "size": "1210"
+    },
+    {
+      "title": "TLV6713 Micropower, 36-V Comparator With 400-mV\t Reference datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbvs331",
+      "size": "1071"
+    },
+    {
+      "title": "TLV7081 Nano-Power, 4-Bump WCSP, Small-Size\t Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosd69",
+      "size": "654"
+    },
+    {
+      "title": "LMV7235 and LMV7239 75-ns, Ultra Low Power, Low Voltage, Rail-to-Rail Input datasheet (Rev. O)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos532",
+      "size": "1209"
+    },
+    {
+      "title": "LMV7239-Q1 75-ns, Ultra Low Power, Low Voltage, Rail-to-Rail Input Comparator datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosd85",
+      "size": "1681"
+    },
+    {
+      "title": "TLV320x-Q1 40-ns, Micropower, Push-Pull Output\n\t Automotive Comparators datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos856",
+      "size": "1321"
+    },
+    {
+      "title": "TLV170x-Q1 2.2-V to 36-V, microPower\t Comparator datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos890",
+      "size": "1634"
+    },
+    {
+      "title": "LM339-MIL Low-Power Low-Offset Voltage Quad\n\t Comparator datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosd54",
+      "size": "1281"
+    },
+    {
+      "title": "LM139-MIL Quad Differential Comparators datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs160",
+      "size": "1013"
+    },
+    {
+      "title": "LM139A-MIL Quad Differential Comparators datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs161",
+      "size": "979"
+    },
+    {
+      "title": "LM193-MIL Dual Differential Comparators datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slis183",
+      "size": "923"
+    },
+    {
+      "title": "TLV370x Family of Nanopower, Push-Pull Output\n\t Comparators datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs137",
+      "size": "1558"
+    },
+    {
+      "title": "LM111, LM211, LM311 Differential\n\t Comparators datasheet (Rev. K)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs007",
+      "size": "2294"
+    },
+    {
+      "title": "TLV340x Family of Nanopower, Open-Drain Output\n\t Comparators datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs135",
+      "size": "1495"
+    },
+    {
+      "title": "TLV349x 1.8-V, Nanopower, Push-Pull Output\n\t Comparator datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos262",
+      "size": "1307"
+    },
+    {
+      "title": "TLC3702-Q1 Dual Micropower LinCMOS™ Voltage\n\t Comparators datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls156",
+      "size": "1484"
+    },
+    {
+      "title": "LPV7215 Micropower, CMOS Input, RRIO, 1.8-V,\n\t Push-Pull Output Comparator datasheet (Rev. J)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosai6",
+      "size": "1232"
+    },
+    {
+      "title": "LMV7219 7-ns 2.7-V to 5-V Comparator with\n\t Rail-to-Rail Output datasheet (Rev. I)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos458",
+      "size": "1468"
+    },
+    {
+      "title": "LM397 Single General-Purpose Voltage\n\t Comparator datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos977",
+      "size": "513"
+    },
+    {
+      "title": "LMV7231 Hex Window Comparator With 1.5% Precision\n\t and 400-mV Reference datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosb45",
+      "size": "1639"
+    },
+    {
+      "title": "LMx19 High Speed Dual Comparator datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosbj2",
+      "size": "962"
+    },
+    {
+      "title": "LMV76x and LMV762Q-Q1 Low-Voltage, Precision\n\t Comparator With Push-Pull Output datasheet (Rev. I)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos998",
+      "size": "1012"
+    },
+    {
+      "title": "TLV3501A-Q1 4.5-ns Rail-to-Rail, High-Speed\n\t Comparator\n\t in Microsize Packages datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos533",
+      "size": "1185"
+    },
+    {
+      "title": "LMV7275-Q1 Automotive Single 1.8-V Low Power\n\t Comparator With Rail-to-Rail Input datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosd09",
+      "size": "1309"
+    },
+    {
+      "title": "LMV727x Single and Dual, 1.8-V Low Power\n\t Comparators With Rail-to-Rail Input datasheet (Rev. I)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosa56",
+      "size": "1242"
+    },
+    {
+      "title": "LMP7300 Micropower Precision Comparator and\n\t Precision Reference\n\t With Adjustable Hysteresis datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosat7",
+      "size": "1837"
+    },
+    {
+      "title": "TLV170x 2.2-V to 36-V, microPower Comparator datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos589",
+      "size": "1852"
+    },
+    {
+      "title": "TLV350x 4.5-ns, Rail-to-Rail, High-Speed\n\t Comparator in Microsize Packages datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos321",
+      "size": "1037"
+    },
+    {
+      "title": "LMx39-N, LM2901-N, LM3302-N Low-Power Low-Offset\n\t Voltage Quad Comparators datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosbj3",
+      "size": "2099"
+    },
+    {
+      "title": "LMV33x-N / LMV393-N General-Purpose, Low-Voltage, Tiny Pack Comparators datasheet (Rev. H)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos018",
+      "size": "1793"
+    },
+    {
+      "title": "TLV3502-Q1, 4.5-ns Rail-to-Rail High-Speed Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos507",
+      "size": "1063"
+    },
+    {
+      "title": "TLV3691 0.9-V to 6.5-V, Nanopower\n\t Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos694",
+      "size": "3421"
+    },
+    {
+      "title": "Single Differential Comparator, TL331-EP datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvsbu6",
+      "size": "894"
+    },
+    {
+      "title": "Dual Micropower LinCMOS Voltage Comparator datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls198",
+      "size": "621"
+    },
+    {
+      "title": "LMH7220 High Speed Comparator with LVDS Output datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosal3",
+      "size": "1252"
+    },
+    {
+      "title": "LM2901EP Low Power Low Offset Voltage Quad Comparators datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosaf6",
+      "size": "770"
+    },
+    {
+      "title": "LM160QML High Speed Differential Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosar0",
+      "size": "451"
+    },
+    {
+      "title": "LM111/LM211/LM311 Voltage Comparator datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosbj1",
+      "size": "1445"
+    },
+    {
+      "title": "LM160/LM360 High Speed Differential Comparator datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosbj4",
+      "size": "603"
+    },
+    {
+      "title": "LM161/LM361 High Speed Differential Comparators datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosbj5",
+      "size": "800"
+    },
+    {
+      "title": "LM139AQML  LM139QML Low Power Low Offset Voltage Quad Comparators datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosah8",
+      "size": "1313"
+    },
+    {
+      "title": "LM111QML Voltage Comparator datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosaj4",
+      "size": "1397"
+    },
+    {
+      "title": "LM111JAN Voltage Comparator datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosam9",
+      "size": "954"
+    },
+    {
+      "title": "LM193JAN Low Power Low Offset Voltage Dual Comparators datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosan2",
+      "size": "707"
+    },
+    {
+      "title": "LM119QML High Speed Dual Comparator datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosan3",
+      "size": "999"
+    },
+    {
+      "title": "LMC6762 Dual MicroPower Rail-To-Rail Input CMOS Comparator with Push-Pull Output datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos739",
+      "size": "814"
+    },
+    {
+      "title": "LMC6772/6772Q Dual Micropower Rail-To-Rail Input CMOS Comp w/ Open Drain Output datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos749",
+      "size": "976"
+    },
+    {
+      "title": "LMC7221 Tiny CMOS Comparator with Rail-To-Rail Input and Open Drain Output datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos748",
+      "size": "870"
+    },
+    {
+      "title": "LMC7215/25 Micro-Power, R-to-R CMOS Comp w/Push-Pull/Open-Drain Outputs datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos882",
+      "size": "1569"
+    },
+    {
+      "title": "LMV7291 Single 1.8V Low Power Comparator with Rail-to-Rail Input datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosa86",
+      "size": "809"
+    },
+    {
+      "title": "LM6511 180 ns 3V Comparator datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos695",
+      "size": "557"
+    },
+    {
+      "title": "LM392 Low Power Operational Amplifier/Voltage Comparator datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosbt5",
+      "size": "597"
+    },
+    {
+      "title": "LM139JAN Low Power Low Offset Voltage Quad Comparators datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosaj7",
+      "size": "886"
+    },
+    {
+      "title": "LM193A/LM193QML Low Power Low Offset Voltage Dual Comparators datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosam2",
+      "size": "735"
+    },
+    {
+      "title": "LMH7322 Dual 700 ps High Speed Comparator with RSPECL Outputs datasheet (Rev. I)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosau8",
+      "size": "779"
+    },
+    {
+      "title": "LMH7324 Quad 700 ps High Speed Comparator with RSPECL Outputs datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosaz2",
+      "size": "1059"
+    },
+    {
+      "title": "LMC7211  Tiny CMOS Comparator with Rail-to-Rail Input and Push-Pull Output datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snos746",
+      "size": "921"
+    },
+    {
+      "title": "Dual MicroPower LinCMOS Voltage Comparators datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs013",
+      "size": "1602"
+    },
+    {
+      "title": "General-Purpose Low-Voltage Comparators datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos468",
+      "size": "546"
+    },
+    {
+      "title": "Quad Differential Comparator. datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/scls720",
+      "size": "424"
+    },
+    {
+      "title": "LM239A-EP datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/scls496",
+      "size": "562"
+    },
+    {
+      "title": "TLV370x-Q1 Nanopower Push-Pull Output Comparators datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls154",
+      "size": "715"
+    },
+    {
+      "title": "TLC3704 Quad MicroPower LinCMOS Voltage Comparators datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs117",
+      "size": "1587"
+    },
+    {
+      "title": "Comparator With Output Voltage-Level Translation datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sces680",
+      "size": "884"
+    },
+    {
+      "title": "TLC372 LinCMOS(TM) Dual Differential Comparators datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs114",
+      "size": "1646"
+    },
+    {
+      "title": "Differential Comparator With Strobes datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs143",
+      "size": "489"
+    },
+    {
+      "title": "Quad Micropower LinCMOS Voltage Comparators datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls191",
+      "size": "617"
+    },
+    {
+      "title": "Low-Power Quad Differential Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs148",
+      "size": "420"
+    },
+    {
+      "title": "Quad Differential Comparator datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/scls513",
+      "size": "375"
+    },
+    {
+      "title": "Dual Differential Comparator datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs155",
+      "size": "412"
+    },
+    {
+      "title": "Single Differential Comparators datasheet (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs128",
+      "size": "417"
+    },
+    {
+      "title": "1.8 V, Nanopower, Push-Pull Output Comparators datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgds035",
+      "size": "597"
+    },
+    {
+      "title": "TLC372-EP datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls385",
+      "size": "461"
+    },
+    {
+      "title": "TLV7256 datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs147",
+      "size": "889"
+    },
+    {
+      "title": "TLV7211, TLV7211A CMOS Comparators With Rail-to-Rail Input and Push-Pull Output datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs149",
+      "size": "884"
+    },
+    {
+      "title": "TLC139, TLC339, TLC339Q: LinCMOS MicroPower Quad Comparators datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs119",
+      "size": "1486"
+    },
+    {
+      "title": "TSM104W, TSM104WA datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos478",
+      "size": "429"
+    },
+    {
+      "title": "TSM102, TSM102A datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvs602",
+      "size": "1001"
+    },
+    {
+      "title": "LM211-EP datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs140",
+      "size": "511"
+    },
+    {
+      "title": "LM392 datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos466",
+      "size": "658"
+    },
+    {
+      "title": "LP239, LP339, LP2901 datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs004",
+      "size": "476"
+    },
+    {
+      "title": "LP339 Ultra-Low Power Quad Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snosbe0",
+      "size": "268"
+    },
+    {
+      "title": "TL3116, TL3116Y: Ultra-Fast Low-Power Precision Comparators datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs132",
+      "size": "827"
+    },
+    {
+      "title": "LP211, LP311 datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs003",
+      "size": "480"
+    },
+    {
+      "title": "TL712 datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs002",
+      "size": "906"
+    },
+    {
+      "title": "TL714C datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs015",
+      "size": "479"
+    },
+    {
+      "title": "TLC193, TLC393: Dual Micropower LinCMOS? Voltage Comparator datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs115",
+      "size": "1148"
+    },
+    {
+      "title": "TLV3701-EP:  Nanopower Push-Pull Output Comparator datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgls170",
+      "size": "821"
+    },
+    {
+      "title": "Quadruple Differential Comparators datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs118",
+      "size": "1442"
+    },
+    {
+      "title": "LinCMOS Dual Differential Comparator datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs016",
+      "size": "842"
+    },
+    {
+      "title": "Family of Nanopower Op Amps and Push-Pull Comparators datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos340",
+      "size": "552"
+    },
+    {
+      "title": "Family of Nanopower Operational Amplifiers and Open Drain Comparators datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos343",
+      "size": "481"
+    },
+    {
+      "title": "LinCMOS Quadruple Low-Voltage Differential Comparators datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs012",
+      "size": "339"
+    },
+    {
+      "title": "Ultra-Fast Low-Power Precision Comparators datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs130",
+      "size": "831"
+    },
+    {
+      "title": "Dual Low-Voltage Differential Comparators datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs011",
+      "size": "449"
+    },
+    {
+      "title": "LinCMOS Quadruple Differential Comparators datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs116",
+      "size": "718"
+    },
+    {
+      "title": "Differential Comparator With Strobes datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slcs008",
+      "size": "520"
+    }
+  ]
+}

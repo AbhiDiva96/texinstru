@@ -1,0 +1,42 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "50002",
+    "name": "Comparators"
+  },
+  "docType": {
+    "value": "10",
+    "name": "Selection guide"
+  },
+  "totalPDFs": 5,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "TI Space Products (Rev. K)"
+    },
+    {
+      "title": "TI Space Products (Rev. K)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt532",
+      "size": "7490"
+    },
+    {
+      "title": "Current Sense Amplifiers (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyb194",
+      "size": "2293"
+    },
+    {
+      "title": "Power Management Guide 2018 (Rev. R)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvt145",
+      "size": "6269"
+    },
+    {
+      "title": "Hot Swap Selection Tool",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt643",
+      "size": "973"
+    }
+  ]
+}

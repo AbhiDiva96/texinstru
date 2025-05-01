@@ -1,0 +1,16 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3174",
+    "name": "Digital power monitors"
+  },
+  "docType": {
+    "value": "13",
+    "name": "Radiation & reliability report"
+  },
+  "totalPDFs": 0,
+  "pdfs": []
+}

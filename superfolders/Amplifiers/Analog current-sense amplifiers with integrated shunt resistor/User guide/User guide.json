@@ -1,0 +1,16 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "12342",
+    "name": "Analog current-sense amplifiers with integrated shunt resistor"
+  },
+  "docType": {
+    "value": "6",
+    "name": "User guide"
+  },
+  "totalPDFs": 0,
+  "pdfs": []
+}

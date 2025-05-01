@@ -1,0 +1,487 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3172",
+    "name": "Analog current-sense amplifiers"
+  },
+  "docType": {
+    "value": "16",
+    "name": "Functional safety information"
+  },
+  "totalPDFs": 94,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "OPA317-Q1 Functional Safety FIT Rate, FMD and Pin FMA (Rev. A)"
+    },
+    {
+      "title": "OPA317-Q1 Functional Safety FIT Rate, FMD and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs600",
+      "size": "245"
+    },
+    {
+      "title": "OPA356-Q1 Functional Safety FIT Rate and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffsa33",
+      "size": "260"
+    },
+    {
+      "title": "OPA2192-Q1 Functional Safety FIT Rate, FMD and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa460",
+      "size": "301"
+    },
+    {
+      "title": "OPA354A-Q1 Functional Safety FIT Rate, FMD and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffsa40",
+      "size": "293"
+    },
+    {
+      "title": "OPA991-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffsa44",
+      "size": "336"
+    },
+    {
+      "title": "INA226 Functional Safety FIT Rate, FMD and Pin FMA (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa376",
+      "size": "463"
+    },
+    {
+      "title": "INA74X-Q1 Functional Safety FIT Rate, FMD and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffsa16",
+      "size": "408"
+    },
+    {
+      "title": "TSD5402-Q1 Functional Safety FIT Rate, FMD and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs979",
+      "size": "314"
+    },
+    {
+      "title": "OPA2317QDGKRQ1 Functional Safety FIT Rate, FMD and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa308",
+      "size": "452"
+    },
+    {
+      "title": "PGA308 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs926",
+      "size": "503"
+    },
+    {
+      "title": "ALM2402-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs866",
+      "size": "319"
+    },
+    {
+      "title": "TLV365-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs799",
+      "size": "476"
+    },
+    {
+      "title": "OPAx607-Q1 Functional Safety FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs550",
+      "size": "321"
+    },
+    {
+      "title": "INA241x-Q1 and INA296x-Q1 Functional Safety FIT Rate, FMD and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs578",
+      "size": "364"
+    },
+    {
+      "title": "OPA1679-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs803",
+      "size": "293"
+    },
+    {
+      "title": "OPA2377-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs766",
+      "size": "464"
+    },
+    {
+      "title": "INAx18x-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa386",
+      "size": "618"
+    },
+    {
+      "title": "OPA4376-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs680",
+      "size": "462"
+    },
+    {
+      "title": "OPA2333-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs728",
+      "size": "482"
+    },
+    {
+      "title": "LM393LV-Q1 and LM339LV-Q1 Functional Safety FIT Rate, FMD and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs655",
+      "size": "296"
+    },
+    {
+      "title": "OPA2388-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa465",
+      "size": "283"
+    },
+    {
+      "title": "TLV90xx-Q1 Functional Safety FIT Rate, Failure Mode Distribution  and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs408",
+      "size": "302"
+    },
+    {
+      "title": "INA310-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs627",
+      "size": "321"
+    },
+    {
+      "title": "OPA333-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs622",
+      "size": "269"
+    },
+    {
+      "title": "OPA4197-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs623",
+      "size": "295"
+    },
+    {
+      "title": "OPA2197-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs621",
+      "size": "294"
+    },
+    {
+      "title": "XTR111 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs276",
+      "size": "500"
+    },
+    {
+      "title": "TLV600x-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs032",
+      "size": "486"
+    },
+    {
+      "title": "TLV1812, TLV1822  Functional Safety, FIT Rate, Failure Mode Dist, and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs203",
+      "size": "368"
+    },
+    {
+      "title": "TLV1812-Q1 TLV1822-Q1 Functional Safety, FIT Rate, Failure Mode Dist and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs282",
+      "size": "370"
+    },
+    {
+      "title": "INA333-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa453",
+      "size": "500"
+    },
+    {
+      "title": "TLV3601, TLV3602 FS, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs232",
+      "size": "499"
+    },
+    {
+      "title": "TLV3601-Q1 TLV3602-Q1 FS, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs231",
+      "size": "500"
+    },
+    {
+      "title": "TLC2272-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa300",
+      "size": "528"
+    },
+    {
+      "title": "TLC2272A-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs318",
+      "size": "528"
+    },
+    {
+      "title": "INA186-Q1 Functional Safety FIT Rate, FMD and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa387",
+      "size": "611"
+    },
+    {
+      "title": "INA190-Q1 Functional Safety, FIT Rate, FMD and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa427",
+      "size": "538"
+    },
+    {
+      "title": "LM2903B-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slca005",
+      "size": "478"
+    },
+    {
+      "title": "OPA858-Q1 Functional Safety FIT Rate and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs264",
+      "size": "477"
+    },
+    {
+      "title": "TLV2197-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa279",
+      "size": "501"
+    },
+    {
+      "title": "TLV4197-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa459",
+      "size": "509"
+    },
+    {
+      "title": "INA301-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs263",
+      "size": "513"
+    },
+    {
+      "title": "INA300-Q1 Functional Safety FIT Rate, FMD and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa382",
+      "size": "525"
+    },
+    {
+      "title": "THS4509-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs033",
+      "size": "496"
+    },
+    {
+      "title": "TLV703x-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs278",
+      "size": "482"
+    },
+    {
+      "title": "TLV6700 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs207",
+      "size": "871"
+    },
+    {
+      "title": "TLV6700-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs208",
+      "size": "510"
+    },
+    {
+      "title": "TLV3603 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs254",
+      "size": "495"
+    },
+    {
+      "title": "TLV18x1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs252",
+      "size": "298"
+    },
+    {
+      "title": "TLV3603-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs230",
+      "size": "496"
+    },
+    {
+      "title": "TLV6703 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs209",
+      "size": "517"
+    },
+    {
+      "title": "TLV6703-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs210",
+      "size": "511"
+    },
+    {
+      "title": "INA21x-Q1 and INA199-Q1 Functional Safety FIT Rate,FMD and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa391",
+      "size": "475"
+    },
+    {
+      "title": "INA30x-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sffs062",
+      "size": "572"
+    },
+    {
+      "title": "TLV900x-Q1 Functional Safety FIT Rate, FMD, and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa446",
+      "size": "553"
+    },
+    {
+      "title": "LM2904B-Q1 Functional Safety FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa295",
+      "size": "467"
+    },
+    {
+      "title": "INA253-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa428",
+      "size": "505"
+    },
+    {
+      "title": "ALM2403-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa407",
+      "size": "509"
+    },
+    {
+      "title": "INA28x-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa438",
+      "size": "492"
+    },
+    {
+      "title": "INA2x0-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa175",
+      "size": "517"
+    },
+    {
+      "title": "INA293-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa416",
+      "size": "439"
+    },
+    {
+      "title": "INA2xx-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa499",
+      "size": "498"
+    },
+    {
+      "title": "INA19xA-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa346",
+      "size": "454"
+    },
+    {
+      "title": "INA381-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa409",
+      "size": "525"
+    },
+    {
+      "title": "OPA320-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa298",
+      "size": "478"
+    },
+    {
+      "title": "OPA377-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa421",
+      "size": "484"
+    },
+    {
+      "title": "TLV906x-Q1 Functional Safety FIT Rate, FMD and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa384",
+      "size": "546"
+    },
+    {
+      "title": "OPA376-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa462",
+      "size": "473"
+    },
+    {
+      "title": "OPA2376-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa463",
+      "size": "532"
+    },
+    {
+      "title": "INA225-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa415",
+      "size": "487"
+    },
+    {
+      "title": "TLV2314-Q1 Functional Safety FIT Rate, FMD, and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa413",
+      "size": "478"
+    },
+    {
+      "title": "TLV314-Q1 Functional Safety FIT Rate, FMD, and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa412",
+      "size": "516"
+    },
+    {
+      "title": "OPAx197-Q1 Functional Safety FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa390",
+      "size": "501"
+    },
+    {
+      "title": "TLV197-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa439",
+      "size": "502"
+    },
+    {
+      "title": "OPA388-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa435",
+      "size": "484"
+    },
+    {
+      "title": "INA2x9-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa430",
+      "size": "424"
+    },
+    {
+      "title": "TLV2372-Q1 Functional Safety FIT Rate and Failure Mode Distribution",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa417",
+      "size": "451"
+    },
+    {
+      "title": "ALM2402F-Q1 Functional Safety, FIT Rate, and Failure Mode Distribution",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa408",
+      "size": "100"
+    },
+    {
+      "title": "TLV9002 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa410",
+      "size": "175"
+    },
+    {
+      "title": "OPA2365-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa419",
+      "size": "458"
+    },
+    {
+      "title": "TLV4314-Q1 Functional Safety FIT Rate, FMD, and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa414",
+      "size": "490"
+    },
+    {
+      "title": "INA3221-Q1 Functional Safety FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa411",
+      "size": "497"
+    },
+    {
+      "title": "TLV7031-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa53",
+      "size": "83"
+    },
+    {
+      "title": "TLV7041-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa54",
+      "size": "82"
+    },
+    {
+      "title": "TLV272-Q1 Functional Safety FIT Rate, FMD and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgla004",
+      "size": "75"
+    },
+    {
+      "title": "LM2901, LM2901B, LM2901V, LM2901AV FS, FIT Rate, Failure Mode and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slca004",
+      "size": "456"
+    },
+    {
+      "title": "LM2903-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slca002",
+      "size": "149"
+    },
+    {
+      "title": "LM2901-Q1, LM2901B-Q1, LM2901V-Q1,   FS, FIT Rate, Failure Mode Dist and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slca003",
+      "size": "457"
+    },
+    {
+      "title": "INA250-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa389",
+      "size": "86"
+    },
+    {
+      "title": "INA240-Q1 Functional Safety, FIT Rate, Failure Mode Distribution and Pin FMEA (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa377",
+      "size": "124"
+    },
+    {
+      "title": "TLV1805-Q1 Functional Safety, FIT Rate and Failure Mode Distribution",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa51",
+      "size": "70"
+    },
+    {
+      "title": "TLC393-Q1 Functional Safety FIT Rate, Failure Mode Distribution",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaa939",
+      "size": "221"
+    },
+    {
+      "title": "TL331-Q1 Functional Safety FIT Rate and Failure Mode Distribution",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLVAEN4",
+      "size": "270"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3172",
+    "name": "Analog current-sense amplifiers"
+  },
+  "docType": {
+    "value": "12",
+    "name": "Design files"
+  },
+  "totalPDFs": 22,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "TLV7012 Schematic (Rev. A)"
+    },
+    {
+      "title": "TLV7012 Schematic (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOR017",
+      "size": "6"
+    },
+    {
+      "title": "INA190 CAD File",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOR016",
+      "size": "8"
+    },
+    {
+      "title": "INA214C Cookbook Tina Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC518",
+      "size": "35"
+    },
+    {
+      "title": "Multi-Cal-Slave Schematic",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbor015",
+      "size": "535"
+    },
+    {
+      "title": "TIDA-01063 Schematic and Block Diagram (Interface Board)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidrm37",
+      "size": "373"
+    },
+    {
+      "title": "TIPD209 Schematic",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidrl23",
+      "size": "230"
+    },
+    {
+      "title": "Multi-Cal-Master Schematics",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOR011",
+      "size": "585"
+    },
+    {
+      "title": "TIPD197 Design File",
+      "pdfUrl": "http://www.ti.com/lit/zip/TIDCAP1",
+      "size": "795"
+    },
+    {
+      "title": "TIPD166 Schematic",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidrf25",
+      "size": "671"
+    },
+    {
+      "title": "PMP9475 Schematic",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidr996",
+      "size": "1397"
+    },
+    {
+      "title": "PMP7977 PCB",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu151",
+      "size": "6781"
+    },
+    {
+      "title": "THS4532PW EVM Design Files",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOR111",
+      "size": "388"
+    },
+    {
+      "title": "THS4531ADGK EVM Design Files",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOR110",
+      "size": "315"
+    },
+    {
+      "title": "Precision Amplitude Control for Analog Video CAD Files",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNCC001",
+      "size": "598"
+    },
+    {
+      "title": "THS7314 EVM Bill of Materials",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slor103",
+      "size": "17"
+    },
+    {
+      "title": "PGA309EVM-USB Schematic",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbor010",
+      "size": "44"
+    },
+    {
+      "title": "INA220EVM Schematic",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOR007",
+      "size": "47"
+    },
+    {
+      "title": "INA219EVM Schematic",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbor006",
+      "size": "32"
+    },
+    {
+      "title": "PGA308EVM Schematic",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbor004",
+      "size": "45"
+    },
+    {
+      "title": "Lower Cost 5Vin Two LDO Solution with Ratiometric Sequencing",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvr315",
+      "size": "70"
+    },
+    {
+      "title": "Small 5Vin Two LDO Solution in QFN packages with Sequential Sequencing",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvr317",
+      "size": "65"
+    }
+  ]
+}

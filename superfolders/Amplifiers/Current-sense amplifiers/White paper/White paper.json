@@ -1,0 +1,192 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3170",
+    "name": "Current-sense amplifiers"
+  },
+  "docType": {
+    "value": "9",
+    "name": "White paper"
+  },
+  "totalPDFs": 35,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "汽車光達簡介 (Rev. D)"
+    },
+    {
+      "title": "汽車光達簡介 (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/nesy072",
+      "size": "860"
+    },
+    {
+      "title": "차량용 LIDAR 소개 (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/koky065",
+      "size": "786"
+    },
+    {
+      "title": "Op Amp Offset Voltage and Bias Current Limitations",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa590",
+      "size": "2287"
+    },
+    {
+      "title": "Optimizing Chopper Amplifier Accuracy",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa586",
+      "size": "1601"
+    },
+    {
+      "title": "Op Amp Input and Output Swing Limitations",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa583",
+      "size": "1809"
+    },
+    {
+      "title": "Space Power Supply for the STAR-Tiger SpaceFibre Routing Switch",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvafm9",
+      "size": "510"
+    },
+    {
+      "title": "設計準確且多功能的鋰離子 電池測試解決方案",
+      "pdfUrl": "https://www.ti.com/lit/pdf/nesy034",
+      "size": "636"
+    },
+    {
+      "title": "Simplifying Signal Chain Design for High Performance in Small Systems",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy198",
+      "size": "659"
+    },
+    {
+      "title": "Designing an Accurate, Multifunction Lithium-Ion Battery-Testing Solution",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slpy010",
+      "size": "478"
+    },
+    {
+      "title": "How to optimize building and home automation designs for energy efficiency",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy186",
+      "size": "1512"
+    },
+    {
+      "title": "以工業電池組為運輸替代方案提供電源",
+      "pdfUrl": "https://www.ti.com/lit/pdf/nesy029",
+      "size": "1079"
+    },
+    {
+      "title": "산업용 배터리 팩을 통해 수송 수단에 대체 전력 공급",
+      "pdfUrl": "https://www.ti.com/lit/pdf/koky022",
+      "size": "1043"
+    },
+    {
+      "title": "Powering Alternative Forms of Transportation with Industrial Battery Packs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy185",
+      "size": "1004"
+    },
+    {
+      "title": "Audio Innovation: Trends in Automotive, Smart Home and Pro Audio Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy171",
+      "size": "2449"
+    },
+    {
+      "title": "An Introduction to Automotive LIDAR (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy150",
+      "size": "535"
+    },
+    {
+      "title": "Cities grow smarter through innovative semiconductor technologies",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszy031",
+      "size": "3648"
+    },
+    {
+      "title": "Charging stations: Toward an EV support infrastructure",
+      "pdfUrl": "https://www.ti.com/lit/pdf/swpy030",
+      "size": "1378"
+    },
+    {
+      "title": "Making factories smarter, more productive through predictive maintenance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszy027",
+      "size": "1774"
+    },
+    {
+      "title": "Voltage-reference impact on total harmonic distortion",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy097",
+      "size": "3142"
+    },
+    {
+      "title": "Overcurrent protection enables more efficient and reliable systems",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy094",
+      "size": "1134"
+    },
+    {
+      "title": "Detection of Plunger Movement in DC Solenoids White Paper",
+      "pdfUrl": "https://www.ti.com/lit/pdf/ssiy001",
+      "size": "1132"
+    },
+    {
+      "title": "HVAC Dual AC Motor Control with Active PFC Implementation Using Piccolo™ MCUs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/spry135",
+      "size": "315"
+    },
+    {
+      "title": "EMI-Hardened Operational Amplifiers for Robust Circuit Design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa817",
+      "size": "304"
+    },
+    {
+      "title": "Amp Closed-Loop Bndwidth Considerations in High Res ADC Apps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa829",
+      "size": "357"
+    },
+    {
+      "title": "Optimizing Portable Applications with D/A Converters",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa108",
+      "size": "397"
+    },
+    {
+      "title": "Using Power to Improve Signal-Path Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa831",
+      "size": "4985"
+    },
+    {
+      "title": "A Voltage-Controlled Filter",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa830",
+      "size": "382"
+    },
+    {
+      "title": "Intermediate Frequency (IF) Sampling Receiver Concepts",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa107",
+      "size": "237"
+    },
+    {
+      "title": "High-Performance Analog Front Ends",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa828",
+      "size": "377"
+    },
+    {
+      "title": "A precision interface for a Resistance Temperature Detector (RTD)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa838",
+      "size": "320"
+    },
+    {
+      "title": "Precision Method for Laser Diode Emission Control",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa837",
+      "size": "568"
+    },
+    {
+      "title": "A Quick Sine Wave Generator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa839",
+      "size": "430"
+    },
+    {
+      "title": "It's a Buck; It's a Boost, No! It's a Switcher! (part four)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa834",
+      "size": "268"
+    },
+    {
+      "title": "NSC Develops New Complementary Bipolar Process For High Speed, High Perf Analog",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa843",
+      "size": "222"
+    }
+  ]
+}

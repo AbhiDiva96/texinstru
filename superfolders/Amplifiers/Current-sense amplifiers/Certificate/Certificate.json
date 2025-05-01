@@ -1,0 +1,297 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3170",
+    "name": "Current-sense amplifiers"
+  },
+  "docType": {
+    "value": "18",
+    "name": "Certificate"
+  },
+  "totalPDFs": 56,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "LMH13000RQEEVM EU Declaration of Conformity (DoC)"
+    },
+    {
+      "title": "LMH13000RQEEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqt38",
+      "size": "98"
+    },
+    {
+      "title": "THS3470REBEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqt36",
+      "size": "112"
+    },
+    {
+      "title": "INA750BEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqss2",
+      "size": "145"
+    },
+    {
+      "title": "LOG300DEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqsp1",
+      "size": "145"
+    },
+    {
+      "title": "HS-COMPARATOR-EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqs29",
+      "size": "144"
+    },
+    {
+      "title": "TLV3802EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqra0",
+      "size": "141"
+    },
+    {
+      "title": "INA233EVM EU Declaration of Conformity (DoC) (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqca5",
+      "size": "156"
+    },
+    {
+      "title": "LOG200EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqr54",
+      "size": "139"
+    },
+    {
+      "title": "OPA855DSGEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqr33",
+      "size": "156"
+    },
+    {
+      "title": "TLV3607EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqr09",
+      "size": "156"
+    },
+    {
+      "title": "INA740AEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqy0",
+      "size": "158"
+    },
+    {
+      "title": "INA740BEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqy1",
+      "size": "159"
+    },
+    {
+      "title": "INA745BEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqx7",
+      "size": "156"
+    },
+    {
+      "title": "INA780BEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqx4",
+      "size": "159"
+    },
+    {
+      "title": "INA780AEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqx3",
+      "size": "190"
+    },
+    {
+      "title": "INA310AEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqw0",
+      "size": "156"
+    },
+    {
+      "title": "INA310BEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqw1",
+      "size": "156"
+    },
+    {
+      "title": "INA700EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqr4",
+      "size": "139"
+    },
+    {
+      "title": "INA232EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqm3",
+      "size": "139"
+    },
+    {
+      "title": "OPA928EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqh0",
+      "size": "139"
+    },
+    {
+      "title": "INA296BEVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqf9",
+      "size": "139"
+    },
+    {
+      "title": "INA241AEVM EU RoHS Declaration of Conformity (DoC) (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpt0",
+      "size": "139"
+    },
+    {
+      "title": "INA241BEVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqf8",
+      "size": "139"
+    },
+    {
+      "title": "INA296AEVM EU RoHS Declaration of Conformity (DoC) (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpt3",
+      "size": "139"
+    },
+    {
+      "title": "OPA2391DSBGAEVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqqc3",
+      "size": "139"
+    },
+    {
+      "title": "OPA2392DSBGA-EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqq08",
+      "size": "172"
+    },
+    {
+      "title": "TLV3602EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpy4",
+      "size": "139"
+    },
+    {
+      "title": "LMH34400DRLEVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpt2",
+      "size": "142"
+    },
+    {
+      "title": "INA190EPEVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpr4",
+      "size": "142"
+    },
+    {
+      "title": "DEM-OPA-DSN-EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpl2",
+      "size": "104"
+    },
+    {
+      "title": "OPA593EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpg4",
+      "size": "94"
+    },
+    {
+      "title": "TLV3811EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpf1",
+      "size": "93"
+    },
+    {
+      "title": "INA-DUAL-2AMP-EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpc8",
+      "size": "99"
+    },
+    {
+      "title": "LMH5485-SP-EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqpc4",
+      "size": "99"
+    },
+    {
+      "title": "INA236EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqp32",
+      "size": "99"
+    },
+    {
+      "title": "INA229EVM EU RoHS Declaration of Conformity (DoC) (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SSZQNU7",
+      "size": "90"
+    },
+    {
+      "title": "INA228EVM EU RoHS Declaration of Conformity (DoC) (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SSZQNY4",
+      "size": "90"
+    },
+    {
+      "title": "INA239EVM EU RoHS Declaration of Conformity (DoC) (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SSZQNU8",
+      "size": "120"
+    },
+    {
+      "title": "INA237EVM EU RoHS Declaration of Conformity (DoC) (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SSZQNY3",
+      "size": "90"
+    },
+    {
+      "title": "INA238EVM EU RoHS Declaration of Conformity (DoC) (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SSZQNY2",
+      "size": "90"
+    },
+    {
+      "title": "INA2290EVM EU RoHS Declaration of Conformity (DoC) (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqo66",
+      "size": "121"
+    },
+    {
+      "title": "OPA3S328EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqoh8",
+      "size": "132"
+    },
+    {
+      "title": "LMH32404RHFEVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqog9",
+      "size": "132"
+    },
+    {
+      "title": "INA183EVM EU RoHS Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqoh0",
+      "size": "132"
+    },
+    {
+      "title": "BUF634ADRBEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqo43",
+      "size": "133"
+    },
+    {
+      "title": "BUF634ADDAEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqo44",
+      "size": "133"
+    },
+    {
+      "title": "OPA455EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqo09",
+      "size": "136"
+    },
+    {
+      "title": "INA290EVM EU Declaration of Conformity (DoC) (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqnc9",
+      "size": "132"
+    },
+    {
+      "title": "INA281EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqo01",
+      "size": "133"
+    },
+    {
+      "title": "THP210EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqnz5",
+      "size": "134"
+    },
+    {
+      "title": "OPA1637EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqnz6",
+      "size": "136"
+    },
+    {
+      "title": "ALM2403Q1EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqnz2",
+      "size": "105"
+    },
+    {
+      "title": "TLV9051DPWEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqnw9",
+      "size": "133"
+    },
+    {
+      "title": "TLV9061DPWEVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqnx0",
+      "size": "133"
+    },
+    {
+      "title": "TLV3604EVM EU Declaration of Conformity (DoC)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszqnt7",
+      "size": "130"
+    }
+  ]
+}

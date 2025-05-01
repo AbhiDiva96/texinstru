@@ -1,0 +1,16 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3170",
+    "name": "Current-sense amplifiers"
+  },
+  "docType": {
+    "value": "4",
+    "name": "Simulation models"
+  },
+  "totalPDFs": 0,
+  "pdfs": []
+}

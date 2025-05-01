@@ -1,0 +1,172 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3174",
+    "name": "Digital power monitors"
+  },
+  "docType": {
+    "value": "2",
+    "name": "Data sheet"
+  },
+  "totalPDFs": 31,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "INA233 36V, 16-Bit, Ultra-Precise I2 C and PMBus Output Current, Voltage, Power,        and Energy Monitor With Alert datasheet (Rev. A)"
+    },
+    {
+      "title": "INA233 36V, 16-Bit, Ultra-Precise I2 C and PMBus Output Current, Voltage, Power,        and Energy Monitor With Alert datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos790",
+      "size": "1649"
+    },
+    {
+      "title": "INA230 36V, 16-Bit, I2 C Output Current, Voltage and Power Monitor With Alert datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos601",
+      "size": "1724"
+    },
+    {
+      "title": "INA226-Q1 AEC-Q100, 36V, 16-Bit,            Ultra-Precise, I2C Output Current, Voltage, and Power Monitor With Alert datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos743",
+      "size": "1505"
+    },
+    {
+      "title": "INA226         36V, 16-Bit, Ultra-Precise I2C Output Current,            Voltage, and Power Monitor With Alert datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos547",
+      "size": "1444"
+    },
+    {
+      "title": "INA4230 48V, Quad Channel, 16-Bit, Current, Voltage, Power, and Energy Monitor With an I2C Interface datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosad4",
+      "size": "1349"
+    },
+    {
+      "title": "INA4235 48V, Quad Channel, 16-Bit, Ultra - Precise, Current, Voltage, Power, and Energy Monitor With an I2C In datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosab5",
+      "size": "1380"
+    },
+    {
+      "title": "INA236    48-V, 16-Bit, Ultra-Precise, Current, Voltage, and Power Monitor With an I2C    Interface    datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa81",
+      "size": "1916"
+    },
+    {
+      "title": "INA234    28-V, 12-Bit,  Current, Voltage, and Power Monitor With an I2C    Interface    datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos844",
+      "size": "1878"
+    },
+    {
+      "title": "INA232    48-V, 16-Bit,  Current, Voltage, and Power Monitor With an I2C    Interface datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosaa2",
+      "size": "1618"
+    },
+    {
+      "title": "INA231 28-V, 16-Bit, I2C Output Current, Voltage and Power Monitor With Alert in        WCSP Package datasheet (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos644",
+      "size": "1319"
+    },
+    {
+      "title": "INA228        85-V,            20-Bit, Ultra-Precise Power/Energy/Charge Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys021",
+      "size": "2377"
+    },
+    {
+      "title": "INA237        85-V,            16-Bit, Precision Power Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa20",
+      "size": "2126"
+    },
+    {
+      "title": "INA229        85-V,            20-Bit, Ultra-Precise Power/Energy/Charge Monitor With SPI Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys023",
+      "size": "2415"
+    },
+    {
+      "title": "INA239        85-V,            16-Bit, High-Precision Power Monitor With SPI Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys027",
+      "size": "2225"
+    },
+    {
+      "title": "INA238        85-V,            16-Bit, High-Precision Power Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys025",
+      "size": "2151"
+    },
+    {
+      "title": "INA229-Q1        AEC-Q100, 85-V,            20-Bit, Ultra-Precise Power/Energy/Charge Monitor With SPI Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys024",
+      "size": "2916"
+    },
+    {
+      "title": "INA237-Q1        AEC-Q100, 85-V,            16-Bit, Precision Power Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosa27",
+      "size": "2687"
+    },
+    {
+      "title": "INA238-Q1        AEC-Q100, 85-V,            16-Bit, High-Precision Power Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys026",
+      "size": "2711"
+    },
+    {
+      "title": "INA239-Q1        AEC-Q100, 85-V,            16-Bit, High-Precision Power Monitor With SPI Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys028",
+      "size": "2753"
+    },
+    {
+      "title": "INA228-Q1        AEC-Q100, 85-V,            20-Bit, Ultra-Precise Power/Energy/Charge Monitor With I2C Interface datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slys022",
+      "size": "2886"
+    },
+    {
+      "title": "INA3221-Q1AEC-Q100, 26-V, Triple Channel, 13-Bit, I2C Output                                    Current and Voltage Monitor With Alerts datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos776",
+      "size": "2105"
+    },
+    {
+      "title": "INA220-Q1 Automotive Grade,\n\t 26-V, Bi-Directional, Zero-Drift,\n\t Low- or High-Side, I2C-Compatible Current/Power Monitor datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos785",
+      "size": "1354"
+    },
+    {
+      "title": "INA3221\n\t Triple-Channel, High-Side Measurement,\n\t Shunt and Bus Voltage Monitor with I2C- and SMBUS-Compatible\n\t Interface datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos576",
+      "size": "1966"
+    },
+    {
+      "title": "INA220 High- or Low-Side,\n\t Bidirectional Current and Power Monitor\n\t With Two-Wire Interface datasheet (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos459",
+      "size": "1467"
+    },
+    {
+      "title": "LMP92064 Precision Low-Side, 125-kSps Simultaneous Sampling, Current Sensor and Voltage Monitor With SPI datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoscx0",
+      "size": "799"
+    },
+    {
+      "title": "INA219 Zerø-Drift, Bidirectional Current/Power\n\t Monitor With I2C Interface datasheet (Rev. G)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos448",
+      "size": "834"
+    },
+    {
+      "title": "System Power Measurement IC with PMBus datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvs784",
+      "size": "512"
+    },
+    {
+      "title": "System Power Measurement IC with PMBus. datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvs785",
+      "size": "517"
+    },
+    {
+      "title": "LM5056/LM5056A High Voltage System Power Measurement Device with PMBus datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvs827",
+      "size": "963"
+    },
+    {
+      "title": "High-Side Measurement, Bi-Directional Current/Power Monitor with I2C Interface datasheet (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos403",
+      "size": "1850"
+    }
+  ]
+}

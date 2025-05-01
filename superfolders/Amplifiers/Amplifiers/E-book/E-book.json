@@ -1,0 +1,72 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "docType": {
+    "value": "17",
+    "name": "E-book"
+  },
+  "totalPDFs": 11,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "Analog Engineer’s Circuit Cookbook: Amplifiers (Rev. D)"
+    },
+    {
+      "title": "Analog Engineer’s Circuit Cookbook: Amplifiers (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy137",
+      "size": "14959"
+    },
+    {
+      "title": "An Engineer's Guide to Current Sensing (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy154",
+      "size": "4900"
+    },
+    {
+      "title": "Tips and tricks for designing with voltage references (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyc147",
+      "size": "5542"
+    },
+    {
+      "title": "An Engineer’s Guide to Designing with Precision Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy209",
+      "size": "8953"
+    },
+    {
+      "title": "Ein Techniker-Leitfaden für Industrieroboter-Designs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/gery011",
+      "size": "12421"
+    },
+    {
+      "title": "E-book: An engineer’s guide to industrial robot designs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/ssiy006",
+      "size": "3766"
+    },
+    {
+      "title": "Radiation Handbook for Electronics (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgzy002",
+      "size": "7976"
+    },
+    {
+      "title": "The Signal e-book: A compendium of blog posts on op amp design topics",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt701",
+      "size": "17554"
+    },
+    {
+      "title": "Analog Engineer’s Pocket Reference Guide Fifth Edition (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyw038",
+      "size": "8066"
+    },
+    {
+      "title": "The Best of Baker's Best – Amplifiers eBook",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyc124",
+      "size": "4366"
+    }
+  ]
+}

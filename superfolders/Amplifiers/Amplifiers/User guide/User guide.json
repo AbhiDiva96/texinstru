@@ -1,0 +1,642 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "docType": {
+    "value": "6",
+    "name": "User guide"
+  },
+  "totalPDFs": 125,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "PGA309 User's Guide (Rev. C)"
+    },
+    {
+      "title": "PGA309 User's Guide (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou024",
+      "size": "2306"
+    },
+    {
+      "title": "INA700EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou285",
+      "size": "2597"
+    },
+    {
+      "title": "Migration From INA219 to INA232",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa539",
+      "size": "736"
+    },
+    {
+      "title": "TLV3811EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou189",
+      "size": "2037"
+    },
+    {
+      "title": "TLV3602 EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou193",
+      "size": "1981"
+    },
+    {
+      "title": "TLV3801EVM User’s Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou184",
+      "size": "3648"
+    },
+    {
+      "title": "OPA593EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou268",
+      "size": "2012"
+    },
+    {
+      "title": "INA-DUAL-2AMP-EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou272",
+      "size": "812"
+    },
+    {
+      "title": "DYY-AMP Evaluation Module (EVM)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou252",
+      "size": "1317"
+    },
+    {
+      "title": "SMALL-AMP-DIP Evaluation Module (EVM) (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou215",
+      "size": "1121"
+    },
+    {
+      "title": "Universal Instrumentation Amplifier EVM: Alternate Pinout User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou226",
+      "size": "2750"
+    },
+    {
+      "title": "LMH32401IRGT Evaluation Module User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou233",
+      "size": "1937"
+    },
+    {
+      "title": "IMETER-BOOST User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/swru532",
+      "size": "3711"
+    },
+    {
+      "title": "OPA2837DGK Evaluation Module",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou498",
+      "size": "839"
+    },
+    {
+      "title": "OPA837DBV Evaluation Module",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou472",
+      "size": "454"
+    },
+    {
+      "title": "OPA837DCK Evaluation Module",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou473",
+      "size": "445"
+    },
+    {
+      "title": "BOOSTXL-TLV8544PIR User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou148",
+      "size": "2977"
+    },
+    {
+      "title": "DIP Adapter EVM Usage Instructions (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyu010",
+      "size": "1252"
+    },
+    {
+      "title": "INA302 and INA303 Evaluation Modules",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou185",
+      "size": "1529"
+    },
+    {
+      "title": "Single-Supply Thermocouple with RTD Base Cold-Junction Compensation Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tiduba5",
+      "size": "23214"
+    },
+    {
+      "title": "Single-Supply Analog Input Module With 16-Bit 8-Channel ADC for PLC Design Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu291",
+      "size": "2565"
+    },
+    {
+      "title": "Instrumentation Amplifier With DC Rejection Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu990",
+      "size": "1080"
+    },
+    {
+      "title": "DEM-OPA-MSOP-1B Demonstration Fixture (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou044",
+      "size": "220"
+    },
+    {
+      "title": "DRV2700EVM Quick Start Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyu023",
+      "size": "790"
+    },
+    {
+      "title": "Low-Drift Bidirectional Single-Supply Low-Side Current Sensing Design Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu357",
+      "size": "842"
+    },
+    {
+      "title": "TINA Simulation Schematic of a Two-Node, Power-Line Communication System",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou133",
+      "size": "3462"
+    },
+    {
+      "title": "LMH6321 PSOP & TO-263 Sin Open Loop HS Buffer Eval Brds (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa468",
+      "size": "2524"
+    },
+    {
+      "title": "LMH6515EL Digital Controlled, Variable Gain Amplifier Evaluation Board (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa482",
+      "size": "4463"
+    },
+    {
+      "title": "LMH6552SDEVAL High Speed Differential Amplifier Evaluation Board (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa496",
+      "size": "544"
+    },
+    {
+      "title": "LMP7300 Single Precision Comparator w/ Reference Evaluation Boards (SOIC & MSOP) (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa491",
+      "size": "1203"
+    },
+    {
+      "title": "LMH6514 Digital Controlled Variable Gain Amplifier Evaluation Board (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa524",
+      "size": "4463"
+    },
+    {
+      "title": "LMH6553SDEVAL High Speed Differential Amplifier Evaluation Board (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa528",
+      "size": "544"
+    },
+    {
+      "title": "LMH6554LE-EVAL High Speed Differential Amplifier Evaluation Board (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa541",
+      "size": "117"
+    },
+    {
+      "title": "AN-2095 LMH730316 SOT23-5 / SOT23-6 Hi Performance Amplifier Eval Board (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa556",
+      "size": "9195"
+    },
+    {
+      "title": "AN-1840 USB I 2 C Interface Board Reference Manual (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva343",
+      "size": "7164"
+    },
+    {
+      "title": "LMV243 Single-Channel, Quad-Band GSM Power Controller Evaluation Board (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa008",
+      "size": "292"
+    },
+    {
+      "title": "AN-1806 LMV232 Evaluation Board (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa009",
+      "size": "327"
+    },
+    {
+      "title": "AN-1817 LMV225/LMV228 WSON Evaluation Board (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa010",
+      "size": "183"
+    },
+    {
+      "title": "AN-2064 LMH2120 Evaluation Board (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa012",
+      "size": "1804"
+    },
+    {
+      "title": "AN-1804 LMV225/LMV228 DSBGA Evaluation Board (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa007",
+      "size": "783"
+    },
+    {
+      "title": "LMP2021MAEVAL - Bridge Sensor Instrumentation Amp Evaluation Board User Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa537",
+      "size": "189"
+    },
+    {
+      "title": "Evaluation Board for the LMV221 Logarithmic Power Detector (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa006",
+      "size": "375"
+    },
+    {
+      "title": "LMP8480EVM Current Shunt Monitors Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou031",
+      "size": "532"
+    },
+    {
+      "title": "VCA8500BOARD (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou216",
+      "size": "1051"
+    },
+    {
+      "title": "THS4532 EVM",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou358",
+      "size": "553"
+    },
+    {
+      "title": "AN-2270 LM5056 Evaluation Board",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvu201",
+      "size": "1652"
+    },
+    {
+      "title": "DEM-OPA-SO-1B User's Guide (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou026",
+      "size": "167"
+    },
+    {
+      "title": "DEM-BUF-SO-1A Demonstration Fixture (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbau118",
+      "size": "104"
+    },
+    {
+      "title": "DEM-OPA-SO-1A User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou009",
+      "size": "83"
+    },
+    {
+      "title": "DEM-OPA-SOT-1A User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou010",
+      "size": "153"
+    },
+    {
+      "title": "LMP8646EB User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou010",
+      "size": "859"
+    },
+    {
+      "title": "PGA308 User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou069",
+      "size": "811"
+    },
+    {
+      "title": "LM5072 5V out 25W IEEE 802.3at Compliant POE+ PD Power Ref Design User Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvu110",
+      "size": "1444"
+    },
+    {
+      "title": "AN-2144 LM25056 Evaluation Board",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva613",
+      "size": "6566"
+    },
+    {
+      "title": "THS4531DGKEVM Evaluation Module",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou334",
+      "size": "568"
+    },
+    {
+      "title": "TSW3725 Evaluation Module",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slwu074",
+      "size": "3197"
+    },
+    {
+      "title": "OPA2835DGS, OPA2836DGS EVM",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou325",
+      "size": "318"
+    },
+    {
+      "title": "Multi-Cal-PGA308 System User Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou105",
+      "size": "3386"
+    },
+    {
+      "title": "DEM-OPA-SO-1B User's Guide (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou026",
+      "size": "160"
+    },
+    {
+      "title": "DEM-BUF-SOT-1A User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbau117",
+      "size": "155"
+    },
+    {
+      "title": "Multi-Cal-Interface User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou093",
+      "size": "551"
+    },
+    {
+      "title": "Multi-Cal-Slave User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou094",
+      "size": "468"
+    },
+    {
+      "title": "Multi-Cal-Cable User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou092",
+      "size": "252"
+    },
+    {
+      "title": "DEM-OPA-SO-3B User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou018",
+      "size": "145"
+    },
+    {
+      "title": "Multi-Cal-Test Users Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou088",
+      "size": "598"
+    },
+    {
+      "title": "Multi-Cal-Master User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou089",
+      "size": "3081"
+    },
+    {
+      "title": "DEM-OPA-SO-2A User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou003",
+      "size": "85"
+    },
+    {
+      "title": "DEM-VCA-SO-1A User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou025",
+      "size": "111"
+    },
+    {
+      "title": "DEM-BUF-SO-1A Demonstration Fixture (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbau118",
+      "size": "99"
+    },
+    {
+      "title": "USB DIG Platform User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou058",
+      "size": "748"
+    },
+    {
+      "title": "DEM-OPA-SSOP-3E User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou043",
+      "size": "157"
+    },
+    {
+      "title": "DEM-OPA-SO-1E User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou045",
+      "size": "212"
+    },
+    {
+      "title": "DEM-OPA-SO-1D Demonstration Fixture (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou049",
+      "size": "100"
+    },
+    {
+      "title": "DEM-OPA-MSOP-1A User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou042",
+      "size": "103"
+    },
+    {
+      "title": "DEM-OPA-SO-4A User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou016",
+      "size": "135"
+    },
+    {
+      "title": "THS6032 Low-Power ADSL Central-Office Line Driver Evaluation Module (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou078",
+      "size": "427"
+    },
+    {
+      "title": "tioScript Editor Users Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou070",
+      "size": "850"
+    },
+    {
+      "title": "Voltage-Controlled Amplifier Evaluation Kit",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slwu058",
+      "size": "1275"
+    },
+    {
+      "title": "DEM-OPA-TSSOP-4A User's Guide (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou017",
+      "size": "141"
+    },
+    {
+      "title": "USB DAQ Platform User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou056",
+      "size": "1145"
+    },
+    {
+      "title": "DEM-OPA-SSOP-3C User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou047",
+      "size": "372"
+    },
+    {
+      "title": "DEM-OPA-SO-1C User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou039",
+      "size": "108"
+    },
+    {
+      "title": "DEM-OPA-SSOP-3A User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou006",
+      "size": "139"
+    },
+    {
+      "title": "DEM-OPA-SO-3A User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou007",
+      "size": "131"
+    },
+    {
+      "title": "DEM-OPA-SSOP-3B User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou019",
+      "size": "225"
+    },
+    {
+      "title": "DEM-OPA-SO-2D User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou002",
+      "size": "111"
+    },
+    {
+      "title": "DEM-OPA-SOT-2A User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou001",
+      "size": "137"
+    },
+    {
+      "title": "DEM-OPA-MSOP-2A User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou004",
+      "size": "95"
+    },
+    {
+      "title": "DEM-OPA-SO-2B User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou030",
+      "size": "108"
+    },
+    {
+      "title": "DEM-OPA-SO-2C User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou029",
+      "size": "107"
+    },
+    {
+      "title": "DEM-OPA-SOT-1B User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou027",
+      "size": "96"
+    },
+    {
+      "title": "DEM-OPA-SOT-1A User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou010",
+      "size": "111"
+    },
+    {
+      "title": "DEM-OPA-SO-1A User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou009",
+      "size": "110"
+    },
+    {
+      "title": "DEM-OTA-SO-1A User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbou035",
+      "size": "124"
+    },
+    {
+      "title": "Ultrasound Receive Chain Demonstration Platform User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbau119",
+      "size": "6701"
+    },
+    {
+      "title": "Using PGA309 for Sensor Compensation",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou168",
+      "size": "1596"
+    },
+    {
+      "title": "DAP Signaling Conditioning Board Users Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slau105",
+      "size": "209"
+    },
+    {
+      "title": "UCC38C42 30-W Synchronous Buck Converter Reference Design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sluu143",
+      "size": "428"
+    },
+    {
+      "title": "Universal Operational Amplifier Evaluation Module Selection Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou060",
+      "size": "20"
+    },
+    {
+      "title": "Universal Op Amp Single, Dual, Quad (SOIC) Evaluation Module With Shutdown (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou061",
+      "size": "457"
+    },
+    {
+      "title": "Universal Operational Amplifier Single, Dual, Quad (PDIP) (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou062",
+      "size": "513"
+    },
+    {
+      "title": "THS4082 Dual Low-Power High-Speed Operational Amplifier Evaluation Module",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou075",
+      "size": "141"
+    },
+    {
+      "title": "THS4081 Low-Power High Speed Operational Amplifier Evaluation Module",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou076",
+      "size": "81"
+    },
+    {
+      "title": "THS6072 Dual High-Speed Operational Amplifier Evaluation Module",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou079",
+      "size": "139"
+    },
+    {
+      "title": "Dual C-Stable High-Speed Operational Amplifier Evaluation Module User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou070",
+      "size": "151"
+    },
+    {
+      "title": "THS7001 Programmable-Gain Amplifier Evaluation Module User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou057",
+      "size": "286"
+    },
+    {
+      "title": "THS4021 High-Speed Operational Amplifier Evaluation Module User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou063",
+      "size": "109"
+    },
+    {
+      "title": "Universal Operational Amplifier Single, Dual, Quad (MSOP/TSSOP)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou055",
+      "size": "1196"
+    },
+    {
+      "title": "THS4061 High-Speed Op Amp EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou038",
+      "size": "83"
+    },
+    {
+      "title": "THS7002 Programmable-Gain Amplifier Evaluation Module User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou037",
+      "size": "321"
+    },
+    {
+      "title": "THS4052 Dual High-Speed Operational Amplifier Evaluation Module User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou050",
+      "size": "147"
+    },
+    {
+      "title": "THS4031 High-Speed Operational Amplifier EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou030",
+      "size": "86"
+    },
+    {
+      "title": "THS4011 EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou028",
+      "size": "74"
+    },
+    {
+      "title": "THS4012 Dual High-Speed Op Amp EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou041",
+      "size": "144"
+    },
+    {
+      "title": "THS4062 Dual High-Speed Operational Amplifier EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou040",
+      "size": "171"
+    },
+    {
+      "title": "Universal Operational Amplifier EVM (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvu006",
+      "size": "387"
+    },
+    {
+      "title": "THS3001 EVM User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou021",
+      "size": "118"
+    },
+    {
+      "title": "THS4032 Dual High-Speed Op Amp EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou039",
+      "size": "174"
+    },
+    {
+      "title": "THS6062 EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou036",
+      "size": "162"
+    },
+    {
+      "title": "THS6022 EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou035",
+      "size": "205"
+    },
+    {
+      "title": "THS6012 EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou034",
+      "size": "211"
+    },
+    {
+      "title": "Universal Op Amp Eval Module With Shutdown",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvu009",
+      "size": "221"
+    },
+    {
+      "title": "THS6002 Dual Differential Line Driver And Receiver EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou018",
+      "size": "256"
+    },
+    {
+      "title": "THS4001 EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slou017",
+      "size": "111"
+    }
+  ]
+}

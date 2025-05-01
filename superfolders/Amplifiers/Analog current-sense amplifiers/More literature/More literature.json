@@ -1,0 +1,852 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3172",
+    "name": "Analog current-sense amplifiers"
+  },
+  "docType": {
+    "value": "5",
+    "name": "More literature"
+  },
+  "totalPDFs": 167,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "Webinar: Comparator applications"
+    },
+    {
+      "title": "Webinar: Comparator applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slypa84",
+      "size": "3022"
+    },
+    {
+      "title": "Webinar: Amplifier fundamentals and specifications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slypa73",
+      "size": "2112"
+    },
+    {
+      "title": "Advanced amplifier technologies",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slypa74",
+      "size": "2970"
+    },
+    {
+      "title": "Webinar: Input voltage noise input current noise and filtering techniques",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slypa75",
+      "size": "2587"
+    },
+    {
+      "title": "Webinar: Circuit stability analysis and compensation schemes",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slypa76",
+      "size": "3422"
+    },
+    {
+      "title": "TI Engineering Evaluation Units vs. MIL-PRF-38535 QML Class V Processing (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyb235",
+      "size": "229"
+    },
+    {
+      "title": "NPU: Versatile operational amplifiers for your automotive systems",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slypa44",
+      "size": "1233"
+    },
+    {
+      "title": "NPU: Next Generation High Voltage Comparators for Robust Monitoring Designs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slypa43",
+      "size": "1612"
+    },
+    {
+      "title": "NPU: INA500 - Cost and Size Optimized Difference Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyp997",
+      "size": "1245"
+    },
+    {
+      "title": "NPU comparators webinar",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyp990",
+      "size": "1893"
+    },
+    {
+      "title": "TI's newest integrated shunt current sensing solution, EZShunt™ Technology",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyp950",
+      "size": "1213"
+    },
+    {
+      "title": "New Product Update: OPAX310 - A 2-in-1 amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyp876",
+      "size": "1841"
+    },
+    {
+      "title": "NPU: LM324B and LM2902B Next generation quad channel low-cost op amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slop415",
+      "size": "844"
+    },
+    {
+      "title": "New product update: Small-size digital power monitors",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slop412",
+      "size": "1108"
+    },
+    {
+      "title": "New product update: High-precision, multi-channel current sense amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyp781",
+      "size": "1185"
+    },
+    {
+      "title": "New product update: High-precision multi-decade current sensing",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyp776",
+      "size": "1581"
+    },
+    {
+      "title": "New Product Update: Transimpedance Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyp770",
+      "size": "1414"
+    },
+    {
+      "title": "New Product Update: Comparators",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyp769",
+      "size": "1297"
+    },
+    {
+      "title": "Getting started with the new PSpice® for TI\u000bdesign and simulation tool",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYP725",
+      "size": "1926"
+    },
+    {
+      "title": "Calculating and simulating error in current sensing systems",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYP710",
+      "size": "2283"
+    },
+    {
+      "title": "How to resolve op-amp stability issues using SPICE simulations",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYP716",
+      "size": "3333"
+    },
+    {
+      "title": "How to Troubleshoot Op Amp PCB Layout Issues with Real World Examples",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYP683",
+      "size": "1423"
+    },
+    {
+      "title": "TI Automotive External Amplifiers (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyw070",
+      "size": "1255"
+    },
+    {
+      "title": "Precision Amplifier Quickstart Kit brochure (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyb226",
+      "size": "743"
+    },
+    {
+      "title": "Over-Current Detection Products Brochure",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slob091",
+      "size": "1285"
+    },
+    {
+      "title": "A High-Voltage Bidirectional Current Source",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyy054",
+      "size": "6013"
+    },
+    {
+      "title": "Amplifiers for Displays",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt524",
+      "size": "877"
+    },
+    {
+      "title": "DRV2604EVM-CT Quick Start Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snob005",
+      "size": "644"
+    },
+    {
+      "title": "Die D/S LMC6062I-MDC-MWC Precision CMOS Dual Micropower Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao368",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LMH6612-MDP Single Supply 345 MHz Rail-to-Rail Output Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao372",
+      "size": "52"
+    },
+    {
+      "title": "Die D/S LMH6715-MDC MWC Dual Wideband Video Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao386",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LMP7702-MDA Precision Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao406",
+      "size": "55"
+    },
+    {
+      "title": "Die D/S LMP7716Q MDA MWA Dual Precision, 17  MHZ, Low Noise, CMOS Input Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao483",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LMP7721-MDC Femtoampere Input Bias Currect Precision Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao484",
+      "size": "56"
+    },
+    {
+      "title": "Die D/S LMV794 MDA MWA Low Noise and Low Power Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao488",
+      "size": "53"
+    },
+    {
+      "title": "Die D/S LM2901 MDA MWA Low Power Low Offset Voltage Quad Comparators",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao491",
+      "size": "43"
+    },
+    {
+      "title": "Die D/S LM139 MDS MCD2980A Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao459",
+      "size": "53"
+    },
+    {
+      "title": "Die D/S LM158A MDE MCD2860A SMD#5962R8771003V9A Low Power Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao461",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LM158A MDR MCD2630A SMD#5962R8771002V9A Low Power Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao462",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LM111 MDS MCD1680A Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao369",
+      "size": "127"
+    },
+    {
+      "title": "Die D/S LM118 MDS MCD0290A Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao373",
+      "size": "49"
+    },
+    {
+      "title": "Die D/S LM118 MDS MCD4070A Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao374",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM119 MDE MCD2900A High Speed Dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao375",
+      "size": "52"
+    },
+    {
+      "title": "Die D/S LM119 MDS MCD1410A High Speed dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao376",
+      "size": "43"
+    },
+    {
+      "title": "Die D/S LM119 MDS High Speed Dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao377",
+      "size": "150"
+    },
+    {
+      "title": "Die D/S LM124 MDS MCD0870A Low Power Quad Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao379",
+      "size": "150"
+    },
+    {
+      "title": "Die D/S LM124 MDS MCD2440A Low Power Quad Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao380",
+      "size": "53"
+    },
+    {
+      "title": "Die D/S LM139 MDS MCD0850A Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao387",
+      "size": "146"
+    },
+    {
+      "title": "Die D/S LM139 MDS MCD1050A Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao388",
+      "size": "85"
+    },
+    {
+      "title": "Die D/S LM139 MDS MCD2070A Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao389",
+      "size": "150"
+    },
+    {
+      "title": "Die D/S LM139 MDS MCD2390A Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao390",
+      "size": "53"
+    },
+    {
+      "title": "Die D/S LM158A MDS Low Power Dual Operational Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao391",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LM6172 MDR MCD3010A  Dual High Speed, Low Power, Low Dist Voltage Feed",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao393",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM6172 MDR Dual High Speed, Low Power, Low Distortion Voltage Feedback",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao394",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM6172 MDE Dual High Speed, Low Power, Low Distortion Voltage Feedback",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao395",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LMP2012 MDE MCD5060A Dual, High Precision, Rail-to-Rail Output Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao396",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LMP7701-MDA Precision 250uA Vos (25C) Single Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao397",
+      "size": "49"
+    },
+    {
+      "title": "Die D/S LMP2012 MDR MCD3080A Dual, High Precision, Rail-to-Rail Output Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao398",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LMP2012 MDR MCD3090A Dual, High Precision, Rail-to-Rail Output Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao399",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LMP2012 MDR Dual, High Precision, Rail-to-Rail Output Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao400",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LF156 MD8 MCD2280A JFET Input Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao410",
+      "size": "49"
+    },
+    {
+      "title": "Die D/S LF156 MD8 MCD2510A JFET Input Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao411",
+      "size": "49"
+    },
+    {
+      "title": "Die D/S LF156 MD8 MW8 JFET Input Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao412",
+      "size": "144"
+    },
+    {
+      "title": "Die D/S LF156 MW8 MCD2500A JFET Input Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao414",
+      "size": "49"
+    },
+    {
+      "title": "Die D/S LF442 MD8 Dual Low Power JFET Input Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao416",
+      "size": "58"
+    },
+    {
+      "title": "Die D/S LM101A MD8 MCD2830A Operational Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao418",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LM111 MD8 MCD1150A Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao419",
+      "size": "43"
+    },
+    {
+      "title": "Die D/S LM111 MD8 MCD1390A Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao420",
+      "size": "43"
+    },
+    {
+      "title": "Die D/S LM111 MD8 MCD2000A Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao421",
+      "size": "40"
+    },
+    {
+      "title": "Die D/S LM111 MD8 MCD2430A Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao422",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LM111 MW8 MCD1180A Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao423",
+      "size": "43"
+    },
+    {
+      "title": "Die D/S LM119 MD8 MCD2180A High Speed Dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao428",
+      "size": "144"
+    },
+    {
+      "title": "Die D/S LM119 MD8 MCD2490A High Speed Dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao429",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LM119 MD8 MCD2760A High Speed Dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao430",
+      "size": "53"
+    },
+    {
+      "title": "Die D/S LM139 MW8 MCD1800A Low Power Low Offset Voltage Quad Comp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao438",
+      "size": "128"
+    },
+    {
+      "title": "Die D/S LM158 MD8 MCD2540A Low PowerDual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao442",
+      "size": "52"
+    },
+    {
+      "title": "Die D/S LM747 MD8 MW8 Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao454",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LMP2012 MDP Dual, High Precision, Rail-to-Rail Output Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao455",
+      "size": "50"
+    },
+    {
+      "title": "DRV2605EVM-CT Quick Start Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/szzb127",
+      "size": "674"
+    },
+    {
+      "title": "Die D/S LM148 MD8 MCD2660A Series Quad 741 Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao362",
+      "size": "53"
+    },
+    {
+      "title": "Die D/S LM319 MDA MWA High Speed Dual Comparator (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao177",
+      "size": "53"
+    },
+    {
+      "title": "Die D/S LF412 MDC MWC Low Offset, Low Drift Dual JFET Input Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao358",
+      "size": "147"
+    },
+    {
+      "title": "Die D/S LM124 MDE Low Power Quad Operational Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao359",
+      "size": "89"
+    },
+    {
+      "title": "Die D/S LM139 MDE Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao356",
+      "size": "54"
+    },
+    {
+      "title": "Die D/S LMP2234A MDC Quad Micropower 1.6V Precision Op Amp w/ CMOS Input",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao332",
+      "size": "67"
+    },
+    {
+      "title": "Die D/S LF147-MD8 Wide Bandwidth Quad JFET Input Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao334",
+      "size": "56"
+    },
+    {
+      "title": "Die D/S LM124 MDE MCD2590A Low Power Quad Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao347",
+      "size": "53"
+    },
+    {
+      "title": "Die D/S LM119 MD8 High Speed Dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao352",
+      "size": "127"
+    },
+    {
+      "title": "Featured High Speed Differential Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyb199",
+      "size": "2002"
+    },
+    {
+      "title": "Die D/S LMP7716Q MDA MCD4090A Dual Precision, 17 MHz, Low Noise, CMOS Input Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao329",
+      "size": "53"
+    },
+    {
+      "title": "Efficiency from Metering to Service Solutions",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt495",
+      "size": "2955"
+    },
+    {
+      "title": "Die D/S LMC6081 MDA Precision Cmos Single Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao265",
+      "size": "44"
+    },
+    {
+      "title": "Die D/S LMC6462B MDC Dual Micropower, Rail-Rail Input And Output Cmos Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao267",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LMC6482AI MDA Cmos Dual Rail-Rail Input And Output Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao268",
+      "size": "52"
+    },
+    {
+      "title": "Die D/S LMC6482M MD8 Cmos Dual Rail-Rail Input And Output Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao269",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LMC6762 MDA Dual Micro-Pwr Rail-Rail Input Cmos Compw/ Push-Pull Output",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao272",
+      "size": "44"
+    },
+    {
+      "title": "Die D/S LMH6609 MDC  900Mhz Voltage Feedback Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao276",
+      "size": "209"
+    },
+    {
+      "title": "Die D/S LMH6622 MDC  Dual Wideband, Low Noise, 160Mhz, Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao277",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LMH6624 MDC Ultra Low Noise Wideband Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao278",
+      "size": "129"
+    },
+    {
+      "title": "Die D/S LMH6626 MDC  Dual Ultra Low Noise Wideband Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao279",
+      "size": "52"
+    },
+    {
+      "title": "Die D/S LMH6629 MDC  Ultra-Low Noise, High-Speed Op Amp With Shutdown",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao280",
+      "size": "55"
+    },
+    {
+      "title": "Die D/S LMH6639 MDC  190Mhz Rail-Rail Output Amplifier With Disable",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao281",
+      "size": "55"
+    },
+    {
+      "title": "Die D/S LMH6646 MDC 2.7V, 650µa, 55Mhz, Rail-Rail Input/Output Amp W/ Shutdown",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao282",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LMH6702 MDC  Ultra Low Distortion, Wideband Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao283",
+      "size": "42"
+    },
+    {
+      "title": "Die D/S LMH6715 MDR  Dual Wideband Video Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao284",
+      "size": "52"
+    },
+    {
+      "title": "Die D/S LMH6723 MDC  Single 370 Mhz 1 Ma Current Feedback Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao285",
+      "size": "55"
+    },
+    {
+      "title": "Die D/S LMP2012 MDE Dual, High Precision, Rail-Rail Output Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao286",
+      "size": "52"
+    },
+    {
+      "title": "Die D/S LMV393 MDC Dual Gen Purpose, Low Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao293",
+      "size": "128"
+    },
+    {
+      "title": "Die D/S LMV7239 MDC  45Ns,Low Voltage, Rail-Rail Input Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao299",
+      "size": "50"
+    },
+    {
+      "title": "Die D/S LMV762 MDC  Low Voltage, Precision Comparator w/Push-Pull Output",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao300",
+      "size": "128"
+    },
+    {
+      "title": "Die D/S LMV794 MDC Low Noise And Low Power Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao301",
+      "size": "345"
+    },
+    {
+      "title": "Die D/S LP339 MWA Ultra-Low Power Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao316",
+      "size": "130"
+    },
+    {
+      "title": "Die D/S LPV324 MDC Gen Purpose, Low Voltage, Low Power, Rail-Rail Output Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao319",
+      "size": "46"
+    },
+    {
+      "title": "Die D/S LM392 MWA Low Power Op Amp Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao204",
+      "size": "128"
+    },
+    {
+      "title": "Die D/S LM393 MWC Low Power Low Offset Voltage Dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao205",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM397 MDC Single Gen Purpose Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao207",
+      "size": "44"
+    },
+    {
+      "title": "Die D/S LM6172 MDC Dual Hi Spd, Low Pwr, Low Distortion Voltage Feedback Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao236",
+      "size": "44"
+    },
+    {
+      "title": "Die D/S LM741 MD8  Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao241",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM747 MDC Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao243",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LM339 MDC Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao191",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LM361 MWC High Speed Differential Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao199",
+      "size": "44"
+    },
+    {
+      "title": "Die D/S LM258 MDC Low Power Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao133",
+      "size": "127"
+    },
+    {
+      "title": "Die D/S LM2901 MDA Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao151",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LM2901 MWC Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao152",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LM311 MDA Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao172",
+      "size": "44"
+    },
+    {
+      "title": "Die D/S LM193 MD8 Low Power Low Offset Voltage Dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao118",
+      "size": "127"
+    },
+    {
+      "title": "Die D/S LM193 MDE Low Power Low Offset Voltage Dual Comparators",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao119",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM193 MDR Low Power Low Offset Voltage Dual Comparators",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao120",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM139 MDE MCD2610A Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao097",
+      "size": "54"
+    },
+    {
+      "title": "Die D/S LM139 MDR Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao098",
+      "size": "54"
+    },
+    {
+      "title": "Die D/S LM139 MDS MCD2980A Low Pwr Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao099",
+      "size": "54"
+    },
+    {
+      "title": "Die D/S LM139 MW8 Low Power Low Offset Voltage Quad Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao100",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LM148 MD8 Series Quad 741 Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao105",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LM1558 MD8 Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao107",
+      "size": "127"
+    },
+    {
+      "title": "Die D/S LM158 MD8 Low Power Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao109",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM158A MD8 Low Power Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao110",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM158A MDE Low Power Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao111",
+      "size": "49"
+    },
+    {
+      "title": "Die D/S LM158A MDR Low Power Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao112",
+      "size": "87"
+    },
+    {
+      "title": "Die D/S LM158A MDS Low Power Dual Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao113",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM124 MD8 Low Power Quad Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao077",
+      "size": "43"
+    },
+    {
+      "title": "Die D/S LM124 MW8 Low Power Quad Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao078",
+      "size": "88"
+    },
+    {
+      "title": "Die D/S LM124 MDE Low Power Quad Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao079",
+      "size": "88"
+    },
+    {
+      "title": "Die D/S LM124 MDR Low Power Quad Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao080",
+      "size": "88"
+    },
+    {
+      "title": "Die D/S LM124 MDS Low Power Quad Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao081",
+      "size": "151"
+    },
+    {
+      "title": "Die D/S LM124 MW8 Low Power Quad Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao082",
+      "size": "45"
+    },
+    {
+      "title": "Die D/S LM111 MD8 Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao054",
+      "size": "44"
+    },
+    {
+      "title": "Die D/S LM111 MDS Voltage Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao055",
+      "size": "128"
+    },
+    {
+      "title": "Die D/S LM118 MD8 Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao070",
+      "size": "51"
+    },
+    {
+      "title": "Die D/S LM119 MDR High Speed Dual Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao072",
+      "size": "54"
+    },
+    {
+      "title": "Die D/S LF156 MD8 Jfet Input Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao033",
+      "size": "145"
+    },
+    {
+      "title": "Die D/S LF398 MDC Monolithic Sample And Hold Circuit",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao036",
+      "size": "56"
+    },
+    {
+      "title": "Die D/S LF412 MD8 Low Offset, Low Drift Dual Jfet Input Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao039",
+      "size": "166"
+    },
+    {
+      "title": "Smart Relays for Solar Inverters",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyb195",
+      "size": "187"
+    },
+    {
+      "title": "Die D/S LMH6644-MDC MWC Low Power, 130MHZ, 75MA Rail-to-Rail Output Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snao378",
+      "size": "150"
+    },
+    {
+      "title": "Analog eLab Design Tools Brochure (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sszm002",
+      "size": "4573"
+    },
+    {
+      "title": "600-mA Fully Integrated Step-Down Solution: Compact Power - TPS82671 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt386",
+      "size": "809"
+    },
+    {
+      "title": "INA220EVM (Quick-Start Guide Video)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC296",
+      "size": "119848"
+    },
+    {
+      "title": "HPA Overview Brochure (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyb131",
+      "size": "1372"
+    },
+    {
+      "title": "Industry Standard Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slob090",
+      "size": "59"
+    },
+    {
+      "title": "INA209EVM Quick-Start Guide (Video) (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOU054",
+      "size": "83300"
+    },
+    {
+      "title": "THS4031M/5962-9959501QxA 120-MHz Low-Noise, High-Speed Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgyv090",
+      "size": "26"
+    },
+    {
+      "title": "THS4051M/5962-9959901QxA 70-MHz High-Speed Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgyv092",
+      "size": "26"
+    },
+    {
+      "title": "THS4061M/5962-9960101QxA 180-MHz General-Purpose High-Speed Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgyv079",
+      "size": "24"
+    },
+    {
+      "title": "THS4011M /  5962-9959301QxA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgyv081",
+      "size": "57"
+    },
+    {
+      "title": "TLC4502M/5962-9753701QxA, TLC4502AM/5962-9753702QxA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgyv041",
+      "size": "51"
+    },
+    {
+      "title": "TLV2442M/5962-9751101QXA, TLV2442AM/5962-9751102QXA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgyv030",
+      "size": "24"
+    }
+  ]
+}

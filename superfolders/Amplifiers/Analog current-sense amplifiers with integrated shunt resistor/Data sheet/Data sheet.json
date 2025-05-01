@@ -1,0 +1,62 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "12342",
+    "name": "Analog current-sense amplifiers with integrated shunt resistor"
+  },
+  "docType": {
+    "value": "2",
+    "name": "Data sheet"
+  },
+  "totalPDFs": 9,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "INA750x      –4V to 110V,      Bidirectional, Ultra-Precise,  Current Sense Amplifier With Enhanced PWM Rejection and 35A EZShunt      Technology datasheet"
+    },
+    {
+      "title": "INA750x      –4V to 110V,      Bidirectional, Ultra-Precise,  Current Sense Amplifier With Enhanced PWM Rejection and 35A EZShunt      Technology datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosae5",
+      "size": "2373"
+    },
+    {
+      "title": "INA790x      –4V to 110V,      Bidirectional, Ultra-Precise,  Current Sense Amplifier With Enhanced PWM Rejection and 75A EZShunt      Technology datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosaa6",
+      "size": "2456"
+    },
+    {
+      "title": "INA791x      –4V to 110V,      Bidirectional, Ultra-Precise, High        Bandwidth Current Sense Amplifier With  75A EZShunt      Technology datasheet",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosad1",
+      "size": "1419"
+    },
+    {
+      "title": "INA250-Q1 AEC-Q100, 36-V, Bidirectional, Precision Current Sense Amplifier With                Integrated Shunt Resistor    datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos805",
+      "size": "1758"
+    },
+    {
+      "title": "INA250 36-V, Bidirectional, Precision Current Sense Amplifier With Integrated Shunt        Resistor    datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos511",
+      "size": "1767"
+    },
+    {
+      "title": "INA254 80-V, High-Voltage, ±75-A Integrated                Precision Shunt, Bidirectional, Zero-Drift Current-Shunt Monitor    datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos974",
+      "size": "1851"
+    },
+    {
+      "title": "INA253-Q1 AEC-Q100, 80-V, Bidirectional, Precision Current Sense Amplifier With PWM                Rejection and Integrated Shunt Resistor datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos950",
+      "size": "1458"
+    },
+    {
+      "title": "INA253 High Voltage, Bidirectional, Zero-Drift,\t Current-Shunt Monitor\t With Integrated, 2-mΩ, Precision, Low Inductive Shunt Resistor datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slos954",
+      "size": "1054"
+    }
+  ]
+}

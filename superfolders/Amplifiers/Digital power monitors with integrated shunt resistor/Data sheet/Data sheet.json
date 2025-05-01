@@ -1,0 +1,47 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "12347",
+    "name": "Digital power monitors with integrated shunt resistor"
+  },
+  "docType": {
+    "value": "2",
+    "name": "Data sheet"
+  },
+  "totalPDFs": 6,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "INA780x         85 V ,            16 -Bit, Precision         I2C Output Digital Power Monitor with EZShunt Technology datasheet (Rev. A)"
+    },
+    {
+      "title": "INA780x         85 V ,            16 -Bit, Precision         I2C Output Digital Power Monitor with EZShunt Technology datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosab6",
+      "size": "2551"
+    },
+    {
+      "title": "INA740x         85 V ,            16 -Bit, Precision         I2C Output Digital Power Monitor with EZShunt Technology datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosac1",
+      "size": "2332"
+    },
+    {
+      "title": "INA745x         40 V ,            16 -Bit, Precision         I2C Output Digital Power Monitor with EZShunt Technology datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosac3",
+      "size": "2381"
+    },
+    {
+      "title": "INA700 40 V, 16-Bit, I2C Output Digital Power Monitor in WCSP with 2 mΩ EZShunt Technology    datasheet (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbosab4",
+      "size": "2022"
+    },
+    {
+      "title": "INA260\n\t Precision Digital Current and Power Monitor With Low-Drift, Precision Integrated Shunt datasheet (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbos656",
+      "size": "1230"
+    }
+  ]
+}

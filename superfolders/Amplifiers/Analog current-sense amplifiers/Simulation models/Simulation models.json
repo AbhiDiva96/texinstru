@@ -1,0 +1,5022 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3172",
+    "name": "Analog current-sense amplifiers"
+  },
+  "docType": {
+    "value": "4",
+    "name": "Simulation models"
+  },
+  "totalPDFs": 1001,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "INA950-SEP PSpice Model Reference"
+    },
+    {
+      "title": "INA950-SEP PSpice Model Reference",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCN0",
+      "size": "1160"
+    },
+    {
+      "title": "INA950-SEP Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SWCM009",
+      "size": "59"
+    },
+    {
+      "title": "OPA4H199-SP PSpice for TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCM9",
+      "size": "17"
+    },
+    {
+      "title": "TLV1921 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM810",
+      "size": "286"
+    },
+    {
+      "title": "TLV1921 TINA-TI Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM809",
+      "size": "8"
+    },
+    {
+      "title": "LMH13000 TINA-TI SPICE Model and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM525",
+      "size": "11"
+    },
+    {
+      "title": "TLV183x PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM794",
+      "size": "1740"
+    },
+    {
+      "title": "TLVx888 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCL9",
+      "size": "1391"
+    },
+    {
+      "title": "INA310A1 PSpice Transient Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCM0",
+      "size": "410"
+    },
+    {
+      "title": "INA310A2 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCM1",
+      "size": "531"
+    },
+    {
+      "title": "INA310A1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCM2",
+      "size": "28"
+    },
+    {
+      "title": "INA310A3 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCM3",
+      "size": "29"
+    },
+    {
+      "title": "OPAx383 PSPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCL8",
+      "size": "194"
+    },
+    {
+      "title": "TLVx888 Spice Generic Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCL5",
+      "size": "4"
+    },
+    {
+      "title": "TLVx888 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCL6",
+      "size": "81"
+    },
+    {
+      "title": "TLVx888 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCL7",
+      "size": "9"
+    },
+    {
+      "title": "TLV1921 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM810",
+      "size": "75"
+    },
+    {
+      "title": "OPAx383 Generic SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCL4",
+      "size": "4"
+    },
+    {
+      "title": "TLV1921 TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM809",
+      "size": "8"
+    },
+    {
+      "title": "OPAx383 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCL1",
+      "size": "607"
+    },
+    {
+      "title": "OPAx383 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCL2",
+      "size": "10"
+    },
+    {
+      "title": "OPA4H199-SP TINA TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCL3",
+      "size": "4"
+    },
+    {
+      "title": "OPA4H199-SP TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCL0",
+      "size": "17"
+    },
+    {
+      "title": "OPAx596 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCK6",
+      "size": "6"
+    },
+    {
+      "title": "OPAx596 Generic SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCK7",
+      "size": "2"
+    },
+    {
+      "title": "TLV3511 TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM806",
+      "size": "8"
+    },
+    {
+      "title": "OPAx596 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCK8",
+      "size": "73"
+    },
+    {
+      "title": "TLV3511 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM808",
+      "size": "120"
+    },
+    {
+      "title": "OPAx596 TINA-TI Reference Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCK9",
+      "size": "56"
+    },
+    {
+      "title": "OPAx593 Spice Model (Generic)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCK4",
+      "size": "4"
+    },
+    {
+      "title": "OPA3S328 SPICE Model (Generic)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCK3",
+      "size": "7"
+    },
+    {
+      "title": "OPA3S328 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBI6",
+      "size": "15"
+    },
+    {
+      "title": "LOG300 TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM524",
+      "size": "34"
+    },
+    {
+      "title": "OPA3S328 PSPICE Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBI7",
+      "size": "42"
+    },
+    {
+      "title": "OPAx593 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBY3",
+      "size": "9"
+    },
+    {
+      "title": "OPAx593 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBY2",
+      "size": "511"
+    },
+    {
+      "title": "OPAx593 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBY1",
+      "size": "20"
+    },
+    {
+      "title": "OPA3S328 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBI8",
+      "size": "688"
+    },
+    {
+      "title": "OPAx348 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC001",
+      "size": "278"
+    },
+    {
+      "title": "OPAx171 Family PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM440",
+      "size": "32"
+    },
+    {
+      "title": "OPAx323 Stability Automated Non-Inverting Amplifier PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCI9",
+      "size": "259"
+    },
+    {
+      "title": "OPAx323 Stability Automated Inverting Amplifier PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCJ0",
+      "size": "255"
+    },
+    {
+      "title": "OPAx323 Stability Automated Difference Amplifier PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCJ1",
+      "size": "288"
+    },
+    {
+      "title": "OPAx323 Stability Automated Buffer PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCJ2",
+      "size": "166"
+    },
+    {
+      "title": "PGA849 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCI7",
+      "size": "13"
+    },
+    {
+      "title": "PGA849 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCI8",
+      "size": "103"
+    },
+    {
+      "title": "PGA849 Spice Model (Generic)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCI5",
+      "size": "6"
+    },
+    {
+      "title": "PGA849 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCI6",
+      "size": "28"
+    },
+    {
+      "title": "OPAx348 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC201",
+      "size": "149"
+    },
+    {
+      "title": "OPAx348 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM279",
+      "size": "3"
+    },
+    {
+      "title": "INA500A PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCG3",
+      "size": "887"
+    },
+    {
+      "title": "INA500A TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCG5",
+      "size": "38"
+    },
+    {
+      "title": "INA500C TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCH5",
+      "size": "4"
+    },
+    {
+      "title": "INA500C TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCH6",
+      "size": "38"
+    },
+    {
+      "title": "INA500C PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCH2",
+      "size": "469"
+    },
+    {
+      "title": "INA500A TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCG4",
+      "size": "4"
+    },
+    {
+      "title": "TLV4H390 PSpice Transient Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM803",
+      "size": "47"
+    },
+    {
+      "title": "TLV3231 PSpice Transient Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM804",
+      "size": "127"
+    },
+    {
+      "title": "TLV4H290 PSpice Transient Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM805",
+      "size": "50"
+    },
+    {
+      "title": "INA500B PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCH3",
+      "size": "473"
+    },
+    {
+      "title": "INA500B TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCH4",
+      "size": "4"
+    },
+    {
+      "title": "INA500B TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCH7",
+      "size": "38"
+    },
+    {
+      "title": "TLV3231 TINA Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM800",
+      "size": "8"
+    },
+    {
+      "title": "TLV4H290 TINA Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM801",
+      "size": "7"
+    },
+    {
+      "title": "TLV4H390 TINA Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM802",
+      "size": "7"
+    },
+    {
+      "title": "OPA1633 TINA-TI Reference Circuit (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCD6",
+      "size": "24"
+    },
+    {
+      "title": "THS2630 TINA-TI Reference Circuit (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SLOM516",
+      "size": "1549"
+    },
+    {
+      "title": "THS6232 TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCI4",
+      "size": "25"
+    },
+    {
+      "title": "TLV1H103-SEP TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM798",
+      "size": "0"
+    },
+    {
+      "title": "TLV1H103-SEP PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM799",
+      "size": "269"
+    },
+    {
+      "title": "Simulation for AC-Coupled Transimpedance Amplifier Circuit",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCI1",
+      "size": "95"
+    },
+    {
+      "title": "Simulation for Op Amp LDO Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCI2",
+      "size": "27"
+    },
+    {
+      "title": "Simulation File for Single-Supply, 2nd-Order, Sallen-Key Band-Pass Filter Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCI3",
+      "size": "86"
+    },
+    {
+      "title": "LMx24, LM2902 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SGLM009",
+      "size": "21"
+    },
+    {
+      "title": "OPAx323 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCH0",
+      "size": "81"
+    },
+    {
+      "title": "OPAx32x Simulation for Half-Wave Rectifier Circuit TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCH9",
+      "size": "2170"
+    },
+    {
+      "title": "TLV4062 OSFP Voltage Monitoring Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBVM995",
+      "size": "90"
+    },
+    {
+      "title": "Simulation for Photodiode Amplifier TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCH8",
+      "size": "22"
+    },
+    {
+      "title": "TLV183x TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM793",
+      "size": "8"
+    },
+    {
+      "title": "TLV184x PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM795",
+      "size": "152"
+    },
+    {
+      "title": "TLV184x TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM796",
+      "size": "8"
+    },
+    {
+      "title": "OPA928 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCC0",
+      "size": "94"
+    },
+    {
+      "title": "OPA928 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCC1",
+      "size": "12"
+    },
+    {
+      "title": "OPA928 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCC2",
+      "size": "261"
+    },
+    {
+      "title": "OPAx323 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCF9",
+      "size": "22"
+    },
+    {
+      "title": "OPAx323 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCH1",
+      "size": "5"
+    },
+    {
+      "title": "TLV187x TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM791",
+      "size": "9"
+    },
+    {
+      "title": "TLV187x PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM792",
+      "size": "708"
+    },
+    {
+      "title": "OPA2310 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC62",
+      "size": "54"
+    },
+    {
+      "title": "LMV331 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLCM016",
+      "size": "17"
+    },
+    {
+      "title": "TLV181x PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM762",
+      "size": "1571"
+    },
+    {
+      "title": "TLV3801 and TLV3802 TINA-TI Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM741",
+      "size": "9"
+    },
+    {
+      "title": "TLV3801 and TLV3802 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM740",
+      "size": "80"
+    },
+    {
+      "title": "TLV3605 and TLV3607 TINA-TI Test Circuit (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM709",
+      "size": "11"
+    },
+    {
+      "title": "TLV3605 and TLV3607 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM777",
+      "size": "116"
+    },
+    {
+      "title": "OPA2994 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCG8",
+      "size": "18"
+    },
+    {
+      "title": "OPA2994 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCG9",
+      "size": "30"
+    },
+    {
+      "title": "OPA2994 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCE6",
+      "size": "4"
+    },
+    {
+      "title": "INA310A3 PSpice Transient Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCG7",
+      "size": "275"
+    },
+    {
+      "title": "OPA891 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCG6",
+      "size": "15"
+    },
+    {
+      "title": "OPA892 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM523",
+      "size": "1912"
+    },
+    {
+      "title": "OPA892 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SLOM522",
+      "size": "56"
+    },
+    {
+      "title": "LPV521 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM024",
+      "size": "100"
+    },
+    {
+      "title": "LPV521 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM784",
+      "size": "18"
+    },
+    {
+      "title": "LPV521 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM785",
+      "size": "7"
+    },
+    {
+      "title": "OPAx206, OPAx328 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCG0",
+      "size": "130"
+    },
+    {
+      "title": "OPAx206, OPAx328 PSpice Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCG1",
+      "size": "70"
+    },
+    {
+      "title": "TL103WB TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM518",
+      "size": "6"
+    },
+    {
+      "title": "LMx24B, LM2902B TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM519",
+      "size": "4"
+    },
+    {
+      "title": "LMx24B, LM2902B PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM520",
+      "size": "55"
+    },
+    {
+      "title": "TL103WB PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM521",
+      "size": "22859"
+    },
+    {
+      "title": "TL103WB TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SLOM517",
+      "size": "40"
+    },
+    {
+      "title": "LMx24B LM2902B TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SLOM515",
+      "size": "28"
+    },
+    {
+      "title": "OPA205, OPAx205, OPA206 and OPAx206 PSpice Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCF7",
+      "size": "1327"
+    },
+    {
+      "title": "OPA205, OPAx205, OPA206 and OPAx206 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCF8",
+      "size": "57"
+    },
+    {
+      "title": "TLV1851 and TLV1851-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM782",
+      "size": "16"
+    },
+    {
+      "title": "TLV1851 and TLV1851-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM783",
+      "size": "10"
+    },
+    {
+      "title": "PGA855 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCF3",
+      "size": "1879"
+    },
+    {
+      "title": "PGA855 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCF4",
+      "size": "62"
+    },
+    {
+      "title": "PGA855 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCF5",
+      "size": "223"
+    },
+    {
+      "title": "TLV170x and TLV170x-Q1 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM859",
+      "size": "91"
+    },
+    {
+      "title": "TLV170x and TLV170x-Q1 TINA-TI Reference Design and Macromodel (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBV1",
+      "size": "9"
+    },
+    {
+      "title": "OPA310, OPA2310 and OPA4310 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC55",
+      "size": "22"
+    },
+    {
+      "title": "OPA310, OPA2310 and OPA4310 TINA-TI SPICE Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC63",
+      "size": "4"
+    },
+    {
+      "title": "LOG200 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCF0",
+      "size": "38"
+    },
+    {
+      "title": "LOG200 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCF1",
+      "size": "97"
+    },
+    {
+      "title": "LOG200 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCF2",
+      "size": "93"
+    },
+    {
+      "title": "TLV3012B TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCE4",
+      "size": "8"
+    },
+    {
+      "title": "INA351A TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCE7",
+      "size": "48"
+    },
+    {
+      "title": "INA351A PSpice Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCE8",
+      "size": "7"
+    },
+    {
+      "title": "INA351A TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCE9",
+      "size": "7"
+    },
+    {
+      "title": "TLV3011B TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCE2",
+      "size": "8"
+    },
+    {
+      "title": "TLV3011B PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCE3",
+      "size": "55"
+    },
+    {
+      "title": "TLV3012B PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCE5",
+      "size": "17"
+    },
+    {
+      "title": "OPA814 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCE1",
+      "size": "15"
+    },
+    {
+      "title": "OPA928 PSpice Application Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCD9",
+      "size": "66"
+    },
+    {
+      "title": "OPA928 TINA-TI Application Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCE0",
+      "size": "48"
+    },
+    {
+      "title": "INA818 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAY8",
+      "size": "14"
+    },
+    {
+      "title": "INA818 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAY9",
+      "size": "410"
+    },
+    {
+      "title": "INA818 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAZ0",
+      "size": "27"
+    },
+    {
+      "title": "INA819 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAW2",
+      "size": "28"
+    },
+    {
+      "title": "INA819 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAW1",
+      "size": "14"
+    },
+    {
+      "title": "INA819 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAW0",
+      "size": "411"
+    },
+    {
+      "title": "INA823 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBU8",
+      "size": "26"
+    },
+    {
+      "title": "INA823 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBU7",
+      "size": "16"
+    },
+    {
+      "title": "INA823 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBU9",
+      "size": "504"
+    },
+    {
+      "title": "INA597 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB12",
+      "size": "422"
+    },
+    {
+      "title": "OPA863, OPA2863 and OPA4863 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCD8",
+      "size": "23"
+    },
+    {
+      "title": "INA122 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCD7",
+      "size": "24"
+    },
+    {
+      "title": "INA592 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAR3",
+      "size": "23"
+    },
+    {
+      "title": "INA597 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB11",
+      "size": "9"
+    },
+    {
+      "title": "INA592 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAR5",
+      "size": "9"
+    },
+    {
+      "title": "INA592 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAR4",
+      "size": "418"
+    },
+    {
+      "title": "INA597 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB10",
+      "size": "275"
+    },
+    {
+      "title": "OPA863, OPA2863 and OPA4863 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBQ0",
+      "size": "24"
+    },
+    {
+      "title": "OPA2863A PSpice Model (Rev. H)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBG1",
+      "size": "22"
+    },
+    {
+      "title": "LM2903B PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLCJ011",
+      "size": "46"
+    },
+    {
+      "title": "TLV186x PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM772",
+      "size": "114"
+    },
+    {
+      "title": "OPA2863A TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBH9",
+      "size": "23"
+    },
+    {
+      "title": "OPA564 and OPA564-Q1 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM405",
+      "size": "35"
+    },
+    {
+      "title": "INA146 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC023",
+      "size": "26"
+    },
+    {
+      "title": "INA157 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC058",
+      "size": "18"
+    },
+    {
+      "title": "INA159 and INA159-EP PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC074",
+      "size": "27"
+    },
+    {
+      "title": "INA163 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC057",
+      "size": "27"
+    },
+    {
+      "title": "INA1620 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAL4",
+      "size": "22"
+    },
+    {
+      "title": "LM2901 and LM339 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLCJ010",
+      "size": "45"
+    },
+    {
+      "title": "LM2903B TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLCM014",
+      "size": "10"
+    },
+    {
+      "title": "LM2901 and LM339 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLCM013",
+      "size": "10"
+    },
+    {
+      "title": "INA154 Enhanced PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM155",
+      "size": "22"
+    },
+    {
+      "title": "INA152 PSpice  Model  (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC130",
+      "size": "22"
+    },
+    {
+      "title": "INA133 and INA2133 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC052",
+      "size": "23"
+    },
+    {
+      "title": "INA132 and INA2132 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM025",
+      "size": "22"
+    },
+    {
+      "title": "INA148 and INA148-Q1 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC019",
+      "size": "27"
+    },
+    {
+      "title": "INA143 and INA2143 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC051",
+      "size": "23"
+    },
+    {
+      "title": "INA145 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC022",
+      "size": "26"
+    },
+    {
+      "title": "INA155 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM029",
+      "size": "27"
+    },
+    {
+      "title": "INA351_G10 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCD0",
+      "size": "41"
+    },
+    {
+      "title": "INA351_G20 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCD1",
+      "size": "48"
+    },
+    {
+      "title": "INA351_G10 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCD2",
+      "size": "5"
+    },
+    {
+      "title": "INA351_G20 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCD3",
+      "size": "5"
+    },
+    {
+      "title": "INA351_G10 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCD4",
+      "size": "51"
+    },
+    {
+      "title": "INA351_G20 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCD5",
+      "size": "51"
+    },
+    {
+      "title": "INA351_G30 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCC4",
+      "size": "59"
+    },
+    {
+      "title": "INA351_G50 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCC5",
+      "size": "47"
+    },
+    {
+      "title": "INA351_G30 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCC6",
+      "size": "5"
+    },
+    {
+      "title": "INA351_G50 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCC7",
+      "size": "5"
+    },
+    {
+      "title": "INA351_G30 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCC8",
+      "size": "51"
+    },
+    {
+      "title": "INA351_G50 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCC9",
+      "size": "51"
+    },
+    {
+      "title": "OPA4H199-SEP PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCC3",
+      "size": "34"
+    },
+    {
+      "title": "INA286 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM789",
+      "size": "282"
+    },
+    {
+      "title": "INA283 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM778",
+      "size": "943"
+    },
+    {
+      "title": "INA284 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM781",
+      "size": "951"
+    },
+    {
+      "title": "INA285 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM786",
+      "size": "166"
+    },
+    {
+      "title": "INA121 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM018",
+      "size": "25"
+    },
+    {
+      "title": "INA126 and INA2126 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM021",
+      "size": "24"
+    },
+    {
+      "title": "INA128x and INA129x PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM764",
+      "size": "25"
+    },
+    {
+      "title": "TLV4051R2 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMCB5",
+      "size": "7"
+    },
+    {
+      "title": "TLV4051R1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMCB4",
+      "size": "7"
+    },
+    {
+      "title": "INA321 and INA2321 PSpice  Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC009",
+      "size": "25"
+    },
+    {
+      "title": "OPA377, OPA2377 and OPA4377 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM674",
+      "size": "31"
+    },
+    {
+      "title": "INA327 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM489",
+      "size": "32"
+    },
+    {
+      "title": "INA282 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM447",
+      "size": "1227"
+    },
+    {
+      "title": "TLV365 TINA-TI Reference Circuit (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCB9",
+      "size": "2510"
+    },
+    {
+      "title": "PSpice Model for TLV3604 (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM702",
+      "size": "8044"
+    },
+    {
+      "title": "INA848 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBI4",
+      "size": "24"
+    },
+    {
+      "title": "INA322 PSpice  Model  (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC010",
+      "size": "25"
+    },
+    {
+      "title": "INA326 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM150",
+      "size": "31"
+    },
+    {
+      "title": "OPA377, OPA2377 and OPA4377 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM675",
+      "size": "6"
+    },
+    {
+      "title": "OPA377, OPA2377 and OPA4377 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM676",
+      "size": "144"
+    },
+    {
+      "title": "OPA377-Q1, OPA2377-Q1 and OPA4377-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCB6",
+      "size": "31"
+    },
+    {
+      "title": "OPA377-Q1, OPA2377-Q1 and OPA4377-Q1 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCB8",
+      "size": "144"
+    },
+    {
+      "title": "OPA377-Q1, OPA2377-Q1 and OPA4377-Q1 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM400",
+      "size": "6"
+    },
+    {
+      "title": "OPA4H199-SEP TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC76",
+      "size": "5"
+    },
+    {
+      "title": "INA333 PSpice Model (Rev. G)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM382",
+      "size": "26"
+    },
+    {
+      "title": "INA317 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAQ9",
+      "size": "26"
+    },
+    {
+      "title": "INA821 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAQ6",
+      "size": "24"
+    },
+    {
+      "title": "INA828 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAG5",
+      "size": "25"
+    },
+    {
+      "title": "INA331 PSpice  Model  (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC014",
+      "size": "28"
+    },
+    {
+      "title": "INA332 PSpice  Model  (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC015",
+      "size": "24"
+    },
+    {
+      "title": "LMV3xx TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM773",
+      "size": "9"
+    },
+    {
+      "title": "TLV186x TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM771",
+      "size": "10"
+    },
+    {
+      "title": "Ultra-Low-Noise Time Gain Control (TGC) Circuit Using Different DAC Devices (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBAM480",
+      "size": "274"
+    },
+    {
+      "title": "INA350 G50 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBZ8",
+      "size": "16"
+    },
+    {
+      "title": "UAF42 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBFM007",
+      "size": "19"
+    },
+    {
+      "title": "ACF2101 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBFM001",
+      "size": "21"
+    },
+    {
+      "title": "OPA817 TINA-TI Reference Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMCB7",
+      "size": "4760"
+    },
+    {
+      "title": "LOG101 PSpice  Model  (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC042",
+      "size": "24"
+    },
+    {
+      "title": "LOGx112 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC044",
+      "size": "26"
+    },
+    {
+      "title": "INA350 G20 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBY9",
+      "size": "20"
+    },
+    {
+      "title": "INA350 G30 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBZ4",
+      "size": "16"
+    },
+    {
+      "title": "PGA281 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM815",
+      "size": "135"
+    },
+    {
+      "title": "XTR305 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAK3",
+      "size": "30"
+    },
+    {
+      "title": "XTR300 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM799",
+      "size": "30"
+    },
+    {
+      "title": "INA125 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM020",
+      "size": "25"
+    },
+    {
+      "title": "INA350 G10 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBZ2",
+      "size": "47"
+    },
+    {
+      "title": "TINA Model for TLV3604 (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM692",
+      "size": "8"
+    },
+    {
+      "title": "TLV07 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAF4",
+      "size": "311"
+    },
+    {
+      "title": "OPA1637 TINA-TI SPICE Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB86",
+      "size": "14"
+    },
+    {
+      "title": "THP210 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB85",
+      "size": "134"
+    },
+    {
+      "title": "OPA1637 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB87",
+      "size": "132"
+    },
+    {
+      "title": "OPA1637 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBF8",
+      "size": "25"
+    },
+    {
+      "title": "TLV07 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAF6",
+      "size": "30"
+    },
+    {
+      "title": "THP210 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBB9",
+      "size": "25"
+    },
+    {
+      "title": "INA115 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM014",
+      "size": "22"
+    },
+    {
+      "title": "TLV07 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAF5",
+      "size": "10"
+    },
+    {
+      "title": "THP210 TINA-TI SPICE Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB88",
+      "size": "14"
+    },
+    {
+      "title": "INA241B1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCB5",
+      "size": "16"
+    },
+    {
+      "title": "INA241B2 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCB1",
+      "size": "16"
+    },
+    {
+      "title": "INA241B3 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCB2",
+      "size": "16"
+    },
+    {
+      "title": "INA241B4 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCB3",
+      "size": "16"
+    },
+    {
+      "title": "INA241B5 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCB4",
+      "size": "16"
+    },
+    {
+      "title": "INA296B1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA6",
+      "size": "17"
+    },
+    {
+      "title": "INA296B2 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA7",
+      "size": "16"
+    },
+    {
+      "title": "INA296B3 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA8",
+      "size": "16"
+    },
+    {
+      "title": "INA296B4 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA9",
+      "size": "16"
+    },
+    {
+      "title": "INA296B5 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCB0",
+      "size": "16"
+    },
+    {
+      "title": "PSPICE Circuit Containing OPA818 Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB74",
+      "size": "31"
+    },
+    {
+      "title": "TLV3603 TINA-TI Model and Clock and Data Recovery Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM712",
+      "size": "6"
+    },
+    {
+      "title": "OPA541 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM085",
+      "size": "24"
+    },
+    {
+      "title": "OPA454 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC274",
+      "size": "28"
+    },
+    {
+      "title": "OPA547 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM087",
+      "size": "25"
+    },
+    {
+      "title": "OPA548 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM088",
+      "size": "25"
+    },
+    {
+      "title": "OPA567 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM433",
+      "size": "29"
+    },
+    {
+      "title": "OPA552 PSpice  Model  (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC034",
+      "size": "27"
+    },
+    {
+      "title": "OPA602 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM091",
+      "size": "24"
+    },
+    {
+      "title": "OPA569 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC003",
+      "size": "33"
+    },
+    {
+      "title": "INA241A TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA3",
+      "size": "354"
+    },
+    {
+      "title": "INA241B TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA4",
+      "size": "323"
+    },
+    {
+      "title": "INA296B TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA5",
+      "size": "314"
+    },
+    {
+      "title": "INA296A5 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC98",
+      "size": "8"
+    },
+    {
+      "title": "INA241A1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC99",
+      "size": "8"
+    },
+    {
+      "title": "INA241A4 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA0",
+      "size": "8"
+    },
+    {
+      "title": "INA241A5 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA1",
+      "size": "8"
+    },
+    {
+      "title": "TLV1805 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM764",
+      "size": "51"
+    },
+    {
+      "title": "TLV3603 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM765",
+      "size": "161"
+    },
+    {
+      "title": "INA296A TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMCA2",
+      "size": "343"
+    },
+    {
+      "title": "INA296A1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC96",
+      "size": "8"
+    },
+    {
+      "title": "INA296A4 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC97",
+      "size": "8"
+    },
+    {
+      "title": "INA241A2 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC92",
+      "size": "15"
+    },
+    {
+      "title": "INA296A2 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC93",
+      "size": "15"
+    },
+    {
+      "title": "INA296A3 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC94",
+      "size": "15"
+    },
+    {
+      "title": "INA241A3 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC95",
+      "size": "15"
+    },
+    {
+      "title": "TLV181x TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM759",
+      "size": "10"
+    },
+    {
+      "title": "TLV182x TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM760",
+      "size": "9"
+    },
+    {
+      "title": "LMH6682 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM761",
+      "size": "20552"
+    },
+    {
+      "title": "TLV182x PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM763",
+      "size": "719"
+    },
+    {
+      "title": "TLV3811 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC91",
+      "size": "504"
+    },
+    {
+      "title": "TLE2141 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM458",
+      "size": "11"
+    },
+    {
+      "title": "TLE2141 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SLOM457",
+      "size": "296"
+    },
+    {
+      "title": "LM741 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM211",
+      "size": "22"
+    },
+    {
+      "title": "OPA2675 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC90",
+      "size": "42"
+    },
+    {
+      "title": "TLVx387 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC87",
+      "size": "341"
+    },
+    {
+      "title": "TLVx387 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC88",
+      "size": "11"
+    },
+    {
+      "title": "TLVx387 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC89",
+      "size": "30"
+    },
+    {
+      "title": "INA281A3 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC84",
+      "size": "7"
+    },
+    {
+      "title": "INA281A4 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC85",
+      "size": "7"
+    },
+    {
+      "title": "INA281A5 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC86",
+      "size": "7"
+    },
+    {
+      "title": "OPA2675 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC83",
+      "size": "1389"
+    },
+    {
+      "title": "OPAx396 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBT2",
+      "size": "28"
+    },
+    {
+      "title": "TLE2426 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLFJ004",
+      "size": "18"
+    },
+    {
+      "title": "TLE2425 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLFJ003",
+      "size": "19"
+    },
+    {
+      "title": "INA103 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM008",
+      "size": "18"
+    },
+    {
+      "title": "INA281 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC79",
+      "size": "110"
+    },
+    {
+      "title": "INA281A1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC80",
+      "size": "7"
+    },
+    {
+      "title": "INA281A2 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC81",
+      "size": "7"
+    },
+    {
+      "title": "TLV3811 TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC82",
+      "size": "8"
+    },
+    {
+      "title": "OPA4H199-SEP TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC77",
+      "size": "25"
+    },
+    {
+      "title": "OPAx828 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAJ0",
+      "size": "27"
+    },
+    {
+      "title": "OPA462 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAV9",
+      "size": "26"
+    },
+    {
+      "title": "OPAx397 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBV8",
+      "size": "29"
+    },
+    {
+      "title": "ALM2402F-Q1 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB20",
+      "size": "27"
+    },
+    {
+      "title": "TLV369 PSPICE Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA98",
+      "size": "21"
+    },
+    {
+      "title": "OPAx381 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC073",
+      "size": "29"
+    },
+    {
+      "title": "OPA167x PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAC3",
+      "size": "27"
+    },
+    {
+      "title": "OPA161x PSpice Model (Rev. G)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM396",
+      "size": "27"
+    },
+    {
+      "title": "OPAx141 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM494",
+      "size": "27"
+    },
+    {
+      "title": "OPA1656 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAW6",
+      "size": "27"
+    },
+    {
+      "title": "OPAx192-Q1 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBN1",
+      "size": "27"
+    },
+    {
+      "title": "OPAx192 PSpice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM862",
+      "size": "26"
+    },
+    {
+      "title": "OPAx202 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAH6",
+      "size": "30"
+    },
+    {
+      "title": "OPAx180 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAT1",
+      "size": "27"
+    },
+    {
+      "title": "OPAx335 PSpice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC002",
+      "size": "28"
+    },
+    {
+      "title": "OPAx180-Q1 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBM2",
+      "size": "28"
+    },
+    {
+      "title": "OPAx392 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBK2",
+      "size": "29"
+    },
+    {
+      "title": "OPAx391 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBK1",
+      "size": "28"
+    },
+    {
+      "title": "OPAx196 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAF9",
+      "size": "26"
+    },
+    {
+      "title": "OPA1612-Q1 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBL2",
+      "size": "28"
+    },
+    {
+      "title": "OPA369 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM350",
+      "size": "22"
+    },
+    {
+      "title": "TLV225x-Q1 PSpice 3-V Supply Voltage Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SGLM042",
+      "size": "19"
+    },
+    {
+      "title": "TLV6003 PSpice 5-V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM487",
+      "size": "16"
+    },
+    {
+      "title": "TLV6003 PSpice 2.7-V Supply Voltage Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM486",
+      "size": "16"
+    },
+    {
+      "title": "TLV225x-Q1 PSpice 5-V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ126",
+      "size": "19"
+    },
+    {
+      "title": "TLV226x PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ127",
+      "size": "19"
+    },
+    {
+      "title": "TLV6003 PSpice 15-V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM488",
+      "size": "16"
+    },
+    {
+      "title": "TLV226x-Q1 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ128",
+      "size": "19"
+    },
+    {
+      "title": "TLV2371 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOC062",
+      "size": "61"
+    },
+    {
+      "title": "OPA375 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAJ4",
+      "size": "22"
+    },
+    {
+      "title": "LT101x PSPICE 5V Supply Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM491",
+      "size": "20"
+    },
+    {
+      "title": "OPA2991 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB49",
+      "size": "21"
+    },
+    {
+      "title": "OPA244 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM056",
+      "size": "22"
+    },
+    {
+      "title": "OPA2375 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB34",
+      "size": "21"
+    },
+    {
+      "title": "OPA2314 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBU1",
+      "size": "23"
+    },
+    {
+      "title": "TLV225x PSpice 5-V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ125",
+      "size": "19"
+    },
+    {
+      "title": "TLC27M7_9 PSpice 10-V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ102",
+      "size": "18"
+    },
+    {
+      "title": "TLC27L7_9 PSpice 5-V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ182",
+      "size": "17"
+    },
+    {
+      "title": "TLC27L7_9 PSpice 10-V Supply Voltage Model  (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ098",
+      "size": "18"
+    },
+    {
+      "title": "LT101x PSpice 30-V Supply Voltage Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ046",
+      "size": "20"
+    },
+    {
+      "title": "TLC22x PSpice 5-V Supply Voltage Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM495",
+      "size": "18"
+    },
+    {
+      "title": "TLC220x PSpice 10-V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ075",
+      "size": "18"
+    },
+    {
+      "title": "TLC27M7_9 PSpice 5-V Supply Voltage Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM502",
+      "size": "18"
+    },
+    {
+      "title": "TLV225x PSpice 3-V Supply Voltage Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM508",
+      "size": "19"
+    },
+    {
+      "title": "OPA2347 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM610",
+      "size": "22"
+    },
+    {
+      "title": "TLV930x and TLV930x-Q1 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAX4",
+      "size": "22"
+    },
+    {
+      "title": "TLV9152 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB53",
+      "size": "22"
+    },
+    {
+      "title": "TLV910x and TLV910x-Q1 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAX1",
+      "size": "22"
+    },
+    {
+      "title": "TLV9062 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAG1",
+      "size": "22"
+    },
+    {
+      "title": "TLV9052 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAO0",
+      "size": "22"
+    },
+    {
+      "title": "TLV9002 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAL2",
+      "size": "22"
+    },
+    {
+      "title": "OPA2341 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAY5",
+      "size": "24"
+    },
+    {
+      "title": "OPA990, OPA2990 and OPA4990 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAN7",
+      "size": "22"
+    },
+    {
+      "title": "TSV912 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAG6",
+      "size": "22"
+    },
+    {
+      "title": "TLV6742 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB35",
+      "size": "22"
+    },
+    {
+      "title": "TLV6001 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA17",
+      "size": "22"
+    },
+    {
+      "title": "TLV522 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM580",
+      "size": "22"
+    },
+    {
+      "title": "TLV342 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM136",
+      "size": "22"
+    },
+    {
+      "title": "TLV316 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM975",
+      "size": "22"
+    },
+    {
+      "title": "TLV314 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM974",
+      "size": "23"
+    },
+    {
+      "title": "TLV313 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA12",
+      "size": "22"
+    },
+    {
+      "title": "TLVX172 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA92",
+      "size": "22"
+    },
+    {
+      "title": "TLV171 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA59",
+      "size": "22"
+    },
+    {
+      "title": "OPA4314 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBU2",
+      "size": "24"
+    },
+    {
+      "title": "OPA316 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM885",
+      "size": "21"
+    },
+    {
+      "title": "OPA314 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAS7",
+      "size": "23"
+    },
+    {
+      "title": "OPA313 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAQ3",
+      "size": "22"
+    },
+    {
+      "title": "TLC279 PSpice 10-V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ095",
+      "size": "20"
+    },
+    {
+      "title": "LMC6036 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM185",
+      "size": "24"
+    },
+    {
+      "title": "OPA172 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM854",
+      "size": "22"
+    },
+    {
+      "title": "INA350 G50 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC00",
+      "size": "5"
+    },
+    {
+      "title": "INA350 G50 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBZ9",
+      "size": "65"
+    },
+    {
+      "title": "INA350 G30 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBZ5",
+      "size": "5"
+    },
+    {
+      "title": "INA350 G30 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBZ6",
+      "size": "65"
+    },
+    {
+      "title": "INA350 G20 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBZ0",
+      "size": "5"
+    },
+    {
+      "title": "INA350 G20 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBZ1",
+      "size": "65"
+    },
+    {
+      "title": "INA350 G10 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBY8",
+      "size": "5"
+    },
+    {
+      "title": "INA350 G10 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBY6",
+      "size": "65"
+    },
+    {
+      "title": "OPA170 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAB8",
+      "size": "23"
+    },
+    {
+      "title": "MCP6292 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAH1",
+      "size": "22"
+    },
+    {
+      "title": "LMx58BA_LM2904BA PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM475",
+      "size": "30"
+    },
+    {
+      "title": "LMx58_LM2904 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM268",
+      "size": "23"
+    },
+    {
+      "title": "LMV358A PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAM9",
+      "size": "22"
+    },
+    {
+      "title": "LMV342 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM481",
+      "size": "22"
+    },
+    {
+      "title": "LMV321A PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM448",
+      "size": "22"
+    },
+    {
+      "title": "LMC6044 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM188",
+      "size": "23"
+    },
+    {
+      "title": "LMC6042 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM187",
+      "size": "23"
+    },
+    {
+      "title": "LMC6041 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM186",
+      "size": "23"
+    },
+    {
+      "title": "LM7301 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM206",
+      "size": "22"
+    },
+    {
+      "title": "LM358LV PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAO8",
+      "size": "21"
+    },
+    {
+      "title": "LM324LV PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAO5",
+      "size": "22"
+    },
+    {
+      "title": "LM321LV PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAP1",
+      "size": "21"
+    },
+    {
+      "title": "LM2904LV PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBV0",
+      "size": "21"
+    },
+    {
+      "title": "LF444 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM261",
+      "size": "27"
+    },
+    {
+      "title": "TLC2654 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ090",
+      "size": "20"
+    },
+    {
+      "title": "TLC277 PSpice 10-V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ094",
+      "size": "17"
+    },
+    {
+      "title": "TLC277 PSpice 5-V Supply Voltage Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM500",
+      "size": "17"
+    },
+    {
+      "title": "LMP7715/6 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM092",
+      "size": "19"
+    },
+    {
+      "title": "LMP7716-Q1 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM093",
+      "size": "19"
+    },
+    {
+      "title": "TLV9352 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB56",
+      "size": "21"
+    },
+    {
+      "title": "TLC2652_A PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ089",
+      "size": "20"
+    },
+    {
+      "title": "LMC6001A PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM216",
+      "size": "20"
+    },
+    {
+      "title": "OP07C PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ050",
+      "size": "16"
+    },
+    {
+      "title": "OP07D PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ051",
+      "size": "16"
+    },
+    {
+      "title": "INA2191A1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC70",
+      "size": "10"
+    },
+    {
+      "title": "INA2191A2 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC71",
+      "size": "10"
+    },
+    {
+      "title": "LMV2011 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM070",
+      "size": "19"
+    },
+    {
+      "title": "INA849 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBJ7",
+      "size": "25"
+    },
+    {
+      "title": "LMP7707/8/9 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM108",
+      "size": "19"
+    },
+    {
+      "title": "INA2191A3 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC72",
+      "size": "10"
+    },
+    {
+      "title": "INA2191A4 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC73",
+      "size": "10"
+    },
+    {
+      "title": "TLC279 PSpice 5V Supply Voltage Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM506",
+      "size": "20"
+    },
+    {
+      "title": "INA188 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM949",
+      "size": "24"
+    },
+    {
+      "title": "OPA830 TINA-TI Reference Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC69",
+      "size": "48"
+    },
+    {
+      "title": "OPAx830 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC224",
+      "size": "33"
+    },
+    {
+      "title": "ICL7652 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ037",
+      "size": "20"
+    },
+    {
+      "title": "INA106 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM010",
+      "size": "17"
+    },
+    {
+      "title": "INA131 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM024",
+      "size": "18"
+    },
+    {
+      "title": "INA110 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM011",
+      "size": "18"
+    },
+    {
+      "title": "TLC1078 PSpice 10V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ073",
+      "size": "20"
+    },
+    {
+      "title": "TLC1079 PSpice 10V Supply Voltage Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ074",
+      "size": "20"
+    },
+    {
+      "title": "TLC1079 PSpice 5V Supply Voltage Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM503",
+      "size": "20"
+    },
+    {
+      "title": "TLC1078 PSpice 5V Supply Voltage Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM504",
+      "size": "20"
+    },
+    {
+      "title": "LMV84x PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM039",
+      "size": "30"
+    },
+    {
+      "title": "LMC606x PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM189",
+      "size": "30"
+    },
+    {
+      "title": "LMC608x PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM192",
+      "size": "29"
+    },
+    {
+      "title": "LMV641 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM063",
+      "size": "30"
+    },
+    {
+      "title": "LMV84x-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM744",
+      "size": "31"
+    },
+    {
+      "title": "LMV772-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM747",
+      "size": "30"
+    },
+    {
+      "title": "LMV77x PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM055",
+      "size": "30"
+    },
+    {
+      "title": "LMP202x PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM099",
+      "size": "30"
+    },
+    {
+      "title": "LMP773x PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM097",
+      "size": "31"
+    },
+    {
+      "title": "LMP770x PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM105",
+      "size": "30"
+    },
+    {
+      "title": "LMP223x PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM101",
+      "size": "30"
+    },
+    {
+      "title": "LMP7721 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM096",
+      "size": "30"
+    },
+    {
+      "title": "OPA1622 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM958",
+      "size": "30"
+    },
+    {
+      "title": "OPAx188-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC06",
+      "size": "30"
+    },
+    {
+      "title": "OPAx188 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAO2",
+      "size": "30"
+    },
+    {
+      "title": "LMC648xQML PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM736",
+      "size": "30"
+    },
+    {
+      "title": "LMC648x PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM164",
+      "size": "30"
+    },
+    {
+      "title": "LMP7704-SP PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM739",
+      "size": "31"
+    },
+    {
+      "title": "OPA4H014-SEP PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC17",
+      "size": "31"
+    },
+    {
+      "title": "INA2191A5 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC68",
+      "size": "10"
+    },
+    {
+      "title": "TLV7031 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVMDG0",
+      "size": "44"
+    },
+    {
+      "title": "TLV7031 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVMC93",
+      "size": "7"
+    },
+    {
+      "title": "INA2191 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC67",
+      "size": "1211"
+    },
+    {
+      "title": "OPAx134 PSpice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM042",
+      "size": "30"
+    },
+    {
+      "title": "OPAx197-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC02",
+      "size": "30"
+    },
+    {
+      "title": "TLVx197-Q1 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBB2",
+      "size": "30"
+    },
+    {
+      "title": "OPAx228 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM144",
+      "size": "29"
+    },
+    {
+      "title": "OPA455 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB81",
+      "size": "30"
+    },
+    {
+      "title": "ALM2403-Q1 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBJ4",
+      "size": "28"
+    },
+    {
+      "title": "ALM2402-Q1 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM397",
+      "size": "28"
+    },
+    {
+      "title": "OPAx186 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC64",
+      "size": "33"
+    },
+    {
+      "title": "OPAx186 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC65",
+      "size": "11"
+    },
+    {
+      "title": "OPAx186 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC66",
+      "size": "336"
+    },
+    {
+      "title": "LMP201xQML-SP PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM682",
+      "size": "31"
+    },
+    {
+      "title": "LMP201x PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM113",
+      "size": "31"
+    },
+    {
+      "title": "LMH32404 TINA-TI Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBY4",
+      "size": "5163"
+    },
+    {
+      "title": "OPAx387 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBI9",
+      "size": "31"
+    },
+    {
+      "title": "OPAx182 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB13",
+      "size": "30"
+    },
+    {
+      "title": "OPAx227 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM051",
+      "size": "30"
+    },
+    {
+      "title": "OPAx197 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA34",
+      "size": "30"
+    },
+    {
+      "title": "OPAx189 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAE9",
+      "size": "30"
+    },
+    {
+      "title": "THS4561 TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAE5",
+      "size": "9"
+    },
+    {
+      "title": "THS4561 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAE3",
+      "size": "28"
+    },
+    {
+      "title": "THS4561 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAE4",
+      "size": "35"
+    },
+    {
+      "title": "OPA1671 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAS1",
+      "size": "29"
+    },
+    {
+      "title": "OPAx325 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA82",
+      "size": "29"
+    },
+    {
+      "title": "OPAx211A PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC250",
+      "size": "30"
+    },
+    {
+      "title": "OPAx322 PSpice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM888",
+      "size": "30"
+    },
+    {
+      "title": "OPAx322-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBW5",
+      "size": "30"
+    },
+    {
+      "title": "OPAx320 PSpice Model (Rev. G)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM437",
+      "size": "30"
+    },
+    {
+      "title": "OPAx277 PSpice Model (Rev. H)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM063",
+      "size": "30"
+    },
+    {
+      "title": "OPAx211 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBW8",
+      "size": "30"
+    },
+    {
+      "title": "OPAx333 PSpice Model (Rev. G)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC084",
+      "size": "30"
+    },
+    {
+      "title": "OPAx333-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBX4",
+      "size": "30"
+    },
+    {
+      "title": "TLVx333 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM965",
+      "size": "30"
+    },
+    {
+      "title": "OPA1655 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC44",
+      "size": "30"
+    },
+    {
+      "title": "OPA637 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM101",
+      "size": "30"
+    },
+    {
+      "title": "OPA164x-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC36",
+      "size": "31"
+    },
+    {
+      "title": "OPA160x PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAS5",
+      "size": "30"
+    },
+    {
+      "title": "OPA627 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM099",
+      "size": "30"
+    },
+    {
+      "title": "OPA1662-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC42",
+      "size": "31"
+    },
+    {
+      "title": "OPA165x PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAS4",
+      "size": "30"
+    },
+    {
+      "title": "OPA164x PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM627",
+      "size": "30"
+    },
+    {
+      "title": "OPA167x-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC30",
+      "size": "30"
+    },
+    {
+      "title": "OPA1692 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAF3",
+      "size": "30"
+    },
+    {
+      "title": "OPA168x PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM950",
+      "size": "30"
+    },
+    {
+      "title": "LMC6464QML PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM750",
+      "size": "30"
+    },
+    {
+      "title": "LMC646x PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM751",
+      "size": "29"
+    },
+    {
+      "title": "OPA166x PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM462",
+      "size": "30"
+    },
+    {
+      "title": "LMV342 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM483",
+      "size": "4"
+    },
+    {
+      "title": "LMV342 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM482",
+      "size": "17"
+    },
+    {
+      "title": "OPA4388 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAZ6",
+      "size": "29"
+    },
+    {
+      "title": "OPAx388-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC31",
+      "size": "29"
+    },
+    {
+      "title": "OPAx378 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM390",
+      "size": "10"
+    },
+    {
+      "title": "OPAx378 TINA-TI Reference Design (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM391",
+      "size": "320"
+    },
+    {
+      "title": "OPAx378 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM392",
+      "size": "34"
+    },
+    {
+      "title": "TLVx376 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA90",
+      "size": "10"
+    },
+    {
+      "title": "TLVx376 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMA89",
+      "size": "311"
+    },
+    {
+      "title": "TLVx376 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA91",
+      "size": "34"
+    },
+    {
+      "title": "OPAx388 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAB3",
+      "size": "29"
+    },
+    {
+      "title": "OPAx376-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC59",
+      "size": "11"
+    },
+    {
+      "title": "OPAx376-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC60",
+      "size": "315"
+    },
+    {
+      "title": "OPAx376-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC61",
+      "size": "34"
+    },
+    {
+      "title": "INA117 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM015",
+      "size": "26"
+    },
+    {
+      "title": "OPAx376 TINA-TI Spice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM309",
+      "size": "11"
+    },
+    {
+      "title": "OPAx376 TINA-TI Reference Design (Rev. G)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC261",
+      "size": "315"
+    },
+    {
+      "title": "OPAx376 PSpice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM406",
+      "size": "34"
+    },
+    {
+      "title": "OPAx350 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM071",
+      "size": "29"
+    },
+    {
+      "title": "OPAx340 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM273",
+      "size": "10"
+    },
+    {
+      "title": "OPAx340 TINA-TI Reference Design (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC195",
+      "size": "306"
+    },
+    {
+      "title": "OPAx340 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM067",
+      "size": "34"
+    },
+    {
+      "title": "OPAx336 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM871",
+      "size": "11"
+    },
+    {
+      "title": "OPAx336 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM872",
+      "size": "299"
+    },
+    {
+      "title": "OPAx336 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM064",
+      "size": "34"
+    },
+    {
+      "title": "TL3474 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ171",
+      "size": "21"
+    },
+    {
+      "title": "OPAx330 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM394",
+      "size": "311"
+    },
+    {
+      "title": "OPAx330 TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM393",
+      "size": "11"
+    },
+    {
+      "title": "OPAx330 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM395",
+      "size": "33"
+    },
+    {
+      "title": "TINA-TI Reference Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC57",
+      "size": "14136"
+    },
+    {
+      "title": "LMH34400 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC58",
+      "size": "32"
+    },
+    {
+      "title": "OPAx131 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAT2",
+      "size": "299"
+    },
+    {
+      "title": "OPAx131 TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM262",
+      "size": "10"
+    },
+    {
+      "title": "OPAx131 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM040",
+      "size": "33"
+    },
+    {
+      "title": "INA111 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM012",
+      "size": "23"
+    },
+    {
+      "title": "INA105 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM009",
+      "size": "25"
+    },
+    {
+      "title": "INA101 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM006",
+      "size": "25"
+    },
+    {
+      "title": "INA118 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM016",
+      "size": "23"
+    },
+    {
+      "title": "OPAx328 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC39",
+      "size": "28"
+    },
+    {
+      "title": "OPAx210 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAT4",
+      "size": "306"
+    },
+    {
+      "title": "OPAx210 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAT5",
+      "size": "11"
+    },
+    {
+      "title": "OPAx210 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAT3",
+      "size": "34"
+    },
+    {
+      "title": "TLV244x PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ016",
+      "size": "19"
+    },
+    {
+      "title": "Bridge Sensor Solution TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC56",
+      "size": "68"
+    },
+    {
+      "title": "OPAx132 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM041",
+      "size": "33"
+    },
+    {
+      "title": "OPAx132 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM263",
+      "size": "11"
+    },
+    {
+      "title": "OPAx132 TINA-TI Reference Design (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC184",
+      "size": "320"
+    },
+    {
+      "title": "OPAx130 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM039",
+      "size": "33"
+    },
+    {
+      "title": "OPAx130 TINA-TI Reference Design (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC182",
+      "size": "309"
+    },
+    {
+      "title": "OPAx130 TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM261",
+      "size": "10"
+    },
+    {
+      "title": "OPA145 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAD7",
+      "size": "10"
+    },
+    {
+      "title": "OPA145 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAD6",
+      "size": "1033"
+    },
+    {
+      "title": "OPA145 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAD8",
+      "size": "33"
+    },
+    {
+      "title": "OPA2156 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAR1",
+      "size": "322"
+    },
+    {
+      "title": "OPA2156 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAR2",
+      "size": "11"
+    },
+    {
+      "title": "OPA2156 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAR0",
+      "size": "33"
+    },
+    {
+      "title": "TLV2186 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB02",
+      "size": "11"
+    },
+    {
+      "title": "TLV2186 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB01",
+      "size": "337"
+    },
+    {
+      "title": "TLV2186 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB03",
+      "size": "33"
+    },
+    {
+      "title": "OPAx209 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM425",
+      "size": "11"
+    },
+    {
+      "title": "OPA177 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM044",
+      "size": "75"
+    },
+    {
+      "title": "OPAx241 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM054",
+      "size": "32"
+    },
+    {
+      "title": "OPAx241 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM301",
+      "size": "10"
+    },
+    {
+      "title": "OPAx241 TINA-TI Reference Design (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC238",
+      "size": "318"
+    },
+    {
+      "title": "OPA855 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAP6",
+      "size": "1816"
+    },
+    {
+      "title": "OPAx187 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAB4",
+      "size": "11"
+    },
+    {
+      "title": "OPAx187 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAB5",
+      "size": "331"
+    },
+    {
+      "title": "OPAx187 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAB6",
+      "size": "32"
+    },
+    {
+      "title": "OPAx191 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM961",
+      "size": "10"
+    },
+    {
+      "title": "OPAx191 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM962",
+      "size": "316"
+    },
+    {
+      "title": "OPAx191 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA30",
+      "size": "32"
+    },
+    {
+      "title": "OPAx251 TINA-TI Reference Design (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC237",
+      "size": "322"
+    },
+    {
+      "title": "OPAx251 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM300",
+      "size": "11"
+    },
+    {
+      "title": "OPAx251 PSpice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM057",
+      "size": "32"
+    },
+    {
+      "title": "OPAx237 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAT6",
+      "size": "337"
+    },
+    {
+      "title": "OPAx237 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAT7",
+      "size": "11"
+    },
+    {
+      "title": "OPAx237 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM053",
+      "size": "32"
+    },
+    {
+      "title": "OPAx209 PSpice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM451",
+      "size": "32"
+    },
+    {
+      "title": "OPAx209 TINA-TI Reference Design (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM426",
+      "size": "336"
+    },
+    {
+      "title": "OPA207 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAJ2",
+      "size": "361"
+    },
+    {
+      "title": "OPA207 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAJ3",
+      "size": "11"
+    },
+    {
+      "title": "OPA207 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAJ1",
+      "size": "32"
+    },
+    {
+      "title": "AFE031 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC53",
+      "size": "39"
+    },
+    {
+      "title": "AFE031 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC54",
+      "size": "6"
+    },
+    {
+      "title": "INA851 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC50",
+      "size": "101"
+    },
+    {
+      "title": "INA851 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC51",
+      "size": "49"
+    },
+    {
+      "title": "INA851 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC52",
+      "size": "16"
+    },
+    {
+      "title": "OPAx206A PSpice Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBL9",
+      "size": "28"
+    },
+    {
+      "title": "AFE031 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLAM240",
+      "size": "43"
+    },
+    {
+      "title": "INA827 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC49",
+      "size": "2510"
+    },
+    {
+      "title": "OPAx206A TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBL6",
+      "size": "12"
+    },
+    {
+      "title": "OPAx206A TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBL8",
+      "size": "358"
+    },
+    {
+      "title": "OPAx206A PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBL7",
+      "size": "33"
+    },
+    {
+      "title": "OPAx205A TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBP3",
+      "size": "11"
+    },
+    {
+      "title": "OPAx205A TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBP4",
+      "size": "356"
+    },
+    {
+      "title": "OPAx205 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB98",
+      "size": "32"
+    },
+    {
+      "title": "INA149 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC47",
+      "size": "77"
+    },
+    {
+      "title": "INA826 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC48",
+      "size": "63"
+    },
+    {
+      "title": "OPAx140 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM430",
+      "size": "11"
+    },
+    {
+      "title": "OPAx140 TINA-TI Reference Design (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM431",
+      "size": "348"
+    },
+    {
+      "title": "OPAx140 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM493",
+      "size": "30"
+    },
+    {
+      "title": "TLV411x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SLOM465",
+      "size": "317"
+    },
+    {
+      "title": "TLV411x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM464",
+      "size": "10"
+    },
+    {
+      "title": "TLV411x PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM466",
+      "size": "31"
+    },
+    {
+      "title": "TLV881x PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM732",
+      "size": "27"
+    },
+    {
+      "title": "TLV881x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM605",
+      "size": "39"
+    },
+    {
+      "title": "TLV881x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM604",
+      "size": "10"
+    },
+    {
+      "title": "LPV81x TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM603",
+      "size": "39"
+    },
+    {
+      "title": "LPV81x TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM602",
+      "size": "10"
+    },
+    {
+      "title": "LPV81x PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM758",
+      "size": "27"
+    },
+    {
+      "title": "LPV821 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM631",
+      "size": "10"
+    },
+    {
+      "title": "LPV821 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM629",
+      "size": "315"
+    },
+    {
+      "title": "LPV821 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM630",
+      "size": "31"
+    },
+    {
+      "title": "OPA827 TINA-TI Reference Design (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC278",
+      "size": "303"
+    },
+    {
+      "title": "OPA827 TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM312",
+      "size": "11"
+    },
+    {
+      "title": "OPA827 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAX7",
+      "size": "27"
+    },
+    {
+      "title": "OPAx735 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM174",
+      "size": "11"
+    },
+    {
+      "title": "OPAx735 TINA-TI Reference Design (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC092",
+      "size": "298"
+    },
+    {
+      "title": "OPAx735 PSpice  Model  (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC060",
+      "size": "32"
+    },
+    {
+      "title": "OPA637 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM194",
+      "size": "10"
+    },
+    {
+      "title": "OPA637 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC119",
+      "size": "322"
+    },
+    {
+      "title": "BUF802 PSpice model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC43",
+      "size": "187"
+    },
+    {
+      "title": "OPA1655 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC45",
+      "size": "11"
+    },
+    {
+      "title": "OPA1655 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC46",
+      "size": "313"
+    },
+    {
+      "title": "OPA1692 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAE8",
+      "size": "11"
+    },
+    {
+      "title": "OPA1692 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAF2",
+      "size": "329"
+    },
+    {
+      "title": "OPA627 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC118",
+      "size": "10"
+    },
+    {
+      "title": "OPA627 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBAC037",
+      "size": "318"
+    },
+    {
+      "title": "OPA168x TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM952",
+      "size": "324"
+    },
+    {
+      "title": "OPA168x TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM951",
+      "size": "11"
+    },
+    {
+      "title": "OPA1662-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC40",
+      "size": "11"
+    },
+    {
+      "title": "OPA1662-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC41",
+      "size": "335"
+    },
+    {
+      "title": "OPA165x TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM737",
+      "size": "318"
+    },
+    {
+      "title": "OPA165x TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM738",
+      "size": "11"
+    },
+    {
+      "title": "OPA166x TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM736",
+      "size": "11"
+    },
+    {
+      "title": "OPA166x TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM735",
+      "size": "335"
+    },
+    {
+      "title": "LMH32401 and LMH32401-Q1 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB18",
+      "size": "9729"
+    },
+    {
+      "title": "BUF802 TINA-TI Reference Circuit  (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBQ8",
+      "size": "5895"
+    },
+    {
+      "title": "OPAx328 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC37",
+      "size": "9"
+    },
+    {
+      "title": "OPAx328 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC38",
+      "size": "338"
+    },
+    {
+      "title": "OPA164x TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM407",
+      "size": "11"
+    },
+    {
+      "title": "OPA164xTINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM408",
+      "size": "289"
+    },
+    {
+      "title": "OPA164x-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC34",
+      "size": "11"
+    },
+    {
+      "title": "OPA164x-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC35",
+      "size": "289"
+    },
+    {
+      "title": "OPA160x TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM453",
+      "size": "11"
+    },
+    {
+      "title": "OPA160x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAS6",
+      "size": "309"
+    },
+    {
+      "title": "TINA SPICE models for INA290 (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB26",
+      "size": "50"
+    },
+    {
+      "title": "TINA-TI REFERENCE DESIGN for INA290 (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB25",
+      "size": "69"
+    },
+    {
+      "title": "OPA167x-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC28",
+      "size": "292"
+    },
+    {
+      "title": "OPA167x-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC29",
+      "size": "10"
+    },
+    {
+      "title": "OPAx388-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC32",
+      "size": "11"
+    },
+    {
+      "title": "OPAx388-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC33",
+      "size": "342"
+    },
+    {
+      "title": "LMC6464QML TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM752",
+      "size": "0"
+    },
+    {
+      "title": "LMC646x TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM753",
+      "size": "10"
+    },
+    {
+      "title": "LMC646x TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM754",
+      "size": "301"
+    },
+    {
+      "title": "LMC6464QML TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM755",
+      "size": "301"
+    },
+    {
+      "title": "OPA4388 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAZ7",
+      "size": "10"
+    },
+    {
+      "title": "OPA4388 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAZ8",
+      "size": "340"
+    },
+    {
+      "title": "OPAx388 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAB1",
+      "size": "342"
+    },
+    {
+      "title": "OPAx388 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAB2",
+      "size": "10"
+    },
+    {
+      "title": "LMC608x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM643",
+      "size": "300"
+    },
+    {
+      "title": "LMC608x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM642",
+      "size": "11"
+    },
+    {
+      "title": "LMC606x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM648",
+      "size": "12"
+    },
+    {
+      "title": "LMC606x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM649",
+      "size": "303"
+    },
+    {
+      "title": "LMV84x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM639",
+      "size": "300"
+    },
+    {
+      "title": "LMV84x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM638",
+      "size": "11"
+    },
+    {
+      "title": "LMP7721 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM305",
+      "size": "311"
+    },
+    {
+      "title": "LMV772-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM745",
+      "size": "11"
+    },
+    {
+      "title": "LMV772-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM746",
+      "size": "301"
+    },
+    {
+      "title": "LMV84x-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM748",
+      "size": "11"
+    },
+    {
+      "title": "LMV84x-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM749",
+      "size": "300"
+    },
+    {
+      "title": "LMV77x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM636",
+      "size": "301"
+    },
+    {
+      "title": "LMV77x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM637",
+      "size": "11"
+    },
+    {
+      "title": "LMV641 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM658",
+      "size": "11"
+    },
+    {
+      "title": "LMV641 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM659",
+      "size": "305"
+    },
+    {
+      "title": "LMP773x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM657",
+      "size": "11"
+    },
+    {
+      "title": "LMP773x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM656",
+      "size": "332"
+    },
+    {
+      "title": "LMP7721 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM304",
+      "size": "11"
+    },
+    {
+      "title": "INA183A1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC24",
+      "size": "2420"
+    },
+    {
+      "title": "INA183A2 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC25",
+      "size": "2420"
+    },
+    {
+      "title": "INA183A3 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC26",
+      "size": "2420"
+    },
+    {
+      "title": "INA183 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC27",
+      "size": "231"
+    },
+    {
+      "title": "LMP223x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM651",
+      "size": "330"
+    },
+    {
+      "title": "LMP223x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM650",
+      "size": "10"
+    },
+    {
+      "title": "LMP202x TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM644",
+      "size": "11"
+    },
+    {
+      "title": "LMP202x TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM645",
+      "size": "318"
+    },
+    {
+      "title": "OPA2992 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC15",
+      "size": "32"
+    },
+    {
+      "title": "TLV9162 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC16",
+      "size": "31"
+    },
+    {
+      "title": "TLV9362 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC18",
+      "size": "5"
+    },
+    {
+      "title": "TLV9162 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC19",
+      "size": "5"
+    },
+    {
+      "title": "TLV9362 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC20",
+      "size": "31"
+    },
+    {
+      "title": "OPA2992 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC21",
+      "size": "5"
+    },
+    {
+      "title": "INA290A2 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC22",
+      "size": "14"
+    },
+    {
+      "title": "INA290A3 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC23",
+      "size": "14"
+    },
+    {
+      "title": "TLV9162 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBY5",
+      "size": "7"
+    },
+    {
+      "title": "OPA2992 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBY0",
+      "size": "7"
+    },
+    {
+      "title": "TLV9362 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBY7",
+      "size": "7"
+    },
+    {
+      "title": "OPA4H014-SEP TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC10",
+      "size": "10"
+    },
+    {
+      "title": "OPA4H014-SEP TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC11",
+      "size": "344"
+    },
+    {
+      "title": "INA290A5 PSpice model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC12",
+      "size": "14"
+    },
+    {
+      "title": "INA290A4 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC13",
+      "size": "15"
+    },
+    {
+      "title": "INA290A1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC14",
+      "size": "15"
+    },
+    {
+      "title": "LMP7704-SP TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM737",
+      "size": "324"
+    },
+    {
+      "title": "LMP7704-SP TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM738",
+      "size": "11"
+    },
+    {
+      "title": "TLV3601 Photodiode Receiver Circuit Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM742",
+      "size": "52"
+    },
+    {
+      "title": "LMP770x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM641",
+      "size": "11"
+    },
+    {
+      "title": "LMP770x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM640",
+      "size": "324"
+    },
+    {
+      "title": "LMH5485-SEP PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC07",
+      "size": "28"
+    },
+    {
+      "title": "LMH5485-SEP TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC08",
+      "size": "82"
+    },
+    {
+      "title": "OPA1622 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM957",
+      "size": "11"
+    },
+    {
+      "title": "OPA1622 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM956",
+      "size": "342"
+    },
+    {
+      "title": "OPAx350 TINA-TI Reference Design (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC202",
+      "size": "344"
+    },
+    {
+      "title": "OPAx350 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM280",
+      "size": "10"
+    },
+    {
+      "title": "OPAx188-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC05",
+      "size": "11"
+    },
+    {
+      "title": "LMC648xQML TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM734",
+      "size": "11"
+    },
+    {
+      "title": "LMC648xQML TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM735",
+      "size": "314"
+    },
+    {
+      "title": "OPAx188-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC04",
+      "size": "344"
+    },
+    {
+      "title": "OPA2810 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAM2",
+      "size": "2389"
+    },
+    {
+      "title": "LMC648x TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM646",
+      "size": "314"
+    },
+    {
+      "title": "LMC648x TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM647",
+      "size": "11"
+    },
+    {
+      "title": "OPAx188 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM806",
+      "size": "344"
+    },
+    {
+      "title": "OPAx188 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM807",
+      "size": "11"
+    },
+    {
+      "title": "OPAx134 TINA-TI Reference Design (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC185",
+      "size": "318"
+    },
+    {
+      "title": "OPAx134 TINA-TI Spice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM264",
+      "size": "11"
+    },
+    {
+      "title": "OPAx197-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMC01",
+      "size": "321"
+    },
+    {
+      "title": "OPAx197-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMC03",
+      "size": "10"
+    },
+    {
+      "title": "TLVx197-Q1 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBB3",
+      "size": "316"
+    },
+    {
+      "title": "TLVx197-Q1 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBB1",
+      "size": "10"
+    },
+    {
+      "title": "LMx58B_LM2904B PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM472",
+      "size": "30"
+    },
+    {
+      "title": "OPAx197 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMA36",
+      "size": "320"
+    },
+    {
+      "title": "OPAx197 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA35",
+      "size": "10"
+    },
+    {
+      "title": "OPAx189 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAF0",
+      "size": "342"
+    },
+    {
+      "title": "OPAx189 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAF1",
+      "size": "11"
+    },
+    {
+      "title": "OPA455 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB82",
+      "size": "316"
+    },
+    {
+      "title": "OPA455 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB80",
+      "size": "10"
+    },
+    {
+      "title": "LMP201xQML-SP TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM684",
+      "size": "11"
+    },
+    {
+      "title": "LMP201xQML-SP TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM683",
+      "size": "286"
+    },
+    {
+      "title": "LMP201x TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM685",
+      "size": "286"
+    },
+    {
+      "title": "LMP201x TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM687",
+      "size": "11"
+    },
+    {
+      "title": "TLV3601 TINA-TI Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM713",
+      "size": "10"
+    },
+    {
+      "title": "TLV3601 GaN FET Driver Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM733",
+      "size": "69"
+    },
+    {
+      "title": "TLV3601 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBZ3",
+      "size": "299"
+    },
+    {
+      "title": "THS4551 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMA28",
+      "size": "7439"
+    },
+    {
+      "title": "OPAx182 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB19",
+      "size": "318"
+    },
+    {
+      "title": "OPAx182 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB14",
+      "size": "10"
+    },
+    {
+      "title": "TINA-TI Reference Design Companion for Op Amp LDO (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBX9",
+      "size": "27"
+    },
+    {
+      "title": "LPV7215 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM730",
+      "size": "9"
+    },
+    {
+      "title": "LPV7215 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM731",
+      "size": "40"
+    },
+    {
+      "title": "ALM2403-Q1 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBJ2",
+      "size": "301"
+    },
+    {
+      "title": "ALM2403-Q1 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBJ3",
+      "size": "10"
+    },
+    {
+      "title": "TL331 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVMCS2",
+      "size": "9"
+    },
+    {
+      "title": "TL331 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVM937",
+      "size": "44"
+    },
+    {
+      "title": "TLV6742 TINA-TI Reference Design for Charge Amplifier Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBX8",
+      "size": "112"
+    },
+    {
+      "title": "PSpice Simulation Companion for DAC Force And Sense Reference Drive Circuit",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBX7",
+      "size": "101"
+    },
+    {
+      "title": "OPAx387 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBJ0",
+      "size": "342"
+    },
+    {
+      "title": "OPAx387 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBJ1",
+      "size": "11"
+    },
+    {
+      "title": "LM393B TINA-TI SPICE Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLCM004",
+      "size": "9"
+    },
+    {
+      "title": "LM393 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLCJ016",
+      "size": "37"
+    },
+    {
+      "title": "TLV4011 TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVMDO4",
+      "size": "9"
+    },
+    {
+      "title": "TLV4011 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVMDO5",
+      "size": "44"
+    },
+    {
+      "title": "TLV6700 and TLV6700-Q1 TINA-TI Macro and Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC70",
+      "size": "10"
+    },
+    {
+      "title": "OPAx228 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC189",
+      "size": "350"
+    },
+    {
+      "title": "OPAx228 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM268",
+      "size": "10"
+    },
+    {
+      "title": "TINA-TI Simulation Companion for DAC Force And Sense Reference Drive Circuit (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBAM412",
+      "size": "69"
+    },
+    {
+      "title": "OPAx227 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC188",
+      "size": "342"
+    },
+    {
+      "title": "OPAx227 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM267",
+      "size": "10"
+    },
+    {
+      "title": "TLV902x and TLV902x-Q1 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM724",
+      "size": "9"
+    },
+    {
+      "title": "TLV903x and TLV903x-Q1 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM723",
+      "size": "9"
+    },
+    {
+      "title": "TLV903x and TLV903x-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM719",
+      "size": "73"
+    },
+    {
+      "title": "TLV4041R5 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC82",
+      "size": "8"
+    },
+    {
+      "title": "TLV4041R5 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC83",
+      "size": "132"
+    },
+    {
+      "title": "TLV4041R2 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC84",
+      "size": "8"
+    },
+    {
+      "title": "TLV4041R1 TINA TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC85",
+      "size": "9"
+    },
+    {
+      "title": "TLV4041R1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC86",
+      "size": "132"
+    },
+    {
+      "title": "LMH6555 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM158",
+      "size": "120"
+    },
+    {
+      "title": "OPA625 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM937",
+      "size": "161"
+    },
+    {
+      "title": "TLV4041R2 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC32",
+      "size": "21"
+    },
+    {
+      "title": "OPAx333-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBX5",
+      "size": "323"
+    },
+    {
+      "title": "OPAx333-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBX6",
+      "size": "11"
+    },
+    {
+      "title": "OPAx333 TINA-TI Reference Design (Rev. G)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC083",
+      "size": "323"
+    },
+    {
+      "title": "OPAx333 TINA-TI Spice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM166",
+      "size": "11"
+    },
+    {
+      "title": "LM6511 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM728",
+      "size": "93"
+    },
+    {
+      "title": "LM6511 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM729",
+      "size": "10"
+    },
+    {
+      "title": "TLVx333 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM966",
+      "size": "322"
+    },
+    {
+      "title": "TLVx333 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM967",
+      "size": "11"
+    },
+    {
+      "title": "OPAx277 TINA-TI Reference Design (Rev. G)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC192",
+      "size": "356"
+    },
+    {
+      "title": "OPAx277 TINA-TI Spice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM271",
+      "size": "11"
+    },
+    {
+      "title": "TLV4031R2 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC31",
+      "size": "121"
+    },
+    {
+      "title": "TLV6710 PSpice Transient Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMBJ4",
+      "size": "159"
+    },
+    {
+      "title": "TLV6703 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBX2",
+      "size": "10"
+    },
+    {
+      "title": "TLV4031R1 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC79",
+      "size": "8"
+    },
+    {
+      "title": "TLV4031R2 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC80",
+      "size": "8"
+    },
+    {
+      "title": "LMH5485-SP PSpice Circuit Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBX3",
+      "size": "30"
+    },
+    {
+      "title": "LMH5485-SP TINA-TI Reference Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBX1",
+      "size": "79"
+    },
+    {
+      "title": "TLV4031R1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC33",
+      "size": "105"
+    },
+    {
+      "title": "TLV6703 PSpice Transient Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAN2",
+      "size": "96"
+    },
+    {
+      "title": "TLV6700 and TLV6700-Q1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC71",
+      "size": "146"
+    },
+    {
+      "title": "OPAx211A TINA-TI Reference Design (Rev. G)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC247",
+      "size": "340"
+    },
+    {
+      "title": "TLV6713 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBVM975",
+      "size": "9"
+    },
+    {
+      "title": "TL07XH, TL08XH TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM514",
+      "size": "7"
+    },
+    {
+      "title": "OPAx211 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBW9",
+      "size": "11"
+    },
+    {
+      "title": "OPAx211 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBX0",
+      "size": "339"
+    },
+    {
+      "title": "OPAx211A TINA-TI Spice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM307",
+      "size": "11"
+    },
+    {
+      "title": "TLV6713 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBVM843",
+      "size": "84"
+    },
+    {
+      "title": "TLV904x TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB60",
+      "size": "6"
+    },
+    {
+      "title": "TLV904x TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB61",
+      "size": "4"
+    },
+    {
+      "title": "TL07xH_TL08xH TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM511",
+      "size": "5"
+    },
+    {
+      "title": "TL07XH_TL08XH PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM513",
+      "size": "30"
+    },
+    {
+      "title": "OPAx322-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBW6",
+      "size": "315"
+    },
+    {
+      "title": "OPAx322-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBW7",
+      "size": "10"
+    },
+    {
+      "title": "OPAx320-Q1 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBW2",
+      "size": "307"
+    },
+    {
+      "title": "OPAx320-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBW3",
+      "size": "28"
+    },
+    {
+      "title": "OPAx320-Q1 TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBW4",
+      "size": "10"
+    },
+    {
+      "title": "LM111, LM211, LM311 TINA-TI Macro and Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLCM012",
+      "size": "10"
+    },
+    {
+      "title": "LM111, LM211, LM311 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLCM011",
+      "size": "65"
+    },
+    {
+      "title": "OPAx392 TINA-TI Simulation Companion for Low-Input-Bias Optical Receiver",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBV9",
+      "size": "2095"
+    },
+    {
+      "title": "OPAx397 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBW0",
+      "size": "336"
+    },
+    {
+      "title": "OPAx397 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBW1",
+      "size": "10"
+    },
+    {
+      "title": "TLV4021S5 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC76",
+      "size": "9"
+    },
+    {
+      "title": "TLV4021S5 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC77",
+      "size": "121"
+    },
+    {
+      "title": "OPA1671 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAR9",
+      "size": "360"
+    },
+    {
+      "title": "TLV904x PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB62",
+      "size": "27"
+    },
+    {
+      "title": "OPAx392 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBK4",
+      "size": "337"
+    },
+    {
+      "title": "OPAx392 TINA-TI SPICE Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBK3",
+      "size": "10"
+    },
+    {
+      "title": "TLV4021R2 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC75",
+      "size": "8"
+    },
+    {
+      "title": "TLV4021R2 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC30",
+      "size": "88"
+    },
+    {
+      "title": "TLV4021R1 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC24",
+      "size": "87"
+    },
+    {
+      "title": "TLV4021R1 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNVMC74",
+      "size": "8"
+    },
+    {
+      "title": "ALM2402-Q1 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SLOM387",
+      "size": "368"
+    },
+    {
+      "title": "ALM2402-Q1 TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM386",
+      "size": "11"
+    },
+    {
+      "title": "LM118-N PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM265",
+      "size": "24"
+    },
+    {
+      "title": "OPAx325 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMA81",
+      "size": "317"
+    },
+    {
+      "title": "OPAx325 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMA80",
+      "size": "10"
+    },
+    {
+      "title": "LM393LV TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM726",
+      "size": "11"
+    },
+    {
+      "title": "LMV7235 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM727",
+      "size": "9"
+    },
+    {
+      "title": "TLV3501 and TLV3502 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBU5",
+      "size": "92"
+    },
+    {
+      "title": "TLV3501 and TLV3502 TINA-TI MACRO and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBU6",
+      "size": "10"
+    },
+    {
+      "title": "OPAx322 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM455",
+      "size": "315"
+    },
+    {
+      "title": "OPAx322 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM454",
+      "size": "10"
+    },
+    {
+      "title": "TLV3201 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM757",
+      "size": "9"
+    },
+    {
+      "title": "TLV3012 TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBU3",
+      "size": "9"
+    },
+    {
+      "title": "TLV3011 TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBU4",
+      "size": "9"
+    },
+    {
+      "title": "LMV7239 TINA-TI Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM725",
+      "size": "9"
+    },
+    {
+      "title": "TINA Circuit for TLV4011",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SLVMDN2",
+      "size": "11"
+    },
+    {
+      "title": "TLV7011 and TLV7012 TINA-TI Macro and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVMDN3",
+      "size": "9"
+    },
+    {
+      "title": "TLV7021 and TLV7022 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVMDN4",
+      "size": "884"
+    },
+    {
+      "title": "TINA Circuit of TLV4082",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBVM974",
+      "size": "12"
+    },
+    {
+      "title": "TLV7021 and TLV7022 TINA-TI Macro and Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVMDN5",
+      "size": "9"
+    },
+    {
+      "title": "LMV7239 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM721",
+      "size": "69"
+    },
+    {
+      "title": "LMV7235 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM722",
+      "size": "53"
+    },
+    {
+      "title": "OPAx320 TINA-TI Reference Design (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM439",
+      "size": "307"
+    },
+    {
+      "title": "OPAx320 TINA-TI Spice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM438",
+      "size": "10"
+    },
+    {
+      "title": "INA592 Linear Operation Checker (TINA-TI)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBT8",
+      "size": "66"
+    },
+    {
+      "title": "INA597 Linear Operation Checker (TINA-TI)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBT9",
+      "size": "66"
+    },
+    {
+      "title": "INA117 Linear Operation Checker (TINA-TI)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBU0",
+      "size": "28"
+    },
+    {
+      "title": "TLV3012 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC081",
+      "size": "44"
+    },
+    {
+      "title": "TLV7011 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLVMDE3",
+      "size": "1515"
+    },
+    {
+      "title": "ALM2402FQ TINA-TI SPICE Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB15",
+      "size": "11"
+    },
+    {
+      "title": "ALM2402F-Q1 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB16",
+      "size": "368"
+    },
+    {
+      "title": "TLV3011 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBT7",
+      "size": "42"
+    },
+    {
+      "title": "LM393LV PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM697",
+      "size": "49"
+    },
+    {
+      "title": "TLV902x and TLV902x-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBT5",
+      "size": "78"
+    },
+    {
+      "title": "TLV3201 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBT6",
+      "size": "65"
+    },
+    {
+      "title": "OPAx396 TINA-TI SPICE Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBT3",
+      "size": "10"
+    },
+    {
+      "title": "OPAx396 TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBT4",
+      "size": "333"
+    },
+    {
+      "title": "PSpice Simulation Companion for Active-Filtering Circuit for Audio DACs (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBM7",
+      "size": "189"
+    },
+    {
+      "title": "OPA167x TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAC4",
+      "size": "292"
+    },
+    {
+      "title": "OPA167x TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAC5",
+      "size": "10"
+    },
+    {
+      "title": "TINA-TI Simulation Companion for Active-Filtering Circuit for Audio DACs (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBAM410",
+      "size": "32"
+    },
+    {
+      "title": "OPA161x TINA-TI SPICE Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM397",
+      "size": "11"
+    },
+    {
+      "title": "OPA161x TINA-TI Reference Design (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM398",
+      "size": "302"
+    },
+    {
+      "title": "OPA1612-Q1 TINA-TI SPICE Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBL3",
+      "size": "11"
+    },
+    {
+      "title": "OPA1612-Q1 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBL4",
+      "size": "302"
+    },
+    {
+      "title": "PGA870 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM170",
+      "size": "80"
+    },
+    {
+      "title": "OPAx180-Q1 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBM3",
+      "size": "314"
+    },
+    {
+      "title": "OPAx180-Q1 TINA-TI SPICE Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBM4",
+      "size": "11"
+    },
+    {
+      "title": "OPA1656 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAW8",
+      "size": "11"
+    },
+    {
+      "title": "OPA1656 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAW7",
+      "size": "313"
+    },
+    {
+      "title": "LMH32404-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBR0",
+      "size": "39"
+    },
+    {
+      "title": "OPA1S2384 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBQ7",
+      "size": "45"
+    },
+    {
+      "title": "OPA300 PSpice  Model  (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC038",
+      "size": "55"
+    },
+    {
+      "title": "OPAx180 TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM890",
+      "size": "11"
+    },
+    {
+      "title": "OPAx180 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM893",
+      "size": "313"
+    },
+    {
+      "title": "OPA462 TINA-TI Spice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAV7",
+      "size": "10"
+    },
+    {
+      "title": "OPA462 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAV8",
+      "size": "312"
+    },
+    {
+      "title": "OPA607 TINA-TI Reference Circuit (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB17",
+      "size": "1282"
+    },
+    {
+      "title": "THS6222 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMB04",
+      "size": "951"
+    },
+    {
+      "title": "OPA861 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC127",
+      "size": "38"
+    },
+    {
+      "title": "OPA860 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOJ001",
+      "size": "42"
+    },
+    {
+      "title": "OPAx192-Q1 TINA-TI Spice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBN3",
+      "size": "10"
+    },
+    {
+      "title": "OPAx192-Q1 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBN2",
+      "size": "318"
+    },
+    {
+      "title": "OPAx196 TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAF8",
+      "size": "10"
+    },
+    {
+      "title": "OPAx196 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAF7",
+      "size": "315"
+    },
+    {
+      "title": "THS4551 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB92",
+      "size": "53"
+    },
+    {
+      "title": "OPAx192 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM860",
+      "size": "10"
+    },
+    {
+      "title": "OPAx192 TINA-TI Reference Design (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM861",
+      "size": "318"
+    },
+    {
+      "title": "TINA-TI Simulation Companion for High-side Current-sensing Circuit (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAV4",
+      "size": "11"
+    },
+    {
+      "title": "OPAx202 TINA-TI SPICE Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAH4",
+      "size": "10"
+    },
+    {
+      "title": "OPAx202 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAH5",
+      "size": "346"
+    },
+    {
+      "title": "OPAx890 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM159",
+      "size": "39"
+    },
+    {
+      "title": "VCA821 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM365",
+      "size": "33"
+    },
+    {
+      "title": "THS3096 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM410",
+      "size": "128"
+    },
+    {
+      "title": "OPA301 PSpice Model  (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC039",
+      "size": "44"
+    },
+    {
+      "title": "LMH6554 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM157",
+      "size": "47"
+    },
+    {
+      "title": "VCA824 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM362",
+      "size": "45"
+    },
+    {
+      "title": "VCA822 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC290",
+      "size": "45"
+    },
+    {
+      "title": "VCA810 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC069",
+      "size": "36"
+    },
+    {
+      "title": "THS6184 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLLC281",
+      "size": "40"
+    },
+    {
+      "title": "THS4304 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ170",
+      "size": "38"
+    },
+    {
+      "title": "THS4281 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOC047",
+      "size": "54"
+    },
+    {
+      "title": "OPAx828 TINA-TI SPICE Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMAI9",
+      "size": "10"
+    },
+    {
+      "title": "OPAx828 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAI8",
+      "size": "300"
+    },
+    {
+      "title": "OPA4872 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM358",
+      "size": "45"
+    },
+    {
+      "title": "OPA846 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC005",
+      "size": "40"
+    },
+    {
+      "title": "THS3112 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM415",
+      "size": "39"
+    },
+    {
+      "title": "VCA820 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC288",
+      "size": "46"
+    },
+    {
+      "title": "OPA615 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC223",
+      "size": "86"
+    },
+    {
+      "title": "THS3215 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBQ3",
+      "size": "64"
+    },
+    {
+      "title": "THS6301 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBQ5",
+      "size": "57"
+    },
+    {
+      "title": "THS6212 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBP7",
+      "size": "62"
+    },
+    {
+      "title": "OPA857 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBP8",
+      "size": "43"
+    },
+    {
+      "title": "THS3491 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBP9",
+      "size": "150"
+    },
+    {
+      "title": "BUF602 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOJ002",
+      "size": "39"
+    },
+    {
+      "title": "OPA838 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBQ1",
+      "size": "185"
+    },
+    {
+      "title": "OPA354 PSpice Model  (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC018",
+      "size": "332"
+    },
+    {
+      "title": "OPA859 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBQ2",
+      "size": "160"
+    },
+    {
+      "title": "OPA365 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC133",
+      "size": "200"
+    },
+    {
+      "title": "THS3121 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOC074",
+      "size": "37"
+    },
+    {
+      "title": "THS3120 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM137",
+      "size": "38"
+    },
+    {
+      "title": "THS3111 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM346",
+      "size": "247"
+    },
+    {
+      "title": "THS3110 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM142",
+      "size": "246"
+    },
+    {
+      "title": "THS3092 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM422",
+      "size": "123"
+    },
+    {
+      "title": "THS3091 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ173",
+      "size": "108"
+    },
+    {
+      "title": "OPA360 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC050",
+      "size": "59"
+    },
+    {
+      "title": "OPA2614 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC067",
+      "size": "148"
+    },
+    {
+      "title": "OPA2613 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC047",
+      "size": "58"
+    },
+    {
+      "title": "LM7171 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM205",
+      "size": "38"
+    },
+    {
+      "title": "OPAx391 TINA-TI Reference Design (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBJ9",
+      "size": "333"
+    },
+    {
+      "title": "OPAx391 TINA-TI SPICE Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBK0",
+      "size": "11"
+    },
+    {
+      "title": "OPA2301 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM691",
+      "size": "37"
+    },
+    {
+      "title": "OPA693 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC049",
+      "size": "109"
+    },
+    {
+      "title": "OPA694 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC068",
+      "size": "22"
+    },
+    {
+      "title": "OPA380 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC035",
+      "size": "63"
+    },
+    {
+      "title": "OPA820 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC048",
+      "size": "35"
+    },
+    {
+      "title": "OPA659 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM349",
+      "size": "35"
+    },
+    {
+      "title": "OPA653 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM351",
+      "size": "36"
+    },
+    {
+      "title": "LM6172 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM234",
+      "size": "185"
+    },
+    {
+      "title": "LMH6619 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM128",
+      "size": "157"
+    },
+    {
+      "title": "OPAx141 TINA-TI Reference Design (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM421",
+      "size": "334"
+    },
+    {
+      "title": "OPAx141 TINA-TI Spice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM420",
+      "size": "11"
+    },
+    {
+      "title": "OPAx335 TINA-TI Reference Design (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOM746",
+      "size": "347"
+    },
+    {
+      "title": "OPAx335 TINA-TI Spice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM745",
+      "size": "11"
+    },
+    {
+      "title": "OPA358 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC061",
+      "size": "59"
+    },
+    {
+      "title": "OPA657 PSpice Model (Rev. F)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM137",
+      "size": "355"
+    },
+    {
+      "title": "THS4509 PSpice Model (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOC050",
+      "size": "55"
+    },
+    {
+      "title": "THS4520 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC225",
+      "size": "33"
+    },
+    {
+      "title": "THS7001 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOJ028",
+      "size": "88"
+    },
+    {
+      "title": "TINA-TI Reference Design Companion for Temperature Sensing with NTC Circuit (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAV6",
+      "size": "41"
+    },
+    {
+      "title": "TLV3605 Clock and Data Recovery Circuit TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM710",
+      "size": "23"
+    },
+    {
+      "title": "TLV3605 LVDS Clock and Data Recovery TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SNOM711",
+      "size": "23"
+    },
+    {
+      "title": "PGA206 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM129",
+      "size": "144"
+    },
+    {
+      "title": "PGA206 TINA-TI Spice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM291",
+      "size": "5"
+    },
+    {
+      "title": "INA101 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC232",
+      "size": "2285"
+    },
+    {
+      "title": "INA101 TINA-TI SPICE Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM295",
+      "size": "4"
+    },
+    {
+      "title": "PGA206 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOC219",
+      "size": "5"
+    },
+    {
+      "title": "PGA207 TINA-TI Reference Design (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOC220",
+      "size": "47"
+    },
+    {
+      "title": "PGA207 TINA-TI SPICE Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM292",
+      "size": "5"
+    },
+    {
+      "title": "PGA207 PSpice Model (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM130",
+      "size": "143"
+    },
+    {
+      "title": "THS6222 PSpice Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB93",
+      "size": "214"
+    },
+    {
+      "title": "OPAx196 PWM LED Drive for Immunoassay in Vitro Diagnostic Systems TINA-TI",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBN9",
+      "size": "71"
+    },
+    {
+      "title": "OPAx196 PWM LED Drive for Immunoassay in Vitro Diagnostic Systems PSpice",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBO0",
+      "size": "74"
+    },
+    {
+      "title": "INA280 TINA-TI Models",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBN4",
+      "size": "75"
+    },
+    {
+      "title": "INA280A4, INA280-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBN5",
+      "size": "7"
+    },
+    {
+      "title": "INA280A3, INA280-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBN6",
+      "size": "7"
+    },
+    {
+      "title": "INA280A2, INA280-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBN7",
+      "size": "7"
+    },
+    {
+      "title": "INA280A1, INA280-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBN8",
+      "size": "7"
+    },
+    {
+      "title": "INA280A5, INA280-Q1 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBM9",
+      "size": "7"
+    },
+    {
+      "title": "OPA3S2859 and OPA3S2859-EP PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBN0",
+      "size": "139"
+    },
+    {
+      "title": "OPA3S2859 and OPA3S2859-EP TINA-TI Reference Design Circuit",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBM8",
+      "size": "32"
+    },
+    {
+      "title": "LM2904LV TINA-TI Spice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBM5",
+      "size": "4"
+    },
+    {
+      "title": "LM2904LV TINA-TI Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBM6",
+      "size": "6"
+    },
+    {
+      "title": "Discrete Impedance Spectroscopy TINA-TI Reference Design (Single-Ended)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBM1",
+      "size": "1083"
+    },
+    {
+      "title": "LM193QML-SP TINA-TI Window Comparator Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM708",
+      "size": "5"
+    },
+    {
+      "title": "Impedance Spectroscopy TINA-TI Reference Design (Differential)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBM0",
+      "size": "94"
+    },
+    {
+      "title": "THS4304 TINA-TI Reference Design (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SLAC095",
+      "size": "45"
+    },
+    {
+      "title": "TINA-TI Reference Design Companion for Temperature Sensing with PTC Circuit (Rev. B)",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMAV5",
+      "size": "42"
+    },
+    {
+      "title": "TLV1704-SEP TINA-TI High-Side Current Sensing Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBL5",
+      "size": "4"
+    },
+    {
+      "title": "LMP8672 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM004",
+      "size": "62"
+    },
+    {
+      "title": "OPA858, THS4541 Flow Cytometry Example Front End PSpice Reference Design",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBL1",
+      "size": "27"
+    },
+    {
+      "title": "OPA810 PSpice Model (Rev. A)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB73",
+      "size": "25"
+    },
+    {
+      "title": "THS3217 PSpice Circuit Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBL0",
+      "size": "51"
+    },
+    {
+      "title": "INA148 TINA-TI Linear Operation Checker",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBK8",
+      "size": "29"
+    },
+    {
+      "title": "INA149 TINA-TI Linear Operation Checker",
+      "pdfUrl": "http://www.ti.com/lit/tsc/SBOMBK9",
+      "size": "38"
+    },
+    {
+      "title": "OPA858 PSpice Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBK7",
+      "size": "49"
+    },
+    {
+      "title": "PSpice Circuit Containing LMH32404 Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBK6",
+      "size": "39"
+    },
+    {
+      "title": "PSpice Circuit Containing THS4567 Model",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMBK5",
+      "size": "50"
+    },
+    {
+      "title": "OPA855 Unencrypted PSpice Model Package (Rev. D)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOMB43",
+      "size": "37"
+    },
+    {
+      "title": "48-V Battery Overcurrent and Undervoltage Reference TINA Simulation File",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM707",
+      "size": "6"
+    },
+    {
+      "title": "Zero Cross Comparator Detector With Dynamic Reference TINA-TI Simulation",
+      "pdfUrl": "http://www.ti.com/lit/zip/SNOM706",
+      "size": "3"
+    },
+    {
+      "title": "THS4521 PSpice Model (Rev. E)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SBOM343",
+      "size": "36"
+    },
+    {
+      "title": "OPA836 PSPICE Model (Rev. C)",
+      "pdfUrl": "http://www.ti.com/lit/zip/SLOM218",
+      "size": "33"
+    }
+  ]
+}

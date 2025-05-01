@@ -1,0 +1,87 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "50002",
+    "name": "Comparators"
+  },
+  "docType": {
+    "value": "22",
+    "name": "EVM User's guide"
+  },
+  "totalPDFs": 14,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "TLV40x1 Evaluation Module User's Guide (Rev. B)"
+    },
+    {
+      "title": "TLV40x1 Evaluation Module User's Guide (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou164",
+      "size": "1303"
+    },
+    {
+      "title": "TLV3802 Evaluation Module User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou198",
+      "size": "1934"
+    },
+    {
+      "title": "TLV3607EVM, TLV3607 Evaluation Module User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou197",
+      "size": "2704"
+    },
+    {
+      "title": "TLV3601EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou183",
+      "size": "2681"
+    },
+    {
+      "title": "TLV3605EVM User's Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou182",
+      "size": "1856"
+    },
+    {
+      "title": "TLV1805-Q1EVM Users Manual",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou158",
+      "size": "2374"
+    },
+    {
+      "title": "TLV7081EVM User’s Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou154",
+      "size": "204"
+    },
+    {
+      "title": "TLV7011-2-3-41EVM User’s Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvub47",
+      "size": "180"
+    },
+    {
+      "title": "AN-1534 Demo Board LMH7220 High Speed LVDS Comparator (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa478",
+      "size": "6580"
+    },
+    {
+      "title": "AN-1602 LMH7322 Dual Comparator Evaluation Board (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa485",
+      "size": "3054"
+    },
+    {
+      "title": "AN-1683 LMH7324  High Speed Comparator Evaluation Board (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa494",
+      "size": "1513"
+    },
+    {
+      "title": "AN-1923 Current Sense Demo Board (SOIC) User's Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa536",
+      "size": "9737"
+    },
+    {
+      "title": "LMV7231 Evaluation Board",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snou008",
+      "size": "236"
+    }
+  ]
+}

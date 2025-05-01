@@ -1,0 +1,32 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3172",
+    "name": "Analog current-sense amplifiers"
+  },
+  "docType": {
+    "value": "20",
+    "name": "Test report"
+  },
+  "totalPDFs": 3,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "PMP4425 Test Results"
+    },
+    {
+      "title": "PMP4425 Test Results",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu747",
+      "size": "523"
+    },
+    {
+      "title": "PMP9475 Overview",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu651",
+      "size": "322"
+    }
+  ]
+}

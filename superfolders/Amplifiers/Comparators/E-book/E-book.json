@@ -1,0 +1,32 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "50002",
+    "name": "Comparators"
+  },
+  "docType": {
+    "value": "17",
+    "name": "E-book"
+  },
+  "totalPDFs": 3,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "Radiation Handbook for Electronics (Rev. A)"
+    },
+    {
+      "title": "Radiation Handbook for Electronics (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgzy002",
+      "size": "7976"
+    },
+    {
+      "title": "The Signal e-book: A compendium of blog posts on op amp design topics",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt701",
+      "size": "17554"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "docType": {
+    "value": "3",
+    "name": "Errata"
+  },
+  "totalPDFs": 4,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "Errata for OPAx344, OPAx345 Data Sheet Literature Number SBOS107 (Revision A)"
+    },
+    {
+      "title": "Errata for OPAx344, OPAx345 Data Sheet Literature Number SBOS107 (Revision A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz043",
+      "size": "41"
+    },
+    {
+      "title": "Errata for TLC272/2A/2B/2Y/77 Data Sheet SLOS091E: Error in Elec Characteristics",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloz008",
+      "size": "24"
+    },
+    {
+      "title": "Errata for TLC27L2/2A/2B/L7 Data Sheet SLOS052D:  Error in Figure 44",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloz007",
+      "size": "35"
+    }
+  ]
+}

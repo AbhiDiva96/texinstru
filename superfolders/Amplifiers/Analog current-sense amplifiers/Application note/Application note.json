@@ -1,0 +1,2857 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "3172",
+    "name": "Analog current-sense amplifiers"
+  },
+  "docType": {
+    "value": "1",
+    "name": "Application note"
+  },
+  "totalPDFs": 568,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "Application of Class-D Amplifiers in Resolver and LVDT Exciters"
+    },
+    {
+      "title": "Application of Class-D Amplifiers in Resolver and LVDT Exciters",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa338",
+      "size": "3399"
+    },
+    {
+      "title": "Anti-Alias Filter Design for a 100kHz Bandwidth Data Acquisition Signal Chain (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa655",
+      "size": "996"
+    },
+    {
+      "title": "Closed Loop Constant Power Drive to Simplify Heater Element Control and Extend Battery Life",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvafk1",
+      "size": "619"
+    },
+    {
+      "title": "PLC Analog Output Module Architectures",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa631",
+      "size": "666"
+    },
+    {
+      "title": "Perform Accurate Optical Current Sense Measurements Using the LOG200 Logarithmic Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa601",
+      "size": "976"
+    },
+    {
+      "title": "Input Voltage Effects on Slew Rate for Voltage and Current Feedback Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa610",
+      "size": "404"
+    },
+    {
+      "title": "Smoke Alarm Sounder Using the DRV8220 and MSPM0G350x Microcontroller",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvafe1",
+      "size": "401"
+    },
+    {
+      "title": "Application Design Guidelines for LM339, LM393, TL331 Family Comparators Including the New B-versions (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa35",
+      "size": "1574"
+    },
+    {
+      "title": "Optimizing Dual Feedback Compensation in the OPA593 With a Current Booster for 1μF Capacitive Loads in ATE App",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa602",
+      "size": "1267"
+    },
+    {
+      "title": "Risks and Prevention of ESD, EOS, and Latch Up Events for Current Sense Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa615",
+      "size": "927"
+    },
+    {
+      "title": "Measurement and Calibration Techniques for Ultra-low Current Measurement Systems",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa597",
+      "size": "1696"
+    },
+    {
+      "title": "Simplify Your Current Sensing Design in Negative Output Power Supply Designs (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa595",
+      "size": "330"
+    },
+    {
+      "title": "Low-level voltage-to-current converter circuit (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa233",
+      "size": "320"
+    },
+    {
+      "title": "Ultrasonic Sensing Using LOG Detector Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa341",
+      "size": "934"
+    },
+    {
+      "title": "Ramping Up on Slew Rate (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa332",
+      "size": "531"
+    },
+    {
+      "title": "Protected, Low-Noise, Combined V-I Output Stage as Analog Output Building Block",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa594",
+      "size": "683"
+    },
+    {
+      "title": "How EZShunt Technology Simplifies and Reduces Error in Shunt-Based Designs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa603",
+      "size": "489"
+    },
+    {
+      "title": "Continuous Wave Doppler Signal Chain Designs for TI’s Ultrasound AFE (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa591",
+      "size": "473"
+    },
+    {
+      "title": "Designing Temperature Monitoring Systems with NTC and RTD",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa596",
+      "size": "500"
+    },
+    {
+      "title": "Achieve High SNR with the PGA855, Fully Differential Programmable-Gain Amplifier",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SBOA585",
+      "size": "1245"
+    },
+    {
+      "title": "Static Magnet Power Supply Design for Magnetic Resonance Imaging Application",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sprade3",
+      "size": "624"
+    },
+    {
+      "title": "How to Measure Total Harmonic Distortion of an Op-Amp and THD + N Fundamentals",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa580",
+      "size": "1153"
+    },
+    {
+      "title": "Optimizing CMRR in Differential Amplifier Circuits With Precision Matched Resist",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa582",
+      "size": "694"
+    },
+    {
+      "title": "High Accuracy Wheatstone Bridge Amplifier Circuit to 4-20-mA Current Loop Transm",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa575",
+      "size": "658"
+    },
+    {
+      "title": "Second Order Shelving Filter to Improve DC in AC Sensing",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa571",
+      "size": "801"
+    },
+    {
+      "title": "Determine Optimal Isolation Resistance for Driving Capacitive Load",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa418",
+      "size": "519"
+    },
+    {
+      "title": "Application Design Guidelines for LM324 and LM358 Devices (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa277",
+      "size": "1296"
+    },
+    {
+      "title": "Thermally-Enhanced Packages Improve Precision for Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa569",
+      "size": "334"
+    },
+    {
+      "title": "Analog Time Gain Control (ATGC) Solutions for TI’s Ultrasound AFE",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaae64",
+      "size": "1022"
+    },
+    {
+      "title": "Impact of Current Noise in CMOS and JFET Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa570",
+      "size": "1007"
+    },
+    {
+      "title": "연산 증폭기 사양에 대한 이해 (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/koka004",
+      "size": "1221"
+    },
+    {
+      "title": "Using Current Sense Amplifiers at Near-Zero Vsense",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa562",
+      "size": "459"
+    },
+    {
+      "title": "DC Parameters: Input Offset Voltage (VOS) (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa059",
+      "size": "816"
+    },
+    {
+      "title": "Choosing an Amplifier for Wide Bandwidth, High-Impedance, Data Acquisition AFEs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa333",
+      "size": "345"
+    },
+    {
+      "title": "Analysis of Improved Howland Current Pump Configurations (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa437",
+      "size": "433"
+    },
+    {
+      "title": "Comparator Input Types",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa91",
+      "size": "524"
+    },
+    {
+      "title": "Active Low-Pass Filter Design (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa049",
+      "size": "821"
+    },
+    {
+      "title": "Op Amp ESD Protection Structures (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvaex7",
+      "size": "736"
+    },
+    {
+      "title": "Reference-Buffer, ADC-Driver, and Transimpedance Applications for OPAx328",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa558",
+      "size": "1349"
+    },
+    {
+      "title": "Under the Hood: Full-Scale & Dynamic Range Considerations of Current Sense Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa535",
+      "size": "667"
+    },
+    {
+      "title": "Heavy Ion Orbital Environment Single-Event Effects Estimations (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvk046",
+      "size": "338"
+    },
+    {
+      "title": "The Davies Sinusoidal Generator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa550",
+      "size": "1006"
+    },
+    {
+      "title": "Single-Event Effects Confidence Interval Calculations (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slvk047",
+      "size": "256"
+    },
+    {
+      "title": "Reduce the Risk in Low-Earth Orbit Missions with Space Enhanced Plastic Products (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa344",
+      "size": "274"
+    },
+    {
+      "title": "Analog Signal Chain for Particle Monitor in Cost Optimized Systems",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snla399",
+      "size": "624"
+    },
+    {
+      "title": "Driving Voltage Reference Pins of Current-Sensing Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa551",
+      "size": "1051"
+    },
+    {
+      "title": "Cost-Optimized, High-Performance Front-End Design for Analog Input Modules",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa551",
+      "size": "867"
+    },
+    {
+      "title": "Designing for TLV90xxS Operational Amplifiers With Shutdown (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa367",
+      "size": "1117"
+    },
+    {
+      "title": "IEEE 802.3cg 10BASE-T1L Power over Data Lines Powered Device Design (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snvaa25",
+      "size": "817"
+    },
+    {
+      "title": "Extending the Common-Mode Voltage Range of Current-Output Current Shunt Monitors (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slla190",
+      "size": "423"
+    },
+    {
+      "title": "High Side, Bidirectional Current Sensing Circuit With Unidirectional Current",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa545",
+      "size": "523"
+    },
+    {
+      "title": "Interfacing the C2000 with an AFE03x: B-FSK Example (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sprac94",
+      "size": "3516"
+    },
+    {
+      "title": "Using a PCB Copper Trace as a Current-Sense Shunt Resistor",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa533",
+      "size": "6780"
+    },
+    {
+      "title": "Space-Grade, 100-krad, 1.25-V, Low-Noise Voltage Reference Circuit",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa85",
+      "size": "691"
+    },
+    {
+      "title": "Amplifier Input Common-Mode and Output-Swing Limitations",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa508",
+      "size": "554"
+    },
+    {
+      "title": "Space-Grade, 100-krad, Linear Thermoelectric Cooler (TEC) Driver Circuit (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa72",
+      "size": "671"
+    },
+    {
+      "title": "Grounding Considerations in Current-Sensing Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa536",
+      "size": "2819"
+    },
+    {
+      "title": "Charge Amplifier Circuit",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa287",
+      "size": "551"
+    },
+    {
+      "title": "Bidirectional Topologies for the INA901-SP",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa527",
+      "size": "780"
+    },
+    {
+      "title": "Space-Grade, 50-krad, Low-Side Bidirectional Current Sense Monitor",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa531",
+      "size": "526"
+    },
+    {
+      "title": "Space-Grade, 50-krad, High-Side Bidirectional Current Sense Monitor",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa532",
+      "size": "534"
+    },
+    {
+      "title": "BUF634A and BUF634 Thermal Performance Comparison",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa522",
+      "size": "678"
+    },
+    {
+      "title": "Bidirectional Current Sensing With Unidirectional Current Shunt Monitor",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SBOA529",
+      "size": "805"
+    },
+    {
+      "title": "Digital Interfaces for Current Sensing Devices (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa203",
+      "size": "419"
+    },
+    {
+      "title": "Low-Side Current Shunt Op-Amp Circuit to 3-V Single-Ended ADC for Cost-Optimized (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa353",
+      "size": "683"
+    },
+    {
+      "title": "Getting Started with Digital Power Monitors (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa511",
+      "size": "569"
+    },
+    {
+      "title": "Voltage-to-current (V-I) converter circuit with MOSFET (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa327",
+      "size": "527"
+    },
+    {
+      "title": "Understanding Operational Amplifier Specifications (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa011",
+      "size": "898"
+    },
+    {
+      "title": "Differentiator Circuit (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa276",
+      "size": "519"
+    },
+    {
+      "title": "Importance of Input Bias Current Return Paths in Instrumentation Amplifier Apps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa503",
+      "size": "824"
+    },
+    {
+      "title": "Parallel Amplifiers for Higher Output Power: An Improved Howland Pump Approach",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa524",
+      "size": "1195"
+    },
+    {
+      "title": "Under the Hood: Output Swing Limitations of Current Sense Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa519",
+      "size": "636"
+    },
+    {
+      "title": "Conditioning a Switch-mode Power Supply Current Signal Using TI Op Amps (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa044",
+      "size": "512"
+    },
+    {
+      "title": "Build a Programmable Gain Transimpedance Amplifiers Using the OPA3S328",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa521",
+      "size": "1111"
+    },
+    {
+      "title": "How to Increase the Channel Density of LiDAR Systems with the 4-Channel LMH32404",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa516",
+      "size": "2238"
+    },
+    {
+      "title": "Circuit for detecting input floating on ADS8681 ADC",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa507",
+      "size": "966"
+    },
+    {
+      "title": "Techniques for Extending the Usable Power Supply Range of the OPA462",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa510",
+      "size": "10192"
+    },
+    {
+      "title": "Synchronized Measurements with Digital Current Sense Monitors",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa426",
+      "size": "1506"
+    },
+    {
+      "title": "Current Shunt Amplifier Considerations for Driving SAR ADCs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa443",
+      "size": "2377"
+    },
+    {
+      "title": "Expanding Analog Input Channels in Grid Applications (Using 16-Channel, 16-Bit, (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa442",
+      "size": "618"
+    },
+    {
+      "title": "Zero Cross Detection Using Comparator with Dynamic Reference",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa989",
+      "size": "873"
+    },
+    {
+      "title": "Optimizing Noise and Power with Super Beta-Fully Differential Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa434",
+      "size": "1209"
+    },
+    {
+      "title": "Designing a Low-Cost, High-Accuracy Infrared Thermometer",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SBOA501",
+      "size": "1222"
+    },
+    {
+      "title": "Overvoltage Protection of Resolver-Based Circuits",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa447",
+      "size": "1409"
+    },
+    {
+      "title": "Distance Measurement with High Speed Comparators in Optical ToF Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa63",
+      "size": "767"
+    },
+    {
+      "title": "AN-31 Amplifier Circuit Collection (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snla140",
+      "size": "2977"
+    },
+    {
+      "title": "High Speed ADCs and Amplifiers for Flow Cytometry Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa482",
+      "size": "1612"
+    },
+    {
+      "title": "AN-1516 SPICE Universal Test Circuits (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa475",
+      "size": "1659"
+    },
+    {
+      "title": "Cascading Precision Op Amp Stages for Optimal AC and DC Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa356",
+      "size": "688"
+    },
+    {
+      "title": "USB Type C™ Monitor Power Budge Control With INA233 Power Sensing",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa403",
+      "size": "168"
+    },
+    {
+      "title": "INA117 and INA149 Differential Input Range (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa001",
+      "size": "397"
+    },
+    {
+      "title": "Evaluating Current Sensing Amplifiers in Body Control Modules Using Simulation",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slya047",
+      "size": "969"
+    },
+    {
+      "title": "Why Users Should Consider Upgrading Their LMV324, LMV358, and LMV321 Devices",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa368",
+      "size": "166"
+    },
+    {
+      "title": "TLC3702 TLC3704 Family Application Note",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sgla003",
+      "size": "1057"
+    },
+    {
+      "title": "Overcurrent latch circuit",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa39",
+      "size": "413"
+    },
+    {
+      "title": "Dual-Axis Motor Control Using FCL and SFRA On a Single C2000™ MCU",
+      "pdfUrl": "https://www.ti.com/lit/pdf/spraco3",
+      "size": "2291"
+    },
+    {
+      "title": "Using Comparators in Reverse Current Applications  (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa23",
+      "size": "238"
+    },
+    {
+      "title": "Low-side current shunt monitor circuit to 3-V single-ended ADC",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa352",
+      "size": "148"
+    },
+    {
+      "title": "How to Design a Simple and Highly Integrated Battery Testing System (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slua889",
+      "size": "1929"
+    },
+    {
+      "title": "TLV1805-Q1 EVM ISO Testing Results",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoaa13",
+      "size": "1874"
+    },
+    {
+      "title": "Do You Really Need Rail-to-Rail Input Amplifiers?",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa272",
+      "size": "373"
+    },
+    {
+      "title": "Phantom Power with Operational Amplifiers (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa320",
+      "size": "98"
+    },
+    {
+      "title": "A Numerical Protection Relay Solution (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaa466",
+      "size": "204"
+    },
+    {
+      "title": "PowerPAD™ Thermally Enhanced Package (Rev. H)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slma002",
+      "size": "983"
+    },
+    {
+      "title": "Attenuator Amplifier Design to Maximize the Input Voltage of Differential ADCs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa307",
+      "size": "433"
+    },
+    {
+      "title": "Hybrid Battery Charger with Load Control for Telecom Equipments (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slpa013",
+      "size": "395"
+    },
+    {
+      "title": "Dual Motor Ctl Using FCL and Perf Analysis Using SFRA on TMS320F28379D LaunchPad (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/spracb8",
+      "size": "5102"
+    },
+    {
+      "title": "Nano-Power Transimpedance Amplifier for Current Output Sensors",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa988",
+      "size": "148"
+    },
+    {
+      "title": "Performance Analysis of Fast Current Loop (FCL) in Servo",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sprt735",
+      "size": "3212"
+    },
+    {
+      "title": "Reverse Current Protection Using MOSFET and Comparator to Minimize Power Dissipa",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa971",
+      "size": "449"
+    },
+    {
+      "title": "High Speed Comparators for Triggering in Oscilloscopes",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa984",
+      "size": "91"
+    },
+    {
+      "title": "Advantages of using Nanopower Zero Drift Amp for Mobile Phone Battery Voltage Mo (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa977",
+      "size": "161"
+    },
+    {
+      "title": "Nano-Power Battery Monitoring in Personal Electronics",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa981",
+      "size": "78"
+    },
+    {
+      "title": "Precision Sum Circuit Support Hi Output Current Multiple AFEs in Ultasound App",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa256",
+      "size": "422"
+    },
+    {
+      "title": "Closed-Loop Analysis of Load-Induced Amplifier Stability Issues Using Zout",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slya029",
+      "size": "927"
+    },
+    {
+      "title": "Current Sensing in No-Neutral Light Switches (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa968",
+      "size": "249"
+    },
+    {
+      "title": "EMI-Hardened Op Amps Reduce Inaccuracies",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot041",
+      "size": "122"
+    },
+    {
+      "title": "Designing and Manufacturing with TI's X2SON Packages",
+      "pdfUrl": "https://www.ti.com/lit/pdf/scea055",
+      "size": "134"
+    },
+    {
+      "title": "HiFi Audio Circuit Design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa237",
+      "size": "255"
+    },
+    {
+      "title": "Simple MPPT based Lead acid charger using BQ2031 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva378",
+      "size": "247"
+    },
+    {
+      "title": "Low Cost Bidirectional Current Sensing Using INA181",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa211",
+      "size": "176"
+    },
+    {
+      "title": "Low-Cost, Low-Power, Small 14-bit AFE: Interleaved ADCs Scalable up to 7.5 MSPS",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa231",
+      "size": "1313"
+    },
+    {
+      "title": "Transimpedance Amplifiers (TIA): Choosing the Best Amplifier for the job (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa942",
+      "size": "153"
+    },
+    {
+      "title": "Design of Ultra-Low Power Circuits for Battery-Powered Wireless PIR Motion Detec (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa301",
+      "size": "479"
+    },
+    {
+      "title": "DC Controlled Low Pass Filter",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa240",
+      "size": "410"
+    },
+    {
+      "title": "Cost-Optimized Opamp Window Comparator for Ultra-low Power PIR Motion Detectors",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa304",
+      "size": "115"
+    },
+    {
+      "title": "LPV801 Micropower Ionization Smoke Detector",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa960",
+      "size": "127"
+    },
+    {
+      "title": "Precision Voltage Offset: When Does it Matter? (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa938",
+      "size": "271"
+    },
+    {
+      "title": "Current Sensing for Inline Motor-Control Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa172",
+      "size": "265"
+    },
+    {
+      "title": "OPA835 Op Amp Applications (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa162",
+      "size": "507"
+    },
+    {
+      "title": "Understanding Basic Analog – Ideal Op Amps (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaa068",
+      "size": "628"
+    },
+    {
+      "title": "Comparing EMI Performance of LPV802 with Other Devices in a Gas Sensor App",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa937",
+      "size": "3951"
+    },
+    {
+      "title": "Design for a Wideband Differential Transimpedance DAC Output (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa150",
+      "size": "438"
+    },
+    {
+      "title": "Building an Op Amp With Bipolar Transistors, A Historical Application Note (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snla206",
+      "size": "1180"
+    },
+    {
+      "title": "Handbook of Operational Amplifier Applications (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa092",
+      "size": "2822"
+    },
+    {
+      "title": "Fully-Differential Amplifiers (Rev. E)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa054",
+      "size": "867"
+    },
+    {
+      "title": "Common Design Challenges and Proper Use of Fully Differential Amplifiers (FDA)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa948",
+      "size": "309"
+    },
+    {
+      "title": "OPA171 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz044",
+      "size": "324"
+    },
+    {
+      "title": "Design of Analog Interface for Ultrasonic Gas Flow Meter Sensors (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa284",
+      "size": "2022"
+    },
+    {
+      "title": "An Adaptable, Low Loss, Selective Filter and Gain Topology with Low Sensitivity (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa287",
+      "size": "142"
+    },
+    {
+      "title": "Generation of a VCOM buffer input using PWM signal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva763",
+      "size": "439"
+    },
+    {
+      "title": "TLC2272 and TLC2272-Q1 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot014",
+      "size": "60"
+    },
+    {
+      "title": "TLE2141 and TLE2141-Q1 EMI Immunity Performance (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz026",
+      "size": "60"
+    },
+    {
+      "title": "EMI Rejection Ratio of Op Amps (With OPA333 and OPA333-Q1 as an Example) (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa128",
+      "size": "372"
+    },
+    {
+      "title": "Understanding the I2C Bus",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva704",
+      "size": "125"
+    },
+    {
+      "title": "Amplifiers and Bits; An Introduction to Selecting Amplifiers for Data Converters (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa035",
+      "size": "455"
+    },
+    {
+      "title": "High-Voltage Signal Conditioning for Low-Voltage ADCs (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa097",
+      "size": "125"
+    },
+    {
+      "title": "Bipolar Voltage Outputs for the TLV56xx Family of DACs (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaa113",
+      "size": "78"
+    },
+    {
+      "title": "Topology and Noise Using Multiplying DACs (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa146",
+      "size": "347"
+    },
+    {
+      "title": "Low-Power Signal Conditioning For A Pressure Sensor (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaa034",
+      "size": "469"
+    },
+    {
+      "title": "Make a -10V to +10V Adjustable Precision Voltage Source (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa052",
+      "size": "50"
+    },
+    {
+      "title": "Getting the Full Potential from your ADC (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa069",
+      "size": "135"
+    },
+    {
+      "title": "RLC Filter Design for ADC Interface Applications (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa108",
+      "size": "299"
+    },
+    {
+      "title": "Wideband Complementary Current Output DAC Single-Ended Interface (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa135",
+      "size": "2211"
+    },
+    {
+      "title": "ALM2402Q1 Applications Note",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva696",
+      "size": "235"
+    },
+    {
+      "title": "Designing Overcurrent protection for TPL7407L Peripheral Driver",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slla352",
+      "size": "177"
+    },
+    {
+      "title": "Thermocouple, Cold-Junction Compensation—Analog Approach",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa204",
+      "size": "614"
+    },
+    {
+      "title": "Combined Voltage and Current Output with the DACx760",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa199",
+      "size": "969"
+    },
+    {
+      "title": "AN-2014 LMH2110 Evaluation Board (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa011",
+      "size": "3565"
+    },
+    {
+      "title": "Step-Down Converter with Cable Voltage Drop Compensation",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva657",
+      "size": "441"
+    },
+    {
+      "title": "Design of a Low Cost, 45W Flasher with Short Circuit Protection",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva650",
+      "size": "548"
+    },
+    {
+      "title": "Frequency Dithering with the UCC28180 and TLV3201",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slua704",
+      "size": "864"
+    },
+    {
+      "title": "TLC27L1, TLC27L1A, TLC27L1B EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot016",
+      "size": "88"
+    },
+    {
+      "title": "TLC4501 and TLC4502 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot017",
+      "size": "88"
+    },
+    {
+      "title": "TLC272 and TLC277 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot019",
+      "size": "88"
+    },
+    {
+      "title": "TLE2027 and TLE2037 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot020",
+      "size": "89"
+    },
+    {
+      "title": "TLE2071, TLE2072, TLE2074 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot021",
+      "size": "88"
+    },
+    {
+      "title": "TLE2081, TLE2082, TLE2084 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot022",
+      "size": "89"
+    },
+    {
+      "title": "TLE2161 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot023",
+      "size": "90"
+    },
+    {
+      "title": "TLV2342 and TLV2344 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot030",
+      "size": "88"
+    },
+    {
+      "title": "OPA140, OPA2140, OPA4140 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot035",
+      "size": "88"
+    },
+    {
+      "title": "TLV2432 and TLV2434 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot015",
+      "size": "87"
+    },
+    {
+      "title": "Building your own Battery Simulator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva618",
+      "size": "114"
+    },
+    {
+      "title": "ADC Input Protection",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaa593",
+      "size": "145"
+    },
+    {
+      "title": "TLC1078 and TLC1079 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot010",
+      "size": "87"
+    },
+    {
+      "title": "TLC08x and TLC08xA EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot011",
+      "size": "88"
+    },
+    {
+      "title": "TLC2201 and TLC2202 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot012",
+      "size": "88"
+    },
+    {
+      "title": "TLC2262 and TLC2264 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot013",
+      "size": "87"
+    },
+    {
+      "title": "Extending Op Amp Bandwidth using Active Feedback Phase Correction",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa185",
+      "size": "5181"
+    },
+    {
+      "title": "TLV2711 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz037",
+      "size": "87"
+    },
+    {
+      "title": "TLE206x/TLE206xA/TLE206xB EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz038",
+      "size": "89"
+    },
+    {
+      "title": "TLV2341 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz039",
+      "size": "88"
+    },
+    {
+      "title": "TLV262x EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz040",
+      "size": "88"
+    },
+    {
+      "title": "OPA320, OPA320S, OPA2320, OPA2320S EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz017",
+      "size": "89"
+    },
+    {
+      "title": "TLV2401, TLV2402, TLV2404 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz030",
+      "size": "88"
+    },
+    {
+      "title": "TLV2241, TLV2242, TLV2244 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot002",
+      "size": "88"
+    },
+    {
+      "title": "Considerations for High-Gain Multistage Designs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa135",
+      "size": "347"
+    },
+    {
+      "title": "OA-26 Designing Active High Speed Filters (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa387",
+      "size": "468"
+    },
+    {
+      "title": "Unlimited Cap Load Drive Op Amp Takes Guess Work Out of Design (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa424",
+      "size": "151"
+    },
+    {
+      "title": "AN-1952 Designing with Thermocouples (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa544",
+      "size": "72"
+    },
+    {
+      "title": "AN-346 High-Performance Audio Applications of The LM833 (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa586",
+      "size": "503"
+    },
+    {
+      "title": "AN-711 LM78S40 Switching Voltage Regulator Applications (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva026",
+      "size": "740"
+    },
+    {
+      "title": "AN-1234 RSDS™ Flat Panel Display Design Guidelines Part 1 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa418",
+      "size": "245"
+    },
+    {
+      "title": "AN-1237 RSDS™ Flat Panel Display Design Guidelines Part 2 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa421",
+      "size": "194"
+    },
+    {
+      "title": "LB-12 An IC Voltage Comparator for High Impedance Circuitry (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa685",
+      "size": "140"
+    },
+    {
+      "title": "Topics on Using the LM6181; A New Current Feedback Amp (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa234",
+      "size": "431"
+    },
+    {
+      "title": "Development of an Extensive SPICE Macromodel for Current-Feedback Amps (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa247",
+      "size": "862"
+    },
+    {
+      "title": "AN-856 A SPICE Comp Macromodel for CMOS Op Amplifiers (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa265",
+      "size": "203"
+    },
+    {
+      "title": "AN-262 Applying Dual and Quad FET Op Amps (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa353",
+      "size": "1094"
+    },
+    {
+      "title": "AN-298 Isolation Techniques for Signal Conditioning (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa604",
+      "size": "685"
+    },
+    {
+      "title": "AN-301 Signal Conditioning for Sophisticated Transducers (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa606",
+      "size": "1178"
+    },
+    {
+      "title": "AN-211 New Op Amp Ideas (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa638",
+      "size": "1405"
+    },
+    {
+      "title": "AN-103 LM340 Series Three Terminal Positive Regulators (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa660",
+      "size": "814"
+    },
+    {
+      "title": "AN-288 System-Oriented DC-DC Conversion Techniques (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa668",
+      "size": "833"
+    },
+    {
+      "title": "AN-256 Circuitry for Inexpensive Relative Humidity Measurement (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa720",
+      "size": "262"
+    },
+    {
+      "title": "Reduce DC Pwr Consump in CDMA RF Pwr Amps Thru the LMV225 & Eff Switcher (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa466",
+      "size": "105"
+    },
+    {
+      "title": "AN-161 IC Voltage Reference has 1 ppm per Degree Drift (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa589",
+      "size": "275"
+    },
+    {
+      "title": "AN-828 Increasing the High Speed Torque of Bipolar Stepper Motors (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva029",
+      "size": "1071"
+    },
+    {
+      "title": "AN-260 A 20-Bit (1 ppm) Linear Slope-Integrating A/D Converter (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa597",
+      "size": "502"
+    },
+    {
+      "title": "Super Matched Bipolar Transistor Pair Sets New Standards for Drift and Noise (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa626",
+      "size": "966"
+    },
+    {
+      "title": "Keeping Up with the Expanding Demands of High-Performance Audio (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa046",
+      "size": "197"
+    },
+    {
+      "title": "Gain and Linearity Testing for Precision Operational Amplifiers (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa047",
+      "size": "1179"
+    },
+    {
+      "title": "AN-1559 Practical RTD Interface Solutions (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa481",
+      "size": "120"
+    },
+    {
+      "title": "AN-1984 LM57 Temperature Switch vs Thermistors (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa547",
+      "size": "83"
+    },
+    {
+      "title": "AN-1718 Differential Amplifier Applications Up to 400 MHz (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa505",
+      "size": "73"
+    },
+    {
+      "title": "AN-20 An Applications Guide for Op Amps (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa621",
+      "size": "727"
+    },
+    {
+      "title": "AN-29 IC Op Amp Beats FETs on Input Current (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa624",
+      "size": "965"
+    },
+    {
+      "title": "AN-30 Log Converters (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa641",
+      "size": "370"
+    },
+    {
+      "title": "AN-41 Precision IC Comparator Runs from +5V Logic Supply (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa642",
+      "size": "344"
+    },
+    {
+      "title": "AN-4 Monolithic Op Amp—The Universal Linear Component (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa650",
+      "size": "579"
+    },
+    {
+      "title": "AN-71 Micropower Circuits Using the LM4250 Programmable Op Amp (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa652",
+      "size": "536"
+    },
+    {
+      "title": "AN-79 IC Preamplifier Challenges Choppers on Drift (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa655",
+      "size": "940"
+    },
+    {
+      "title": "OA-14 Improving Amplifier Noise for High 3rd Intercept Amplifiers (Rev. F)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa389",
+      "size": "594"
+    },
+    {
+      "title": "AN-1240 Video Transmission Over Twisted Pair Wire (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa422",
+      "size": "102"
+    },
+    {
+      "title": "AN-1244 Photo-Diode Current-to-Voltage Converters (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa423",
+      "size": "132"
+    },
+    {
+      "title": "AN-1604 Decompensated Operational Amplifiers (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa486",
+      "size": "206"
+    },
+    {
+      "title": "AN-1704 LMH6555 Application as High Speed ADC Input Driver (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa500",
+      "size": "63"
+    },
+    {
+      "title": "AN-1719 Noise Figure Analysis Fully Differential Amplifier (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa506",
+      "size": "97"
+    },
+    {
+      "title": "AN-1803 Design Considerations for a Transimpedance Amplifier (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa515",
+      "size": "103"
+    },
+    {
+      "title": "AN-1798 Designing with Electro-Chemical Sensors (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa514",
+      "size": "62"
+    },
+    {
+      "title": "AN-1873 DC Parameters (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa532",
+      "size": "91"
+    },
+    {
+      "title": "AN-1852 Designing With pH Electrodes (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa529",
+      "size": "115"
+    },
+    {
+      "title": "CMOS ADC Interfaces Easily with many Microprocessors (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa722",
+      "size": "183"
+    },
+    {
+      "title": "Use of the LMV112 to Reduce Ref Clk Interaction in Handheld Device (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa025",
+      "size": "92"
+    },
+    {
+      "title": "Use of LMV225 Linear-In-dB RF Pwr Detector In CDMA2000 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa001",
+      "size": "357"
+    },
+    {
+      "title": "AN-1375 Linear-In-dB RF Power Detector In W-CDMA User Equipment (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa002",
+      "size": "924"
+    },
+    {
+      "title": "Base Station Closed-Loop RF Pwr Cntrl w/LMV232 Crest-Factor Invariant Detector (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa003",
+      "size": "180"
+    },
+    {
+      "title": "AN-1434 Crest Factor Invariant RF Power Detector (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa004",
+      "size": "170"
+    },
+    {
+      "title": "Evaluation Board for the LMH2100 Logarithmic Power Detector (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa005",
+      "size": "263"
+    },
+    {
+      "title": "AN-240 Wide-Range Current-to-Frequency Converters (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa594",
+      "size": "302"
+    },
+    {
+      "title": "Versatile Monolithic V/Fs can Compute as Well as Convert with High Accuracy (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa735",
+      "size": "535"
+    },
+    {
+      "title": "Using High Speed Diff Amp to Drive ADCs (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa461",
+      "size": "175"
+    },
+    {
+      "title": "Drivng HSpeed ADCs w/LMH6521 DVGA for High IF AC-Coupled Apps (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa569",
+      "size": "1155"
+    },
+    {
+      "title": "AN-1515 A Comprehensive Study of the Howland Current Pump (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa474",
+      "size": "165"
+    },
+    {
+      "title": "New Phase-Locked-Loops Have Advangs as Freq to Voltage Cnvrtrs (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa593",
+      "size": "1314"
+    },
+    {
+      "title": "AN-286 Applications of the LM392 Comparator Op Amp IC (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa667",
+      "size": "462"
+    },
+    {
+      "title": "AN-265 An Electronic Watt-Watt-Hour Meter (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa598",
+      "size": "537"
+    },
+    {
+      "title": "AN-1528 Using AC'97 Codecs in Non-PC Systems (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa477",
+      "size": "159"
+    },
+    {
+      "title": "AN-1684 Saving Power in an AC-Coupled Amplifier Circuit (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa495",
+      "size": "99"
+    },
+    {
+      "title": "AN-1698 A Specification for EMI Hardened Operational Amplifiers (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa497",
+      "size": "370"
+    },
+    {
+      "title": "AN-1708 LMV841 Stability Considerations (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa502",
+      "size": "40"
+    },
+    {
+      "title": "High Speed ADCs with Interfacing, Driving and Clocking Schemes (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa049",
+      "size": "178"
+    },
+    {
+      "title": "Driving the ADC14DS105 High-Speed A/D Converter for High Performance (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa504",
+      "size": "46"
+    },
+    {
+      "title": "AN-2177 Using the LMH6554 as a ADC Driver (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa565",
+      "size": "1654"
+    },
+    {
+      "title": "Between the Amplifier and ADC: Managing Filter Loss in Communications Systems (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa567",
+      "size": "114"
+    },
+    {
+      "title": "AN-2219 Precision Current Limiting with the LMP8646 and LP38501 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva632",
+      "size": "38"
+    },
+    {
+      "title": "AN-1822 LMH6733 High Definition Video Transmission Over CAT5 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa523",
+      "size": "247"
+    },
+    {
+      "title": "AN-2200 Precision Current Limiting with the LMP8646 and LMZ12003 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa136",
+      "size": "94"
+    },
+    {
+      "title": "AN-2218 Precision Current Limiting with the LMP8646 and LM3102 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa137",
+      "size": "109"
+    },
+    {
+      "title": "Intro MF10 - Versatile Mono Active Filter Building Blk (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa572",
+      "size": "808"
+    },
+    {
+      "title": "AN-87 Comparing the High Speed Comparators (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa658",
+      "size": "587"
+    },
+    {
+      "title": "AN-278 Designing with a New Super Fast Dual Norton Amplifier (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa666",
+      "size": "867"
+    },
+    {
+      "title": "AN-C V/F Converter ICs Handle Frequency-to-Voltage Needs (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa734",
+      "size": "371"
+    },
+    {
+      "title": "AN-272 Op Amp Booster Designs (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa600",
+      "size": "959"
+    },
+    {
+      "title": "AN-311 Theory and Applications of Logarithmic Amplifiers (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa575",
+      "size": "517"
+    },
+    {
+      "title": "Applications of the LM3524 Pulse Width Modulator (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa625",
+      "size": "549"
+    },
+    {
+      "title": "AN-300 Simple Circuit Detects Loss of 4-20 mA Signal (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa605",
+      "size": "241"
+    },
+    {
+      "title": "A Quad of Independently Func Comparators (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa654",
+      "size": "1557"
+    },
+    {
+      "title": "AN-116 Use the LM158/LM258/LM358 Dual, Single Supply Op Amp (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa662",
+      "size": "313"
+    },
+    {
+      "title": "Using ADC0808/809 8-Bit uP Compble ADCs w/8-Chan Analog Multiplexr (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa595",
+      "size": "1421"
+    },
+    {
+      "title": "AN-1950 Silently Powering Low Noise Applications (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa543",
+      "size": "10453"
+    },
+    {
+      "title": "AN-284 Single-Supply Applications of CMOS MICRODACs (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa601",
+      "size": "271"
+    },
+    {
+      "title": "AN-263 Sine Wave Generation Techniques (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa665",
+      "size": "747"
+    },
+    {
+      "title": "Effect of Heavy Loads on Accuracy and Linearity of Op Amp Circuits (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa471",
+      "size": "81742"
+    },
+    {
+      "title": "OA-31 Current Feedback Amplifiers (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa364",
+      "size": "376"
+    },
+    {
+      "title": "OA-07 Current Feedback Op Amp Applications Circuit Guide (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa365",
+      "size": "738"
+    },
+    {
+      "title": "OA-13 Current Feedback Loop Gain Analysis and Performance Enhancement (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa366",
+      "size": "224"
+    },
+    {
+      "title": "OA-15 Frequent Faux Pas in Applying Wideband Current Feedback Amplifiers (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa367",
+      "size": "365"
+    },
+    {
+      "title": "OA-18 Simulation SPICE Models for Comlinear's Op Amps (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa368",
+      "size": "3668"
+    },
+    {
+      "title": "OA-21 Component Pre-distortion for Sallen Key Filters (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa369",
+      "size": "172"
+    },
+    {
+      "title": "OA-24 Measuring and Improving Differential Gain and Differential Phase for Video (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa370",
+      "size": "127"
+    },
+    {
+      "title": "OA-25 Stability Analysis of Current Feedback Amplifiers (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa371",
+      "size": "204"
+    },
+    {
+      "title": "OA-27 Low-Sensitivity, Lowpass Filter Design (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa372",
+      "size": "299"
+    },
+    {
+      "title": "OA-28 Low-Sensitivity, Bandpass Filter Design with Tuning Method (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa373",
+      "size": "311"
+    },
+    {
+      "title": "OA-29 Low-Sensitivity, Highpass Filter Design with Parasitic Compensation (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa374",
+      "size": "383"
+    },
+    {
+      "title": "OA-12 Noise Analysis for Comlinear Amplifiers (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa375",
+      "size": "294"
+    },
+    {
+      "title": "OA-11 A Tutorial on Applying Op Amps to RF Applications (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa390",
+      "size": "920"
+    },
+    {
+      "title": "OA-19 Wideband Op Amp Capable of μPower Operation (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa407",
+      "size": "534"
+    },
+    {
+      "title": "LM6361/64/65 Fast VIP Op Amps Offer HS at Low Power Consumption (Rev. D)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa802",
+      "size": "630"
+    },
+    {
+      "title": "Demystifying the Operational Transconductance Amplifier (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa117",
+      "size": "259"
+    },
+    {
+      "title": "AN-104 Noise Specs Confusing (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva515",
+      "size": "387"
+    },
+    {
+      "title": "OA-20 Current-Feedback Myths Debunked (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa376",
+      "size": "172"
+    },
+    {
+      "title": "OA-30 Current vs. Voltage Feedback Amplifiers (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa388",
+      "size": "181"
+    },
+    {
+      "title": "OA-16 Wideband AGC Amplifier as a Differential Amplifier (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa393",
+      "size": "411"
+    },
+    {
+      "title": "OA-22 Pushing Low Quiescent Power Op Amps to Greater than 55dBM 2-Tone Intercept (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa394",
+      "size": "513"
+    },
+    {
+      "title": "OPA1652, OPA1654 EMIR Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot007",
+      "size": "283"
+    },
+    {
+      "title": "TLV2422 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot004",
+      "size": "282"
+    },
+    {
+      "title": "OPA1662, OPA1664 EMIR Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot006",
+      "size": "283"
+    },
+    {
+      "title": "TLV277x/TLV277xA EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz042",
+      "size": "284"
+    },
+    {
+      "title": "TLV2322, TLV2324 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot003",
+      "size": "282"
+    },
+    {
+      "title": "TLV271, TLV272, TLV274 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz031",
+      "size": "284"
+    },
+    {
+      "title": "Low-Level Output Voltage vs. Sinking Current of a Bipolar Output Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva545",
+      "size": "176"
+    },
+    {
+      "title": "TLV276x EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz041",
+      "size": "90"
+    },
+    {
+      "title": "OPA322, OPA2322, OPA4322 EMIR Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbot005",
+      "size": "89"
+    },
+    {
+      "title": "TLV2211 EMI Immunity Performance (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz027",
+      "size": "89"
+    },
+    {
+      "title": "TLV2370/71/72/73/74/75 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz029",
+      "size": "90"
+    },
+    {
+      "title": "TLV4110, TLV4111, TLV4112, TLV4113 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz032",
+      "size": "90"
+    },
+    {
+      "title": "TLV2381, TLV2382 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz034",
+      "size": "90"
+    },
+    {
+      "title": "TLV2461/62/63/64/65 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz035",
+      "size": "90"
+    },
+    {
+      "title": "TLC07x, TLC07xA EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz022",
+      "size": "90"
+    },
+    {
+      "title": "TLC271 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz023",
+      "size": "89"
+    },
+    {
+      "title": "TLE202x EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz024",
+      "size": "90"
+    },
+    {
+      "title": "TLC2027x, TLC2037x EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz025",
+      "size": "90"
+    },
+    {
+      "title": "OPA743, OPA2743, OPA4743 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz015",
+      "size": "90"
+    },
+    {
+      "title": "OPA170, OPA2170, OPA4170 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz019",
+      "size": "90"
+    },
+    {
+      "title": "OPA209, OPA2209, OPA4209 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz020",
+      "size": "91"
+    },
+    {
+      "title": "OPA227, OPA2227, OPA4227, OPA228, OPA2228, OPA4228 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz005",
+      "size": "90"
+    },
+    {
+      "title": "OPA340, OPA2340, OPA4340 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz010",
+      "size": "90"
+    },
+    {
+      "title": "OPA350, OPA2350, OPA4350 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz008",
+      "size": "90"
+    },
+    {
+      "title": "OPA354, OPA2354, OPA4354 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz011",
+      "size": "90"
+    },
+    {
+      "title": "OPA357, OPA2357 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz012",
+      "size": "90"
+    },
+    {
+      "title": "OPA627, OPA637 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz016",
+      "size": "90"
+    },
+    {
+      "title": "OPA373, OPA2373, OPA374, OPA2374, OPA4374 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz009",
+      "size": "90"
+    },
+    {
+      "title": "OPA703, OPA2703, OPA4703, OPA704, OPA2704, OPA4704 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz013",
+      "size": "90"
+    },
+    {
+      "title": "OPA725, OPA2725, OPA726, OPA2726 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz014",
+      "size": "90"
+    },
+    {
+      "title": "OPA141, OPA2141, OPA4141 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz018",
+      "size": "286"
+    },
+    {
+      "title": "TLC2252, TLC2254 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz028",
+      "size": "88"
+    },
+    {
+      "title": "TLV2262, TLV2264 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz033",
+      "size": "286"
+    },
+    {
+      "title": "OPA333, OPA2333 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz004",
+      "size": "91"
+    },
+    {
+      "title": "OPA334, OPA2334, OPA335, OPA2335 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz007",
+      "size": "90"
+    },
+    {
+      "title": "OPA277, OPA2277, OPA4277 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz006",
+      "size": "88"
+    },
+    {
+      "title": "TLV2211 EMI Immunity Performance (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz027",
+      "size": "327"
+    },
+    {
+      "title": "TLV4110, TLV4111, TLV4112, TLV4113 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz032",
+      "size": "286"
+    },
+    {
+      "title": "OPA211, OPA211A, OP2211, OPA2211A EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz021",
+      "size": "287"
+    },
+    {
+      "title": "TLC07x, TLC07xA EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz022",
+      "size": "286"
+    },
+    {
+      "title": "TLE2141, TLE2142, TLE2144 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz026",
+      "size": "286"
+    },
+    {
+      "title": "TLV2370/71/72/73/74/75 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz029",
+      "size": "286"
+    },
+    {
+      "title": "TLV2381, TLV2382 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz034",
+      "size": "286"
+    },
+    {
+      "title": "TLV2461/62/63/64/65 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz035",
+      "size": "287"
+    },
+    {
+      "title": "OPA209, OPA2209, OPA4209 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz020",
+      "size": "287"
+    },
+    {
+      "title": "TLC271 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz023",
+      "size": "285"
+    },
+    {
+      "title": "OPA334/OPA2334/OPA335/OPA2335 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz007",
+      "size": "286"
+    },
+    {
+      "title": "TLV2630/31/32/33/34/35 EMI Immunity Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboz036",
+      "size": "88"
+    },
+    {
+      "title": "Frequency Dithering With the UCC28950 and TLV3201",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slua646",
+      "size": "386"
+    },
+    {
+      "title": "AFE Design for a Narrowband Power-Line Communications Modem Using the AFE031 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa130",
+      "size": "498"
+    },
+    {
+      "title": "Load Sharing Concepts: Implementation for Large-Signal Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa127",
+      "size": "219"
+    },
+    {
+      "title": "OPA836 Low-Power Op Amp Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa163",
+      "size": "488"
+    },
+    {
+      "title": "Supplying TPS61200 With a Single Solar Cell (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva345",
+      "size": "129"
+    },
+    {
+      "title": "Driving High-Speed Data Against the Traffic",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa868",
+      "size": "828"
+    },
+    {
+      "title": "Large-Signal Specifications for High-Voltage Line Drivers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa126",
+      "size": "195"
+    },
+    {
+      "title": "Biasing Considerations for OPA564 During Enabled and Disabled States",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa182",
+      "size": "130"
+    },
+    {
+      "title": "FilterPro™ MFB and Sallen-Key Low-Pass Filter Design Program User Guide (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbfa001",
+      "size": "3113"
+    },
+    {
+      "title": "Bridging the Divide: A DAC Applications Tutorial (Precision Signal Path)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa129",
+      "size": "1909"
+    },
+    {
+      "title": "Analog Audio Filters",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa152",
+      "size": "443"
+    },
+    {
+      "title": "Driving High-Speed ADCs: Circuit Topologies and System-Level Parameters (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaa416",
+      "size": "327"
+    },
+    {
+      "title": "DC Output Errors in a Fully-Differential Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva417",
+      "size": "334"
+    },
+    {
+      "title": "Power Ref Design for TMS320C6472, 12-Vin Digital Pwr Cntrlrs, and LDOs (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva396",
+      "size": "559"
+    },
+    {
+      "title": "Going Beyond the Front End Zero-Drift, Program Instrumentation Amp w/Diagnostics",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa867",
+      "size": "255"
+    },
+    {
+      "title": "Design of Differential Filters for High-Speed Signal Chains (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slwa053",
+      "size": "166"
+    },
+    {
+      "title": "Pwr Ref Design f/'C6472 12-Vin Digital Pwr Controllers and LDOs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva395",
+      "size": "558"
+    },
+    {
+      "title": "A Numerical Solution to an Analog Problem",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa124",
+      "size": "210"
+    },
+    {
+      "title": "Implementating a Variable-Length Cat5e Cable Equalizer",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa125",
+      "size": "505"
+    },
+    {
+      "title": "Basic Introduction to Filters - Active, Passive, and Switched-Cap (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa224",
+      "size": "504"
+    },
+    {
+      "title": "Wireline Data Transmission and Reception",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa123",
+      "size": "191"
+    },
+    {
+      "title": "PGA280 Communication via SPI™",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa119",
+      "size": "479"
+    },
+    {
+      "title": "Making the Most of a Low-Power, High-Speed Operational Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa121",
+      "size": "221"
+    },
+    {
+      "title": "Transimpedance Considerations for High-Speed Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa122",
+      "size": "193"
+    },
+    {
+      "title": "A Powerline Communication Line Driver Requirement Overview",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa120",
+      "size": "200"
+    },
+    {
+      "title": "AB-10 Fluid Level Control Systems Utilizing the LM1830 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa576",
+      "size": "116"
+    },
+    {
+      "title": "Low Power Input and Reference Driver Circuit for ADS8318 and ADS8319",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa118",
+      "size": "1456"
+    },
+    {
+      "title": "Reference Clock Loop Through Application",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snla197",
+      "size": "488"
+    },
+    {
+      "title": "AN-227 Applications of Wide-Band Buffer Amplifiers (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa725",
+      "size": "423"
+    },
+    {
+      "title": "OPA361 and TV Detection",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa109",
+      "size": "2407"
+    },
+    {
+      "title": "Design for a Wideband Differential Transimpedance DAC Output",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa150",
+      "size": "396"
+    },
+    {
+      "title": "Adaptive Speed Control for Automotive Systems",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa125",
+      "size": "324"
+    },
+    {
+      "title": "AN-1733 Load Transient Testing Simplified",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa507",
+      "size": "317"
+    },
+    {
+      "title": "Selecting Amplifiers, ADCs, and Clocks for High-Performance Signal Paths",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa866",
+      "size": "545"
+    },
+    {
+      "title": "Timing is Everything Çô The Broadcast Video Signal Path",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snla207",
+      "size": "539"
+    },
+    {
+      "title": "Low-Voltage Current Loop Transmitter",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa865",
+      "size": "519"
+    },
+    {
+      "title": "Generating Precision Clocks for Time- Interleaved ADCs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa124",
+      "size": "680"
+    },
+    {
+      "title": "Extending the Signal Path Over Data Trans Lines Using LVDS Signal Conditioning",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snla209",
+      "size": "575"
+    },
+    {
+      "title": "Noise Analysis In Operational  Amplifier Circuits (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva043",
+      "size": "199"
+    },
+    {
+      "title": "Buck Converters Provide a Battery Charger and System Power",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva532",
+      "size": "61"
+    },
+    {
+      "title": "Low-Cost Noise-Immune Isolated Thermocouple Signal Processor",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa123",
+      "size": "802"
+    },
+    {
+      "title": "AN-1447 Improving PSRR and CMRR in Fully Differential Amplifiers (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa467",
+      "size": "139"
+    },
+    {
+      "title": "Improving Machinery Vibration Analysis",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa122",
+      "size": "522"
+    },
+    {
+      "title": "Using the XTR115 with the PGA309 to Generate 4mA to 20mA Output (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa107",
+      "size": "167"
+    },
+    {
+      "title": "PGA309 Quick Start System Reference Guide (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa103",
+      "size": "9375"
+    },
+    {
+      "title": "PGA309 Noise Filtering (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa110",
+      "size": "704"
+    },
+    {
+      "title": "Understanding High-Speed Signals, Clocks, and Data Capture",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa121",
+      "size": "1855"
+    },
+    {
+      "title": "Maximizing Signal-Path Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa133",
+      "size": "568"
+    },
+    {
+      "title": "Practical Technique for Minimizing the Number of Measurements in Sensor Signal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa111",
+      "size": "155"
+    },
+    {
+      "title": "PGA309 Microcontroller Application",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa108",
+      "size": "58"
+    },
+    {
+      "title": "Interfacing the VCA8617 with High-Speed ADCs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa130",
+      "size": "72"
+    },
+    {
+      "title": "Compensate Transimpedance Amplifiers Intuitively (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa055",
+      "size": "69"
+    },
+    {
+      "title": "A Walk Along the Signal Path  (High-Speed Signal Path)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa120",
+      "size": "461"
+    },
+    {
+      "title": "VCA8617: Response to Step-Change in Gain Control",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa105",
+      "size": "102"
+    },
+    {
+      "title": "Video Designs Using High-Speed Amplifiers (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa057",
+      "size": "438"
+    },
+    {
+      "title": "Noise Analysis for High Speed Op Amps (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa066",
+      "size": "256"
+    },
+    {
+      "title": "Applying a New Precision Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa818",
+      "size": "421"
+    },
+    {
+      "title": "An Acoustic Transformer Powered Super-High Isolation Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa819",
+      "size": "212"
+    },
+    {
+      "title": "High-Voltage Signal Conditioning for Low Voltage ADCs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa097",
+      "size": "135"
+    },
+    {
+      "title": "High-Voltage Signal Conditioning for Differential ADCs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa096",
+      "size": "125"
+    },
+    {
+      "title": "Dual-Channel VCAs: Methods for Powering Down One Channel",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa098",
+      "size": "102"
+    },
+    {
+      "title": "LB-4 Fast Compensation Extends Power Bandwidth",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa679",
+      "size": "100"
+    },
+    {
+      "title": "LB-2 Feedforward Compensation Speeds Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa646",
+      "size": "139"
+    },
+    {
+      "title": "AN-46 The Phase Locked Loop IC as a Communication System Building Block",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa651",
+      "size": "314"
+    },
+    {
+      "title": "LM1823 High Qlty TV Video I.F. Amp & Sync Detector for Cable Receivers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa674",
+      "size": "351"
+    },
+    {
+      "title": "AN-402 LM2889 RF Modulator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa678",
+      "size": "247"
+    },
+    {
+      "title": "2-Way Multiplexed LCD Drv & Low Cost ADC Using V/F Tech w/COP8 Microcontrollers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa150",
+      "size": "564"
+    },
+    {
+      "title": "AN-255 Power Spectrum Estimation",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa719",
+      "size": "433"
+    },
+    {
+      "title": "AN-804 Improving A/D Converter Performance Using Dither",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa232",
+      "size": "199"
+    },
+    {
+      "title": "AN-1002 ADC16071/ADC16471 Analog Layout and Interface Design Considerations",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa350",
+      "size": "268"
+    },
+    {
+      "title": "AN-861 Guide to CRT Video Design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa268",
+      "size": "729"
+    },
+    {
+      "title": "AN-934 Using the LM1204 with Large Horizontal Sync Widths",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva030",
+      "size": "95"
+    },
+    {
+      "title": "AN-990 Radiated Emissions and CRT Displays",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa347",
+      "size": "259"
+    },
+    {
+      "title": "AN-1013 Video Amplifier Design for Computer Monitors",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva031",
+      "size": "373"
+    },
+    {
+      "title": "AN-884 Integrated LNA and Mixer Basics",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa290",
+      "size": "155"
+    },
+    {
+      "title": "AN-597 Current Feedback Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa004",
+      "size": "225"
+    },
+    {
+      "title": "AN-480 A 40 MHz Programmable Video Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa756",
+      "size": "218"
+    },
+    {
+      "title": "OA-23 CLC522 Advanced Operating Considerations and Military Specifications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa395",
+      "size": "286"
+    },
+    {
+      "title": "AN-261 Low Distortion Wideband Power Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa623",
+      "size": "328"
+    },
+    {
+      "title": "AN-446 A 150W IC Op Amp Simplifies Design of Power Circuits",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa718",
+      "size": "782"
+    },
+    {
+      "title": "AN-24 A Simplified Test Set for Op Amp Characterization",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa637",
+      "size": "1191"
+    },
+    {
+      "title": "Data Acq Using ADC0816 & ADC0817 8-Bit ADC w/On-Chip 16 Chan Multiplexr",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa596",
+      "size": "722"
+    },
+    {
+      "title": "AN-266 Circuit Applications of Sample-Hold Amplifiers (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa599",
+      "size": "1282"
+    },
+    {
+      "title": "AN-293 Control Applications of CMOS DACs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa602",
+      "size": "424"
+    },
+    {
+      "title": "AN-294 Special Sample and Hold Techniques",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa603",
+      "size": "273"
+    },
+    {
+      "title": "AN-295 A High Performance Industrial Weighing System",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snia006",
+      "size": "156"
+    },
+    {
+      "title": "AN-32 FET Circuit Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa620",
+      "size": "254"
+    },
+    {
+      "title": "AN-241 Working with High Impedance Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa664",
+      "size": "169"
+    },
+    {
+      "title": "AN-446B A Monolithic Power Op Amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa761",
+      "size": "1087"
+    },
+    {
+      "title": "Specifications and Architectures of Sample-and-Hold Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa223",
+      "size": "112"
+    },
+    {
+      "title": "AN-253 LH0024 and LH0032 High Speed Op Amp Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa643",
+      "size": "500"
+    },
+    {
+      "title": "The LM3900 A New Current-Differencing Quad of Plus or Minus Input Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa653",
+      "size": "682"
+    },
+    {
+      "title": "LM143 Monolithic High Voltage Operational Amplifier Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva516",
+      "size": "479"
+    },
+    {
+      "title": "LB-9 Universal Balancing Techniques (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa683",
+      "size": "119"
+    },
+    {
+      "title": "AN-275 CMOS D/A Converters Match Most Microprocessors",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa721",
+      "size": "167"
+    },
+    {
+      "title": "AN-447 Protection Schemes for BI-FET Amplifiers and Switches",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa736",
+      "size": "80"
+    },
+    {
+      "title": "AN-637 Realizing Trigonometric Functions with the Multifunction Converter LH0094",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa139",
+      "size": "174"
+    },
+    {
+      "title": "Audio Applications of Linear Integrated Circuits",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva530",
+      "size": "272"
+    },
+    {
+      "title": "AN-162 LM2907 Tachometer/Speed Switch Building Block Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa088",
+      "size": "346"
+    },
+    {
+      "title": "Stabilizing Current-Feedback Op Amps While Optimizing Circuit Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa095",
+      "size": "280"
+    },
+    {
+      "title": "ADS5500, OPA695: PC Board Layout for Low Distortion High-Speed ADC Drivers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa113",
+      "size": "273"
+    },
+    {
+      "title": "NanoStar™ & NanoFree™ 300μm Solder Bump WCSP Application",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbva017",
+      "size": "749"
+    },
+    {
+      "title": "Implementing a 4 mA to 20 mA Current Loop on TI DSPs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/szza045",
+      "size": "204"
+    },
+    {
+      "title": "Measuring Board Parasitics in High-Speed Analog Design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa094",
+      "size": "134"
+    },
+    {
+      "title": "Photo-Diode Current-To-Voltage Converters",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa806",
+      "size": "135"
+    },
+    {
+      "title": "Unlimited Capacitive Load Drive Op Amp Takes Guesswork Out Of Design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa808",
+      "size": "81"
+    },
+    {
+      "title": "Lower System Cost Solution for Transmitting Video",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa810",
+      "size": "80"
+    },
+    {
+      "title": "Audio Amplifier Drives Thermoelectric Cooler For OC-48 Laser Module",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snaa092",
+      "size": "78"
+    },
+    {
+      "title": "A Multi-Band GSM/GPRS Power Amplifier Controller",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snwa013",
+      "size": "120"
+    },
+    {
+      "title": "Active Output Impedance for ADSL Line Drivers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa100",
+      "size": "636"
+    },
+    {
+      "title": "Predicting Op Amp Slew Rate Limited Response",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa852",
+      "size": "139"
+    },
+    {
+      "title": "Pressure Transducer to ADC Application",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa056",
+      "size": "78"
+    },
+    {
+      "title": "General Purpose Power Supply",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa857",
+      "size": "94"
+    },
+    {
+      "title": "Freq-to-Vltg Converter Uses Sample-and-Hold to Improve Response & Ripple",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa863",
+      "size": "119"
+    },
+    {
+      "title": "Instrumentational Amplifiers (See also LMP8358)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snva580",
+      "size": "76"
+    },
+    {
+      "title": "Low Drift Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa853",
+      "size": "71"
+    },
+    {
+      "title": "Precise Tri-Wave Generation",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa854",
+      "size": "80"
+    },
+    {
+      "title": "Microvolt Comparator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa858",
+      "size": "85"
+    },
+    {
+      "title": "A Micropower Voltage Reference",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa859",
+      "size": "92"
+    },
+    {
+      "title": "Circuit Techniques for Avoiding Oscillations in Comparator Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa860",
+      "size": "96"
+    },
+    {
+      "title": "Get Fast Stable Response From Improved Unity-Gain Followers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa861",
+      "size": "107"
+    },
+    {
+      "title": "Get More Power Out of Dual or Quad Op-Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa862",
+      "size": "91"
+    },
+    {
+      "title": "LM118 Op Amp Slews 70 V/sec",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa850",
+      "size": "118"
+    },
+    {
+      "title": "True RMS Detector",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa855",
+      "size": "88"
+    },
+    {
+      "title": "Specifying Selected Op Amps and Comparators",
+      "pdfUrl": "https://www.ti.com/lit/pdf/snoa856",
+      "size": "67"
+    },
+    {
+      "title": "Interface Circuits for TIA/EIA-644 (LVDS) (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slla038",
+      "size": "69"
+    },
+    {
+      "title": "Analysis of the Sallen-Key Architecture (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa024",
+      "size": "92"
+    },
+    {
+      "title": "High Speed Amplifier PCB Layout Tips",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa102",
+      "size": "29"
+    },
+    {
+      "title": "Using References to Generate Offsets for the TLC55xx Family Data Converters (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaa063",
+      "size": "72"
+    },
+    {
+      "title": "Fully Differential OP Amps Made Easy",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa099",
+      "size": "137"
+    },
+    {
+      "title": "Buffer Op Amp to ADC Circuit Collection",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa098",
+      "size": "336"
+    },
+    {
+      "title": "Designing Gain and Offset in Thirty Seconds",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa097",
+      "size": "230"
+    },
+    {
+      "title": "Filter Design in Thirty Seconds",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa093",
+      "size": "326"
+    },
+    {
+      "title": "Handbook of Operational Amplifier Active RC Networks (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa093",
+      "size": "3600"
+    },
+    {
+      "title": "Using Texas Instruments SPICE Models in Electronics Workbench",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa071",
+      "size": "317"
+    },
+    {
+      "title": "Differential Op Amp Single-Supply Design Techniques",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa072",
+      "size": "206"
+    },
+    {
+      "title": "Using Texas Instruments SPICE Models in PSPICE",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa070",
+      "size": "303"
+    },
+    {
+      "title": "How (Not) To Decouple High-Speed Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa069",
+      "size": "218"
+    },
+    {
+      "title": "A Current Feedback Op-Amp Circuit Collection",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa066",
+      "size": "123"
+    },
+    {
+      "title": "Using the Texas Instruments Filter Design Database",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa062",
+      "size": "399"
+    },
+    {
+      "title": "Filters for Data Transmission",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa063",
+      "size": "238"
+    },
+    {
+      "title": "Analog Applications Journal July 2001 Issue",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt027",
+      "size": "988"
+    },
+    {
+      "title": "Optoelectronics Circuit Collection",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbea001",
+      "size": "261"
+    },
+    {
+      "title": "Interfacing Different Logic with LVDS Receivers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slla101",
+      "size": "197"
+    },
+    {
+      "title": "Using a Decompensated Operational Amplifier for Improved Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa047",
+      "size": "161"
+    },
+    {
+      "title": "AC Error Equations for Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa061",
+      "size": "106"
+    },
+    {
+      "title": "Current Feedback Amplifier Analysis And Compensation (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa021",
+      "size": "104"
+    },
+    {
+      "title": "Analog Applications Journal (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt012",
+      "size": "783"
+    },
+    {
+      "title": "Single-Supply Op Amp Design Techniques (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa030",
+      "size": "137"
+    },
+    {
+      "title": "Feedback Amplifier Analysis Tools (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa017",
+      "size": "135"
+    },
+    {
+      "title": "Stability Analysis Of Voltage-Feedback Op Amps, Including Compensation Technique (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa020",
+      "size": "197"
+    },
+    {
+      "title": "Analog Applications Journal, Feb, 2001",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt026",
+      "size": "753"
+    },
+    {
+      "title": "AB-170: Ultrasound Processor Supplementary Material",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa083",
+      "size": "752"
+    },
+    {
+      "title": "Current Feedback Amplifiers: Review, Stability Analysis, and Applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa081",
+      "size": "53"
+    },
+    {
+      "title": "Analog Applications Journal, Nov. 2000",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt023",
+      "size": "818"
+    },
+    {
+      "title": "Selecting High-Speed Operational Amplifiers Made Easy (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa051",
+      "size": "78"
+    },
+    {
+      "title": "MTTF, Failrate, Reliability, and Life Testing",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbfa011",
+      "size": "51"
+    },
+    {
+      "title": "Design a 60Hz Notch Filter with the UAF42",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbfa012",
+      "size": "71"
+    },
+    {
+      "title": "Build a 3-Phase Sine Wave Generator with the UAF42",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbfa013",
+      "size": "33"
+    },
+    {
+      "title": "20mA to 0-20mA Converter & Current Summing Current-to-Current Converters",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa053",
+      "size": "57"
+    },
+    {
+      "title": "Op Amp Performance Analysis",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa054",
+      "size": "76"
+    },
+    {
+      "title": "Improve OPA541 Current-Limit Stability",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa057",
+      "size": "31"
+    },
+    {
+      "title": "Single-Supply Operation of Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa059",
+      "size": "77"
+    },
+    {
+      "title": "Isolation Amps Hike Accuracy and Reliability",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa064",
+      "size": "94"
+    },
+    {
+      "title": "Combining an Amplifier with the BUF634",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa065",
+      "size": "72"
+    },
+    {
+      "title": "Precision Absolute Value Circuits",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa068",
+      "size": "100"
+    },
+    {
+      "title": "Signal Conditioning Piezoelectric Sensors (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa033",
+      "size": "58"
+    },
+    {
+      "title": "Effect of Parasitic Capacitance in Op Amp Circuits (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa013",
+      "size": "371"
+    },
+    {
+      "title": "Mounting Considerations for TO-3 Packages",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa020",
+      "size": "73"
+    },
+    {
+      "title": "Power Amplifier Stress and Power Handling Limitations",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa022",
+      "size": "55"
+    },
+    {
+      "title": "Single Supply 4-20mA Current Loop Receiver",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa023",
+      "size": "29"
+    },
+    {
+      "title": "Programmable-Gain Instrumentation Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa024",
+      "size": "47"
+    },
+    {
+      "title": "Use Low-Impedance Bridges on 4-20mA Current Loop",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa025",
+      "size": "27"
+    },
+    {
+      "title": "Improved Device Noise Performance For the 3650 Isolation Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa026",
+      "size": "28"
+    },
+    {
+      "title": "Operational Amplifier Macromodels: A Comparison",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa027",
+      "size": "59"
+    },
+    {
+      "title": "The ACF2101 Used as a Bipolar Switched Integrator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa029",
+      "size": "35"
+    },
+    {
+      "title": "Improved Noise Performance of the ACF2101 Switched Integrator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa032",
+      "size": "42"
+    },
+    {
+      "title": "Comparison of Noise Performance of FET Transimpedence Amp/Switched Integrator",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa034",
+      "size": "66"
+    },
+    {
+      "title": "Simple Circuit Delivers 38Vp-p at 5A from 28V Unipolar Supply",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa037",
+      "size": "26"
+    },
+    {
+      "title": "Composite Op Amp Gives You The Best of Both Worlds",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa002",
+      "size": "32"
+    },
+    {
+      "title": "AC Coupling Instrumentation and Difference Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa003",
+      "size": "38"
+    },
+    {
+      "title": "Single-Supply Operation of Isolation Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa004",
+      "size": "46"
+    },
+    {
+      "title": "±200V Difference Amplifier with Common-Mode Voltage Monitor",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa005",
+      "size": "32"
+    },
+    {
+      "title": "Extending the Common-Mode Range of Difference Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa008",
+      "size": "49"
+    },
+    {
+      "title": "Boost Amplifier Output Swing With Simple Modification",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa009",
+      "size": "46"
+    },
+    {
+      "title": "Add Current Limit to the BUF634",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa042",
+      "size": "63"
+    },
+    {
+      "title": "DC MOTOR SPEED CONTROLLER: Control a DC Motor without Tachometer Feedback",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa043",
+      "size": "50"
+    },
+    {
+      "title": "An Error Analysis of the ISO102 in a Small Signal Measuring Application",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa044",
+      "size": "29"
+    },
+    {
+      "title": "Implementation and Applications of Current Sources and Current Receivers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa046",
+      "size": "427"
+    },
+    {
+      "title": "Fast Settling Low-Pass Filter",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa011",
+      "size": "101"
+    },
+    {
+      "title": "Boost Instrument Amp CMR With Common-Mode Driven Supplies",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa014",
+      "size": "175"
+    },
+    {
+      "title": "Feedback Plots Define Op Amp AC Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa015",
+      "size": "89"
+    },
+    {
+      "title": "Input Filtering The INA117  ±200V Difference Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa016",
+      "size": "48"
+    },
+    {
+      "title": "IC Building Blocks Form Complete Isolated 4-20mA Current-Loop",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sboa017",
+      "size": "72"
+    },
+    {
+      "title": "Remove the DC Portion of Signals with the ADS7817",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbaa015",
+      "size": "55"
+    },
+    {
+      "title": "Input Overload Protection for the RCV420 4-20mA Current-Loop Receiver",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbva003",
+      "size": "31"
+    },
+    {
+      "title": "0 To 20 mA Receiver Using RCV42",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbva004",
+      "size": "26"
+    },
+    {
+      "title": "Frequency-To-Voltage Conversion",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbva005",
+      "size": "106"
+    },
+    {
+      "title": "Filter Design Program For The UAF42 Universal Active Filter",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbfa002",
+      "size": "540"
+    },
+    {
+      "title": "Simple Filter Turns Square Waves into Sine Waves",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbfa003",
+      "size": "61"
+    },
+    {
+      "title": "Digitally Programmable, Time-Continuous Active Filter",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbfa005",
+      "size": "32"
+    },
+    {
+      "title": "10MHz Analog Multiplier Carries Output Amp Breaks Bandwidth Barrier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbfa006",
+      "size": "46"
+    },
+    {
+      "title": "FOUR-WIRE RTD CURRENT-LOOP TRANSMITTER",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sbfa007",
+      "size": "54"
+    },
+    {
+      "title": "Thermistor Temperature Transducer to ADC Application",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLOA052",
+      "size": "289"
+    },
+    {
+      "title": "Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt018",
+      "size": "690"
+    },
+    {
+      "title": "Nulling Input Offset Voltage of Operational Amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa045",
+      "size": "94"
+    },
+    {
+      "title": "High-Speed Operational Amplifier Layout Made Easy",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa046",
+      "size": "87"
+    },
+    {
+      "title": "Understanding Basic Analog - Active Devices (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa026",
+      "size": "61"
+    },
+    {
+      "title": "Audio Tone Control Using the TLC074 Operational Amplifier",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa042",
+      "size": "67"
+    },
+    {
+      "title": "Use of Rail-to-Rail Operational Amplifiers (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa039",
+      "size": "159"
+    },
+    {
+      "title": "Measuring Differential Gain and Phase",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa040",
+      "size": "140"
+    },
+    {
+      "title": "Choosing an ADC and Op Amp for Minimum Offset",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slaa064",
+      "size": "72"
+    },
+    {
+      "title": "10-MHz Butterworth Filter Using the Operational Amplifier THS4001",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa032",
+      "size": "248"
+    },
+    {
+      "title": "THS3001 SPICE Model Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa038",
+      "size": "232"
+    },
+    {
+      "title": "THS4001 SPICE Model Performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa029",
+      "size": "149"
+    },
+    {
+      "title": "Signal Conditioning Wheatstone Resistive Bridge Sensors",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa034",
+      "size": "65"
+    },
+    {
+      "title": "Analog Applications Journal, Q3, 1999",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt005",
+      "size": "429"
+    },
+    {
+      "title": "Understanding Basic Analog Passive Devices",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa027",
+      "size": "56"
+    },
+    {
+      "title": "Universal Op Amp Evaluation Board for Designing a Two-Stage Bandpass Filter",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa016",
+      "size": "61"
+    },
+    {
+      "title": "Building a Simple SPICE Model for the THS3001",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa018",
+      "size": "114"
+    },
+    {
+      "title": "Gain Block Analysis For The THS3001",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa019",
+      "size": "62"
+    },
+    {
+      "title": "Driving Capacitance with the THS4001",
+      "pdfUrl": "https://www.ti.com/lit/pdf/sloa015",
+      "size": "51"
+    },
+    {
+      "title": "Voltage Feedback vs. Current Feedback Op Amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva051",
+      "size": "93"
+    },
+    {
+      "title": "3-V Accelerometer Featuring TLV2772",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slva040",
+      "size": "219"
+    }
+  ]
+}

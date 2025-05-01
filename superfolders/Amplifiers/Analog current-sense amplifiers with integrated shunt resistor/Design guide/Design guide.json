@@ -1,0 +1,132 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "12342",
+    "name": "Analog current-sense amplifiers with integrated shunt resistor"
+  },
+  "docType": {
+    "value": "21",
+    "name": "Design guide"
+  },
+  "totalPDFs": 23,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "Solar Power Line Communication Reference Design (Rev. C)"
+    },
+    {
+      "title": "Solar Power Line Communication Reference Design (Rev. C)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tiduf48",
+      "size": "1122"
+    },
+    {
+      "title": "Radiation-Hardened Space Battery Management System (BMS) Reference Design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tiduf32",
+      "size": "845"
+    },
+    {
+      "title": "48V, 3.5kW Small Form-Factor Three-Phase Inverter Reference Design for Integrated Motor Drives (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tiduf82",
+      "size": "2508"
+    },
+    {
+      "title": "Low-Cost Blood Pressure and Heart Rate Monitor Reference Design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tiduf53",
+      "size": "3046"
+    },
+    {
+      "title": "Automotive High-Voltage and Isolation Leakage Measurements Reference Design (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidudj6",
+      "size": "2244"
+    },
+    {
+      "title": "Ref. Des. Maximizing Transimpedance Bandwidth for LIDAR & ToF Applications (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tiduel3",
+      "size": "1835"
+    },
+    {
+      "title": "LCR Meter Analog Front-End Reference Design (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidueu6",
+      "size": "1995"
+    },
+    {
+      "title": "Cascaded high-gain active LPF reference design for high-impedance applications (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidueh7",
+      "size": "1453"
+    },
+    {
+      "title": "TIDA-01359 Audio-OPA1632EVM Audio Interface Board Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidud13",
+      "size": "2451"
+    },
+    {
+      "title": "–48-V Telecom Current, Voltage, and Power Sense With Isolation Reference Design (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu361",
+      "size": "975"
+    },
+    {
+      "title": "High-Speed, High-Side Current Sense Reference Design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tiduc40",
+      "size": "1179"
+    },
+    {
+      "title": "High-Precision Reference Design for Buffering a DAC Signal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tiduct8",
+      "size": "5124"
+    },
+    {
+      "title": "Wi-Fi Enabled Level 1 Level 2 Electric Vehicle Service Equipment Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidubv2",
+      "size": "5541"
+    },
+    {
+      "title": "Extending Bandwith of the OPA857 Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidubx7",
+      "size": "1207"
+    },
+    {
+      "title": "High Accuracy AC Current Measurement Using PCB Rogowski Coil Sensor Design Guide (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidubv4",
+      "size": "1704"
+    },
+    {
+      "title": "Software Pacemaker Detection Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidub75",
+      "size": "1285"
+    },
+    {
+      "title": "Optical Front-End System Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tiduaz1",
+      "size": "4180"
+    },
+    {
+      "title": "30-A Range Bidirectional Current Shunt Monitor Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidua90",
+      "size": "612"
+    },
+    {
+      "title": "Dynamic Field-Powered NFC for Data Logging, Access Control, and Security Apps (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu378",
+      "size": "1124"
+    },
+    {
+      "title": "High-Precision Analog Front-End Amplifier and Peripherals for MCCB Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu224",
+      "size": "1954"
+    },
+    {
+      "title": "EMC Compliant High-Side Current Sensing With Overvoltage Protection Design Guide",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu227",
+      "size": "2341"
+    },
+    {
+      "title": "Wide-Bandwidth and High-Voltage Arbitrary Waveform Generator Front End",
+      "pdfUrl": "https://www.ti.com/lit/pdf/tidu129",
+      "size": "1360"
+    }
+  ]
+}

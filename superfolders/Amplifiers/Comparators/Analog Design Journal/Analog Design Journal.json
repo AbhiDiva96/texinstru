@@ -1,0 +1,627 @@
+{
+  "product": {
+    "value": "57",
+    "name": "Amplifiers"
+  },
+  "subProduct": {
+    "value": "50002",
+    "name": "Comparators"
+  },
+  "docType": {
+    "value": "19",
+    "name": "Analog Design Journal"
+  },
+  "totalPDFs": 122,
+  "pdfs": [
+    {
+      "title": "Select multiple",
+      "pdfUrl": "javascript:showHide('checkboxdoctype','dropdowndoctype');",
+      "size": "Analog Design Journal: Issue 3 2024"
+    },
+    {
+      "title": "Analog Design Journal: Issue 3 2024",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt861",
+      "size": "1248"
+    },
+    {
+      "title": "기본 연산 증폭기 안정성에 대한 개요",
+      "pdfUrl": "https://www.ti.com/lit/pdf/kokt117",
+      "size": "390"
+    },
+    {
+      "title": "基本運算放大器穩定性概覽",
+      "pdfUrl": "https://www.ti.com/lit/pdf/nest127",
+      "size": "548"
+    },
+    {
+      "title": "An overview on basic operational amplifier stability",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt858",
+      "size": "284"
+    },
+    {
+      "title": "Impact of voltage reference noise on ADC ENOB and noise-free resolution",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt854",
+      "size": "468"
+    },
+    {
+      "title": "電壓參考雜訊對 ADC ENOB 及無雜訊解 析度的影響",
+      "pdfUrl": "https://www.ti.com/lit/pdf/nest065",
+      "size": "726"
+    },
+    {
+      "title": "ADC ENOB 및 잡음 없는 해상도에 전압 레퍼런스 잡음이 미치는 영향",
+      "pdfUrl": "https://www.ti.com/lit/pdf/kokt065",
+      "size": "575"
+    },
+    {
+      "title": "比較雙電源分離式與整合式儀器放大器",
+      "pdfUrl": "https://www.ti.com/lit/pdf/nest013",
+      "size": "520"
+    },
+    {
+      "title": "듀얼 공급 이산형과 일체형 계측 증폭기의 비교",
+      "pdfUrl": "https://www.ti.com/lit/pdf/kokt013",
+      "size": "383"
+    },
+    {
+      "title": "Comparing dual-supply discrete and integrated instrumentation amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt840",
+      "size": "270"
+    },
+    {
+      "title": "Optimizing input and output transient settling times in amplifier circuits",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt817",
+      "size": "363"
+    },
+    {
+      "title": "Current sensing in high‐power USB Type‐C applications",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT805",
+      "size": "191"
+    },
+    {
+      "title": "Comparing two‐wire microphone circuits for automotive applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt794",
+      "size": "204"
+    },
+    {
+      "title": "Precision signal conditioning for safety-enabled AIMs in factory automation",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt783",
+      "size": "187"
+    },
+    {
+      "title": "Maximizing the dynamic range of analog fronts ends having a transimpedance amp",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt773",
+      "size": "147"
+    },
+    {
+      "title": "Precision signal-conditioning solutions for motor control with position feedback",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt776",
+      "size": "420"
+    },
+    {
+      "title": "Easily improve the performance of analog circuits with decompensated amplifiers (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt767",
+      "size": "130"
+    },
+    {
+      "title": "High-side current sources for industrial applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt768",
+      "size": "128"
+    },
+    {
+      "title": "Q3 2009 Issue Analog Applications Journal",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT337",
+      "size": "2067"
+    },
+    {
+      "title": "Q4 2009 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt354",
+      "size": "1041"
+    },
+    {
+      "title": "Second-sourcing options for small-package amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt744",
+      "size": "587"
+    },
+    {
+      "title": "Design and analysis of a TGC circuit to drive the control voltage",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt721",
+      "size": "488"
+    },
+    {
+      "title": "Measuring the linear operating region of instrumentation amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt690",
+      "size": "3050"
+    },
+    {
+      "title": "Ratiometric measurement in the context of LVDT-sensor signal conditioning",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt680",
+      "size": "228"
+    },
+    {
+      "title": "How to compare your circuit requirements to active-filter approximations",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt681",
+      "size": "860"
+    },
+    {
+      "title": "Linear operating region of two-op-amp instrumentation amplifiers with gain stage",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt683",
+      "size": "778"
+    },
+    {
+      "title": "Using op amps to reduce near-field EMI on PCBs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt660",
+      "size": "166"
+    },
+    {
+      "title": "Automating amplifier circuit design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt662",
+      "size": "1670"
+    },
+    {
+      "title": "VCM vs. VOUT plots for instrumentation amplifiers with two op amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt647",
+      "size": "632"
+    },
+    {
+      "title": "4Q 2015 Analog Applications Journal",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT652",
+      "size": "1560"
+    },
+    {
+      "title": "Design tips for a resistive-bridge pressure sensor in industrial process-control",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt640",
+      "size": "240"
+    },
+    {
+      "title": "Analog Applications Journal 3Q 2015",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt642",
+      "size": "7101"
+    },
+    {
+      "title": "How to Design an Inexpensive HART Transmitter (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt491",
+      "size": "317"
+    },
+    {
+      "title": "Accurately measuring ADC driving-circuit settling time (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt262",
+      "size": "107"
+    },
+    {
+      "title": "Tips and tricks for high-speed, high-voltage measurement",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt627",
+      "size": "584"
+    },
+    {
+      "title": "Stabilizing difference amplifiers for headphone applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt630",
+      "size": "670"
+    },
+    {
+      "title": "Analog Applications Journal 2Q 2015",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt631",
+      "size": "2533"
+    },
+    {
+      "title": "Reducing distortion from CMOS analog switches",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt612",
+      "size": "375"
+    },
+    {
+      "title": "Distortion and source impedance in JFET-input op amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt595",
+      "size": "182"
+    },
+    {
+      "title": "SPICE models for Precision DACs",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt596",
+      "size": "751"
+    },
+    {
+      "title": "Analog Applications Journal 4Q 2014",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt600",
+      "size": "1761"
+    },
+    {
+      "title": "System telemetry: What, why and how?",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt571",
+      "size": "114"
+    },
+    {
+      "title": "Industrial-strength design considerations to prevent thermal and EMI damage",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt573",
+      "size": "282"
+    },
+    {
+      "title": "Analog Applications Journal 4Q 2003 (Rev. A)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt051",
+      "size": "682"
+    },
+    {
+      "title": "4Q 2012 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt486",
+      "size": "3268"
+    },
+    {
+      "title": "Harnessing wasted energy in 4- to 20-mA current-loop systems",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt488",
+      "size": "585"
+    },
+    {
+      "title": "2Q 2012 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt464",
+      "size": "2431"
+    },
+    {
+      "title": "Source resistance and noise considerations in amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt470",
+      "size": "191"
+    },
+    {
+      "title": "1Q 2012 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt447",
+      "size": "2411"
+    },
+    {
+      "title": "Measuring op-amp settling time by using sample-and-hold technique",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt452",
+      "size": "191"
+    },
+    {
+      "title": "4Q 2011 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt437",
+      "size": "943"
+    },
+    {
+      "title": "Analog linearization of resistance temperature detectors",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT442",
+      "size": "152"
+    },
+    {
+      "title": "3Q 2011 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt421",
+      "size": "1424"
+    },
+    {
+      "title": "Converting single-ended video to differential video in single-supply systems",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT427",
+      "size": "293"
+    },
+    {
+      "title": "Using single-supply fully diff. amps with neg. input voltages to drive ADCs",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT394",
+      "size": "105"
+    },
+    {
+      "title": "3Q 2010 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt378",
+      "size": "1470"
+    },
+    {
+      "title": "Operational amplifier gain stability, Part 3: AC gain-error analysis",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt383",
+      "size": "167"
+    },
+    {
+      "title": "2Q 2010 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt370",
+      "size": "1556"
+    },
+    {
+      "title": "Operational amplifier gain stability, Part 2: DC gain-error analysis",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt374",
+      "size": "167"
+    },
+    {
+      "title": "Signal conditioning piezoelectric sensors (AAJ)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt369",
+      "size": "870"
+    },
+    {
+      "title": "How the voltage reference affects ADC performance, Part 3",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt355",
+      "size": "655"
+    },
+    {
+      "title": "Using fully differential op amps as attenuators, Part 3",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT359",
+      "size": "568"
+    },
+    {
+      "title": "Interfacing op amps to high-speed DACs, Part 2: Current-sourcing DACs",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT360",
+      "size": "617"
+    },
+    {
+      "title": "Using fully differential op amps as attenuators, Part 2",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT341",
+      "size": "531"
+    },
+    {
+      "title": "Interfacing op amps to high-speed DACs, Part 1: Current-sinking DACs",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT342",
+      "size": "319"
+    },
+    {
+      "title": "Using infinite-gain, MFB filter topology in fully differential active filters",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt343",
+      "size": "571"
+    },
+    {
+      "title": "Using fully differential op amps as attenuators, Part 1",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT336",
+      "size": "554"
+    },
+    {
+      "title": "Q1 2009 Issue Analog Applications Journal",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT319",
+      "size": "1426"
+    },
+    {
+      "title": "Output impedance matching with fully differential operational amplifiers",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT326",
+      "size": "747"
+    },
+    {
+      "title": "Q4 2008 Issue Analog Applications Journal",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT305",
+      "size": "1488"
+    },
+    {
+      "title": "Input impedance matching with fully differential amplifiers",
+      "pdfUrl": "http://www.ti.com/lit/pdf/SLYT310",
+      "size": "643"
+    },
+    {
+      "title": "A dual-polarity, bidirectional current-shunt monitor",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt311",
+      "size": "704"
+    },
+    {
+      "title": "A new filter topology for analog high-pass filters",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt299",
+      "size": "229"
+    },
+    {
+      "title": "Q2 2007 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt268",
+      "size": "1391"
+    },
+    {
+      "title": "New zero-drift amplifier has an IQ of 17 μA",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt272",
+      "size": "357"
+    },
+    {
+      "title": "Q1 2007 Issue Analog Applications Journal",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt258",
+      "size": "343"
+    },
+    {
+      "title": "Matching the noise performance of the operational amplifier to the ADC",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt237",
+      "size": "204"
+    },
+    {
+      "title": "Wide-input dc/dc modules offer maximum design flexibility",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt239",
+      "size": "272"
+    },
+    {
+      "title": "Low-cost current-shunt monitor IC revives moving-coil meter design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt242",
+      "size": "208"
+    },
+    {
+      "title": "High-speed notch filters",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt235",
+      "size": "1273"
+    },
+    {
+      "title": "Low-power, high-intercept interface to the ADS5424, 105-MSPS converter",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt223",
+      "size": "478"
+    },
+    {
+      "title": "Getting the most out of your instrumentation amplifier design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt226",
+      "size": "177"
+    },
+    {
+      "title": "An audio circuit collection, Part 1",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt155",
+      "size": "285"
+    },
+    {
+      "title": "Thermistor temperature transducer-to-ADC application",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt156",
+      "size": "275"
+    },
+    {
+      "title": "Analysis of fully differential amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt157",
+      "size": "295"
+    },
+    {
+      "title": "Design of op amp sine wave oscillators",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt164",
+      "size": "270"
+    },
+    {
+      "title": "Fully differential amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt165",
+      "size": "311"
+    },
+    {
+      "title": "The PCB is a component of op amp design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt166",
+      "size": "268"
+    },
+    {
+      "title": "Reducing PCB design costs: From schematic capture to PCB layout",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt167",
+      "size": "191"
+    },
+    {
+      "title": "Sensor to ADC--analog interface design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt173",
+      "size": "322"
+    },
+    {
+      "title": "Using a decompensated op amp for improved performance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt174",
+      "size": "352"
+    },
+    {
+      "title": "The operation of the SAR-ADC based on charge redistribution",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt176",
+      "size": "150"
+    },
+    {
+      "title": "Matching operational amplifier bandwidth with application",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt181",
+      "size": "238"
+    },
+    {
+      "title": "Single-supply op amp design",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt189",
+      "size": "244"
+    },
+    {
+      "title": "Reducing crosstalk of an op amp on a PCB",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt190",
+      "size": "283"
+    },
+    {
+      "title": "Designing for low distortion with high-speed op amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt133",
+      "size": "277"
+    },
+    {
+      "title": "Fully differential amplifiers applications:Line termination,driving high-speed..",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt143",
+      "size": "255"
+    },
+    {
+      "title": "Pressure transducer-to-ADC application",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt144",
+      "size": "269"
+    },
+    {
+      "title": "Frequency response errors in voltage feedback op amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt146",
+      "size": "266"
+    },
+    {
+      "title": "Calculating noise figure in op amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt094",
+      "size": "166"
+    },
+    {
+      "title": "Video switcher using high-speed op amps",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt098",
+      "size": "156"
+    },
+    {
+      "title": "Expanding the usability of current-feedback amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt099",
+      "size": "215"
+    },
+    {
+      "title": "Analyzing feedback loops containing secondary amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt103",
+      "size": "160"
+    },
+    {
+      "title": "Active output impedance for ADSL line drivers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt108",
+      "size": "174"
+    },
+    {
+      "title": "Using high-speed op amps for high-performance RF design, Part 2",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt112",
+      "size": "184"
+    },
+    {
+      "title": "FilterPro low-pass design tool",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt113",
+      "size": "314"
+    },
+    {
+      "title": "Fully differential amplifier design in high-speed data acquisition systems",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt119",
+      "size": "285"
+    },
+    {
+      "title": "Worst-case design of op amp circuits",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt120",
+      "size": "213"
+    },
+    {
+      "title": "Using high-speed op amps for high-performance RF design, Part 1",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt121",
+      "size": "218"
+    },
+    {
+      "title": "Analog design tools",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt122",
+      "size": "404"
+    },
+    {
+      "title": "Audio power amplifier measurements, Part 2",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt128",
+      "size": "218"
+    },
+    {
+      "title": "Active filters using current-feedback amplifiers",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt081",
+      "size": "227"
+    },
+    {
+      "title": "Op amp stability and input capacitance",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt087",
+      "size": "173"
+    },
+    {
+      "title": "Integrated logarithmic amplifiers for industrial applications",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt088",
+      "size": "174"
+    },
+    {
+      "title": "Analog Applications Journal, Q3, 2004 On-Line Issue",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt060",
+      "size": "418"
+    },
+    {
+      "title": "Analog Applications Journal Q1, 2004 On-Line Issue",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt053",
+      "size": "344"
+    },
+    {
+      "title": "Analog Applications Journal Q3, 2003 on-line issue (Rev. B)",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt047",
+      "size": "385"
+    },
+    {
+      "title": "Analog Applications Journal Q1, 2003 on-line issue",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt045",
+      "size": "198"
+    },
+    {
+      "title": "Analog Applications Journal Q4, 2002 on-line issue",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt042",
+      "size": "327"
+    },
+    {
+      "title": "Analog Applications Journal Q3, 2002 on-line issue",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt039",
+      "size": "711"
+    },
+    {
+      "title": "Analog Applications Journal Q2, 2002 on-line issue",
+      "pdfUrl": "https://www.ti.com/lit/pdf/slyt034",
+      "size": "2337"
+    }
+  ]
+}
